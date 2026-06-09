@@ -43547,6 +43547,578 @@
     ]
   },
   {
+    "detail_url": "https://member.pkcargo.com/shops/11467",
+    "scraped_at": "09/06/2026 07:34:30",
+    "order_id": "PN-1275#S11467",
+    "date": "09/06/2026 11:05",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 2,700.00 หยวน",
+      "net_thb": "13,365.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13168",
+        "products": [
+          {
+            "name": "5210Y直流电动隔膜泵功率80瓦流量6L/min扬程60米酒水自饮机增压",
+            "options": "ตัวเลือกสินค้า: 5210YA-24-80",
+            "price_cny": "¥ 135.00",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 2,700.00",
+            "total_thb": "฿ 13,365.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 06-GREEN07-24VDC ราคาเดิม 135 หยวน"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥2,700.00",
+          "total_qty": "20",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥2,700.00",
+          "total_all_thb": "฿13,365.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11466",
+    "scraped_at": "09/06/2026 07:34:30",
+    "order_id": "PN-1275#S11466",
+    "date": "09/06/2026 10:54",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 650.00 หยวน",
+      "net_thb": "3,217.50 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13167",
+        "products": [
+          {
+            "name": "304不锈钢扇形喷嘴2分外丝喷淋雾化清洗喷头 规格齐全 厂家直供",
+            "options": "ตัวเลือกสินค้า: 2分—6520",
+            "price_cny": "¥ 2.80",
+            "qty": "50.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 140.00",
+            "total_thb": "฿ 693.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-CCSS-02-6520"
+          },
+          {
+            "name": "格强工业锥形喷嘴 实心锥形雾化喷嘴头304不锈钢实心锥形水雾喷头",
+            "options": "ตัวเลือกสินค้า: 2分1.0MM孔径",
+            "price_cny": "¥ 7.00",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 210.00",
+            "total_thb": "฿ 1,039.50",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-BBSS-02-6510"
+          },
+          {
+            "name": "格强工业锥形喷嘴 实心锥形雾化喷嘴头304不锈钢实心锥形水雾喷头",
+            "options": "ตัวเลือกสินค้า: 3分3.5MM孔径",
+            "price_cny": "¥ 10.00",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 300.00",
+            "total_thb": "฿ 1,485.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-BBSS-03-6535"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥650.00",
+          "total_qty": "110",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥650.00",
+          "total_all_thb": "฿3,217.50"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11465",
+    "scraped_at": "09/06/2026 07:34:32",
+    "order_id": "PN-1275#S11465",
+    "date": "09/06/2026 10:44",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 149.50 หยวน",
+      "net_thb": "740.03 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13166",
+        "products": [
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （4分）红色",
+            "price_cny": "¥ 0.46",
+            "qty": "130.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 59.80",
+            "total_thb": "฿ 296.01",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-04-120"
+          },
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （6分）红色",
+            "price_cny": "¥ 0.58",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 34.80",
+            "total_thb": "฿ 172.26",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-06-120"
+          },
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （2分）红色",
+            "price_cny": "¥ 0.23",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 6.90",
+            "total_thb": "฿ 34.16",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-02-120"
+          },
+          {
+            "name": "塑料ABS吹风喷嘴2分吹风喷嘴压缩空气扁型喷头F型727风刀吹气嘴",
+            "options": "ตัวเลือกสินค้า: 2分三孔固定蓝色外螺纹",
+            "price_cny": "¥ 1.60",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 48.00",
+            "total_thb": "฿ 237.60",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: AIR-FLT-47-02BL"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥149.50",
+          "total_qty": "250",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥149.50",
+          "total_all_thb": "฿740.03"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11464",
+    "scraped_at": "09/06/2026 07:34:32",
+    "order_id": "PN-1275#S11464",
+    "date": "09/06/2026 10:25",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ตัวที่มีกรอง เอาเบอร์ 8 ก้าน 6 มิล มีกรอง ห้ามส่งผิด ไม่มีในตัวเลือกสินค้า พิมพ์โลโก้ MR.THAI WATER ต่อรองราคาให้ด้วยครับ",
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 1,400.00 หยวน",
+      "net_thb": "6,930.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13165",
+        "products": [
+          {
+            "name": "黄铜快插式低压雾化喷嘴 细雾降温加湿除尘雾化 精细喷头工业加湿",
+            "options": "ตัวเลือกสินค้า: φ8-3010（3号）两节",
+            "price_cny": "¥ 1.00",
+            "qty": "800.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 800.00",
+            "total_thb": "฿ 3,960.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 03-FLS-813"
+          },
+          {
+            "name": "黄铜快插式低压雾化喷嘴 细雾降温加湿除尘雾化 精细喷头工业加湿",
+            "options": "ตัวเลือกสินค้า: φ8-5010（5号）两节",
+            "price_cny": "¥ 1.00",
+            "qty": "300.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 300.00",
+            "total_thb": "฿ 1,485.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 03-FLS-815"
+          },
+          {
+            "name": "黄铜快插式低压雾化喷嘴 细雾降温加湿除尘雾化 精细喷头工业加湿",
+            "options": "ตัวเลือกสินค้า: φ6-5010（5号）三节",
+            "price_cny": "¥ 1.00",
+            "qty": "300.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 300.00",
+            "total_thb": "฿ 1,485.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: ไม่มีในตัวเลือกสินค้า 03-FLS-628 φ6-8010（8号）三节 ห้ามส่งผิด เบอร์ 8 มีกรอง ก้าน 6 มิล"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥1,400.00",
+          "total_qty": "1400",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥1,400.00",
+          "total_all_thb": "฿6,930.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11463",
+    "scraped_at": "09/06/2026 07:34:34",
+    "order_id": "PN-1275#S11463",
+    "date": "09/06/2026 10:11",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ราคาเดิม 28 หยวน ติดสติ๊กเกอร์ THAI WATER",
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 2,079.20 หยวน",
+      "net_thb": "10,292.04 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13164",
+        "products": [
+          {
+            "name": "厂家供应微型水泵AW500家用小型太阳能增压泵微型直流潜水泵",
+            "options": "ตัวเลือกสินค้า: DC12V 60度以下水温",
+            "price_cny": "¥ 25.99",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 779.70",
+            "total_thb": "฿ 3,859.52",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 06-AW500-12VDC-B ต้องการสายไฟแบบมีแจ็ค = 30 ตัว"
+          },
+          {
+            "name": "AW500S小型潜水泵迷你微型直流无刷循环潜水泵微型泵直流潜水泵",
+            "options": "ตัวเลือกสินค้า: DC12V 60度以下水温",
+            "price_cny": "¥ 25.99",
+            "qty": "50.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 1,299.50",
+            "total_thb": "฿ 6,432.53",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 06-AW500S-12VDC-B ต้องการสายไฟแบบมีแจ็ค = 50 ตัว"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥2,079.20",
+          "total_qty": "80",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥2,079.20",
+          "total_all_thb": "฿10,292.04"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11462",
+    "scraped_at": "09/06/2026 07:34:34",
+    "order_id": "PN-1275#S11462",
+    "date": "09/06/2026 10:07",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "8.00 หยวน",
+      "net_cny": "¥ 1,050.00 หยวน",
+      "net_thb": "5,237.10 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13163",
+        "products": [
+          {
+            "name": "超声波雾化板工业鱼缸水池盆景假山景观十头六加湿雾化器造雾板",
+            "options": "ตัวเลือกสินค้า: 4头雾化板+防水电源+浮漂",
+            "price_cny": "¥ 175.00",
+            "qty": "6.00",
+            "ship_cny": "¥ 8.00",
+            "total_cny": "¥ 1,050.00",
+            "total_thb": "฿ 5,197.50",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 03-NS-4T-5M"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥1,050.00",
+          "total_qty": "6",
+          "total_ship_cny": "¥8.00",
+          "total_all_cny": "¥1,050.00",
+          "total_all_thb": "฿5,197.50"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11461",
+    "scraped_at": "09/06/2026 07:34:35",
+    "order_id": "PN-1275#S11461",
+    "date": "09/06/2026 10:02",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "20.00 หยวน",
+      "net_cny": "¥ 240.00 หยวน",
+      "net_thb": "1,287.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13162",
+        "products": [
+          {
+            "name": "24V3A电源适配器24V1.5A24V2ALED灯带 补光灯美甲仪水泵开关电源",
+            "options": "ตัวเลือกสินค้า: 24V2A美规US（1.5A)",
+            "price_cny": "¥ 8.00",
+            "qty": "30.00",
+            "ship_cny": "¥ 20.00",
+            "total_cny": "¥ 240.00",
+            "total_thb": "฿ 1,188.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 08-AD-JCY2402"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥240.00",
+          "total_qty": "30",
+          "total_ship_cny": "¥20.00",
+          "total_all_cny": "¥240.00",
+          "total_all_thb": "฿1,188.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11460",
+    "scraped_at": "09/06/2026 07:34:36",
+    "order_id": "PN-1275#S11460",
+    "date": "09/06/2026 10:01",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 740.00 หยวน",
+      "net_thb": "3,663.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13161",
+        "products": [
+          {
+            "name": "外贸专用开关电源12V5A10A20A30A60W120W180W240W360WLED监控电源",
+            "options": "ตัวเลือกสินค้า: S-300-12",
+            "price_cny": "¥ 37.00",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 740.00",
+            "total_thb": "฿ 3,663.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 09-S-300-12 ราคาเดิม 36 หยวน"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥740.00",
+          "total_qty": "20",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥740.00",
+          "total_all_thb": "฿3,663.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11458",
+    "scraped_at": "09/06/2026 07:34:37",
+    "order_id": "PN-1275#S11458",
+    "date": "09/06/2026 09:58",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "22.00 หยวน",
+      "net_cny": "¥ 161.20 หยวน",
+      "net_thb": "906.84 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13159",
+        "products": [
+          {
+            "name": "对丝外丝转换接头4分补心直接内外接内接变径内螺纹外螺纹",
+            "options": "ตัวเลือกสินค้า: 补心1分-2分",
+            "price_cny": "¥ 0.55",
+            "qty": "50.00",
+            "ship_cny": "¥ 22.00",
+            "total_cny": "¥ 27.50",
+            "total_thb": "฿ 136.13",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BSR01-02"
+          },
+          {
+            "name": "PC直通接头气管快速接头PU快插PL接头气泵配件气动连接件4分螺纹",
+            "options": "ตัวเลือกสินค้า: PL10-02",
+            "price_cny": "¥ 0.77",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 46.20",
+            "total_thb": "฿ 228.69",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPL10-02-BK"
+          },
+          {
+            "name": "PC直通接头气管快速接头PU快插PL接头气泵配件气动连接件4分螺纹",
+            "options": "ตัวเลือกสินค้า: PL10-03",
+            "price_cny": "¥ 0.98",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 19.60",
+            "total_thb": "฿ 97.02",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPL10-03-BK"
+          },
+          {
+            "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
+            "options": "ตัวเลือกสินค้า: PM-6",
+            "price_cny": "¥ 0.97",
+            "qty": "70.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 67.90",
+            "total_thb": "฿ 336.11",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPM06-BK"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥161.20",
+          "total_qty": "200",
+          "total_ship_cny": "¥22.00",
+          "total_all_cny": "¥161.20",
+          "total_all_thb": "฿797.94"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11457",
+    "scraped_at": "09/06/2026 07:34:38",
+    "order_id": "PN-1275#S11457",
+    "date": "09/06/2026 09:41",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "28.00 หยวน",
+      "net_cny": "¥ 275.00 หยวน",
+      "net_thb": "1,499.85 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13158",
+        "products": [
+          {
+            "name": "厂家直营铜喷枪 节喷雾器直喷枪 背负式动力喷雾 小铜喷头65",
+            "options": "ตัวเลือกสินค้า: 14平头子弹头喷头",
+            "price_cny": "¥ 1.10",
+            "qty": "250.00",
+            "ship_cny": "¥ 28.00",
+            "total_cny": "¥ 275.00",
+            "total_thb": "฿ 1,361.25",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 14-A-001"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥275.00",
+          "total_qty": "250",
+          "total_ship_cny": "¥28.00",
+          "total_all_cny": "¥275.00",
+          "total_all_thb": "฿1,361.25"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11281",
     "scraped_at": "09/06/2026 01:51:30",
     "order_id": "PN-1275#S11281",
@@ -48326,18 +48898,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11455",
-    "scraped_at": "09/06/2026 01:49:35",
+    "scraped_at": "09/06/2026 07:34:39",
     "order_id": "PN-1275#S11455",
     "date": "08/06/2026 17:37",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "22.00 หยวน",
       "net_cny": "¥ 1,820.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "9,117.90 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48349,7 +48921,7 @@
             "options": "ตัวเลือกสินค้า: XC-601-IE遥控器6站",
             "price_cny": "¥ 630.00",
             "qty": "2.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 22.00",
             "total_cny": "¥ 1,260.00",
             "total_thb": "฿ 6,237.00",
             "extra_cny": "¥ 0.00",
@@ -48372,7 +48944,7 @@
         "table_totals": {
           "total_price_cny": "¥1,820.00",
           "total_qty": "3",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥22.00",
           "total_all_cny": "¥1,820.00",
           "total_all_thb": "฿9,009.00"
         },
@@ -48382,18 +48954,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11454",
-    "scraped_at": "09/06/2026 01:49:35",
+    "scraped_at": "09/06/2026 07:34:39",
     "order_id": "PN-1275#S11454",
     "date": "08/06/2026 17:21",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": "0.00 หยวน",
-      "net_cny": "¥ 1,525.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_cny": "¥ 1,340.00 หยวน",
+      "net_thb": "6,633.00 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48403,11 +48975,11 @@
           {
             "name": "4寸换气扇排风扇排风机电动风机直流强吸力小型微型循环自动工业",
             "options": "ตัวเลือกสินค้า: SFIB1-270-02 24V",
-            "price_cny": "¥ 63.00",
+            "price_cny": "¥ 55.00",
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
-            "total_cny": "¥ 1,260.00",
-            "total_thb": "฿ 6,237.00",
+            "total_cny": "¥ 1,100.00",
+            "total_thb": "฿ 5,445.00",
             "extra_cny": "¥ 0.00",
             "item_note": "-",
             "item_internal_note": "หมายเหตุ: 06-SFIB2-270-02 ราคาเดิม 55 หยวน"
@@ -48415,22 +48987,22 @@
           {
             "name": "3寸直流电动直筒抽风机游艇房车强力换气排风扇排风机中压风机",
             "options": "ตัวเลือกสินค้า: SFIB1-130-01 12V",
-            "price_cny": "¥ 53.00",
+            "price_cny": "¥ 48.00",
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
-            "total_cny": "¥ 265.00",
-            "total_thb": "฿ 1,311.75",
+            "total_cny": "¥ 240.00",
+            "total_thb": "฿ 1,188.00",
             "extra_cny": "¥ 0.00",
             "item_note": "-",
             "item_internal_note": "หมายเหตุ: 06-SFIB1-130-01 ราคาเดิม 48 หยวน"
           }
         ],
         "table_totals": {
-          "total_price_cny": "¥1,525.00",
+          "total_price_cny": "¥1,340.00",
           "total_qty": "25",
           "total_ship_cny": "¥0.00",
-          "total_all_cny": "¥1,525.00",
-          "total_all_thb": "฿7,548.75"
+          "total_all_cny": "¥1,340.00",
+          "total_all_thb": "฿6,633.00"
         },
         "tracking_numbers": []
       }
@@ -48438,18 +49010,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11453",
-    "scraped_at": "09/06/2026 01:49:37",
+    "scraped_at": "09/06/2026 07:34:41",
     "order_id": "PN-1275#S11453",
     "date": "08/06/2026 17:12",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "18.00 หยวน",
       "net_cny": "¥ 109.50 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "631.13 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48461,7 +49033,7 @@
             "options": "ตัวเลือกสินค้า: Φ14",
             "price_cny": "¥ 4.62",
             "qty": "10.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 18.00",
             "total_cny": "¥ 46.20",
             "total_thb": "฿ 228.69",
             "extra_cny": "¥ 0.00",
@@ -48496,7 +49068,7 @@
         "table_totals": {
           "total_price_cny": "¥109.50",
           "total_qty": "70",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥18.00",
           "total_all_cny": "¥109.50",
           "total_all_thb": "฿542.03"
         },
@@ -48506,10 +49078,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11452",
-    "scraped_at": "09/06/2026 01:49:37",
+    "scraped_at": "09/06/2026 07:34:41",
     "order_id": "PN-1275#S11452",
     "date": "08/06/2026 16:28",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -48517,7 +49089,7 @@
       "extra_pay": "0.00 หยวน",
       "china_shipping": "0.00 หยวน",
       "net_cny": "¥ 760.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "3,762.00 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48550,18 +49122,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11450",
-    "scraped_at": "09/06/2026 01:49:39",
+    "scraped_at": "09/06/2026 07:34:43",
     "order_id": "PN-1275#S11450",
     "date": "08/06/2026 16:21",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
-      "net_cny": "¥ 1,550.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "china_shipping": "40.00 หยวน",
+      "net_cny": "¥ 1,500.00 หยวน",
+      "net_thb": "7,623.00 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48571,22 +49143,22 @@
           {
             "name": "厂家直销 12V24V220V定时断电循环开关通断时间CN101A小型定时器",
             "options": "ตัวเลือกสินค้า:",
-            "price_cny": "¥ 15.50",
+            "price_cny": "¥ 15.00",
             "qty": "100.00",
-            "ship_cny": "¥ 0.00",
-            "total_cny": "¥ 1,550.00",
-            "total_thb": "฿ 7,672.50",
+            "ship_cny": "¥ 40.00",
+            "total_cny": "¥ 1,500.00",
+            "total_thb": "฿ 7,425.00",
             "extra_cny": "¥ 0.00",
             "item_note": "-",
             "item_internal_note": "หมายเหตุ: 10-CN101A-12VDC ไฟ 12V ราคาเดิม 15 หยวน"
           }
         ],
         "table_totals": {
-          "total_price_cny": "¥1,550.00",
+          "total_price_cny": "¥1,500.00",
           "total_qty": "100",
-          "total_ship_cny": "¥0.00",
-          "total_all_cny": "¥1,550.00",
-          "total_all_thb": "฿7,672.50"
+          "total_ship_cny": "¥40.00",
+          "total_all_cny": "¥1,500.00",
+          "total_all_thb": "฿7,425.00"
         },
         "tracking_numbers": []
       }
@@ -48594,18 +49166,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11449",
-    "scraped_at": "09/06/2026 01:49:39",
+    "scraped_at": "09/06/2026 07:34:43",
     "order_id": "PN-1275#S11449",
     "date": "08/06/2026 16:11",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "26.00 หยวน",
       "net_cny": "¥ 421.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "2,212.65 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48617,7 +49189,7 @@
             "options": "ตัวเลือกสินค้า: 立式止回阀DN40/1寸半",
             "price_cny": "¥ 32.50",
             "qty": "10.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 26.00",
             "total_cny": "¥ 325.00",
             "total_thb": "฿ 1,608.75",
             "extra_cny": "¥ 0.00",
@@ -48640,7 +49212,7 @@
         "table_totals": {
           "total_price_cny": "¥421.00",
           "total_qty": "20",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥26.00",
           "total_all_cny": "¥421.00",
           "total_all_thb": "฿2,083.95"
         },
@@ -48650,18 +49222,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11448",
-    "scraped_at": "09/06/2026 01:49:41",
+    "scraped_at": "09/06/2026 07:34:45",
     "order_id": "PN-1275#S11448",
     "date": "08/06/2026 16:03",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "10.00 หยวน",
       "net_cny": "¥ 615.00 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "3,093.75 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48673,7 +49245,7 @@
             "options": "ตัวเลือกสินค้า: 11cm太阳能板+喷泉",
             "price_cny": "¥ 20.50",
             "qty": "30.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 10.00",
             "total_cny": "¥ 615.00",
             "total_thb": "฿ 3,044.25",
             "extra_cny": "¥ 0.00",
@@ -48684,7 +49256,7 @@
         "table_totals": {
           "total_price_cny": "¥615.00",
           "total_qty": "30",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥10.00",
           "total_all_cny": "¥615.00",
           "total_all_thb": "฿3,044.25"
         },
@@ -48694,18 +49266,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11447",
-    "scraped_at": "09/06/2026 01:49:41",
+    "scraped_at": "09/06/2026 07:34:45",
     "order_id": "PN-1275#S11447",
     "date": "08/06/2026 15:13",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "30.00 หยวน",
       "net_cny": "¥ 310.05 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "1,683.25 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48717,7 +49289,7 @@
             "options": "ตัวเลือกสินค้า: 6.0酷耐特十字雾化喷头1个装（颜色随机）",
             "price_cny": "¥ 0.53",
             "qty": "585.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 30.00",
             "total_cny": "¥ 310.05",
             "total_thb": "฿ 1,534.75",
             "extra_cny": "¥ 0.00",
@@ -48728,7 +49300,7 @@
         "table_totals": {
           "total_price_cny": "¥310.05",
           "total_qty": "585",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥30.00",
           "total_all_cny": "¥310.05",
           "total_all_thb": "฿1,534.75"
         },
@@ -48738,18 +49310,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11446",
-    "scraped_at": "09/06/2026 01:49:43",
+    "scraped_at": "09/06/2026 07:34:47",
     "order_id": "PN-1275#S11446",
     "date": "08/06/2026 15:10",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: รอชำระเงิน",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "4.95 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "30.00 หยวน",
       "net_cny": "¥ 757.50 หยวน",
-      "net_thb": "0.00 บาท",
+      "net_thb": "3,898.13 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -48761,7 +49333,7 @@
             "options": "ตัวเลือกสินค้า: G型180度折射微喷头+4分牙接",
             "price_cny": "¥ 0.45",
             "qty": "600.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 30.00",
             "total_cny": "¥ 270.00",
             "total_thb": "฿ 1,336.50",
             "extra_cny": "¥ 0.00",
@@ -48808,7 +49380,7 @@
         "table_totals": {
           "total_price_cny": "¥757.50",
           "total_qty": "1100",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥30.00",
           "total_all_cny": "¥757.50",
           "total_all_thb": "฿3,749.63"
         },
@@ -48818,7 +49390,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11444",
-    "scraped_at": "09/06/2026 01:49:43",
+    "scraped_at": "09/06/2026 07:34:47",
     "order_id": "PN-1275#S11444",
     "date": "08/06/2026 11:07",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -54470,10 +55042,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11438",
-    "scraped_at": "09/06/2026 01:49:45",
+    "scraped_at": "09/06/2026 07:34:49",
     "order_id": "PN-1275#S11438",
     "date": "06/06/2026 16:26",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: ยกเลิกออเดอร์",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -54537,7 +55109,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11437",
-    "scraped_at": "09/06/2026 01:49:45",
+    "scraped_at": "09/06/2026 07:34:49",
     "order_id": "PN-1275#S11437",
     "date": "06/06/2026 16:25",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -54617,10 +55189,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11435",
-    "scraped_at": "09/06/2026 01:49:47",
+    "scraped_at": "09/06/2026 07:34:51",
     "order_id": "PN-1275#S11435",
     "date": "06/06/2026 12:03",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: ยกเลิกออเดอร์",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -54685,7 +55257,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11434",
-    "scraped_at": "09/06/2026 01:49:48",
+    "scraped_at": "09/06/2026 07:34:51",
     "order_id": "PN-1275#S11434",
     "date": "06/06/2026 12:00",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -54789,7 +55361,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11433",
-    "scraped_at": "09/06/2026 01:49:49",
+    "scraped_at": "09/06/2026 07:34:53",
     "order_id": "PN-1275#S11433",
     "date": "06/06/2026 11:52",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -54881,7 +55453,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11432",
-    "scraped_at": "09/06/2026 01:49:50",
+    "scraped_at": "09/06/2026 07:34:53",
     "order_id": "PN-1275#S11432",
     "date": "06/06/2026 11:08",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -54949,10 +55521,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11431",
-    "scraped_at": "09/06/2026 01:49:51",
+    "scraped_at": "09/06/2026 07:34:55",
     "order_id": "PN-1275#S11431",
     "date": "06/06/2026 10:41",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": "ราคาเดิม 24.69 หยวน ติดสติ๊กเกอร์ THAI WATER",
     "summary": {
@@ -55017,7 +55589,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11430",
-    "scraped_at": "09/06/2026 01:49:52",
+    "scraped_at": "09/06/2026 07:34:55",
     "order_id": "PN-1275#S11430",
     "date": "06/06/2026 10:29",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -55061,7 +55633,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11429",
-    "scraped_at": "09/06/2026 01:49:53",
+    "scraped_at": "09/06/2026 07:34:57",
     "order_id": "PN-1275#S11429",
     "date": "06/06/2026 10:27",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -55105,7 +55677,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11428",
-    "scraped_at": "09/06/2026 01:49:54",
+    "scraped_at": "09/06/2026 07:34:57",
     "order_id": "PN-1275#S11428",
     "date": "06/06/2026 10:23",
     "status": "สถานะ: รอเลขขนส่งจีน",
