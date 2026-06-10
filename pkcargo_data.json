@@ -1,5 +1,117 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11494",
+    "scraped_at": "10/06/2026 08:01:04",
+    "order_id": "PN-1275#S11494",
+    "date": "10/06/2026 15:00",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยรถ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 261.33 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13198",
+        "products": [
+          {
+            "name": "批发黄铜立式止回阀全铜加厚自来水管单向阀家用弹簧阀门倒流水阀",
+            "options": "ตัวเลือกสินค้า: DN40",
+            "price_cny": "¥ 28.11",
+            "qty": "3.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 84.33",
+            "total_thb": "฿ 417.43",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-12"
+          },
+          {
+            "name": "批发黄铜立式止回阀全铜加厚自来水管单向阀家用弹簧阀门倒流水阀",
+            "options": "ตัวเลือกสินค้า: DN20",
+            "price_cny": "¥ 8.85",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 177.00",
+            "total_thb": "฿ 876.15",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-06"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥261.33",
+          "total_qty": "23",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥261.33",
+          "total_all_thb": "฿1,293.58"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11493",
+    "scraped_at": "10/06/2026 08:01:04",
+    "order_id": "PN-1275#S11493",
+    "date": "10/06/2026 14:58",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 711.63 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13197",
+        "products": [
+          {
+            "name": "批发黄铜立式止回阀全铜加厚自来水管单向阀家用弹簧阀门倒流水阀",
+            "options": "ตัวเลือกสินค้า: DN20",
+            "price_cny": "¥ 8.85",
+            "qty": "55.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 486.75",
+            "total_thb": "฿ 2,409.41",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-06"
+          },
+          {
+            "name": "批发黄铜立式止回阀全铜加厚自来水管单向阀家用弹簧阀门倒流水阀",
+            "options": "ตัวเลือกสินค้า: DN40",
+            "price_cny": "¥ 28.11",
+            "qty": "8.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 224.88",
+            "total_thb": "฿ 1,113.16",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-12"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥711.63",
+          "total_qty": "63",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥711.63",
+          "total_all_thb": "฿3,522.57"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11492",
     "scraped_at": "10/06/2026 06:44:56",
     "order_id": "PN-1275#S11492",
