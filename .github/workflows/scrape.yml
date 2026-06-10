@@ -6,9 +6,9 @@ on:
   workflow_dispatch:
     inputs:
       max_pages:
-        description: Number of PK Cargo pages to scrape
+        description: Safety limit for incremental page scanning
         required: false
-        default: '1'
+        default: '10'
 
 concurrency:
   group: pk-cargo-scrape
@@ -40,7 +40,8 @@ jobs:
           PK_EMAIL: ${{ secrets.PK_EMAIL }}
           PK_PASSWORD: ${{ secrets.PK_PASSWORD }}
           PK_START_PAGE: 1
-          # Daily GitHub schedule scrapes 10 pages. External/manual dispatch defaults to 1 page.
+          PK_INCREMENTAL: ${{ github.event_name != 'schedule' && 'true' || 'false' }}
+          # Scheduled runs refresh 10 pages; external runs scan up to 10 pages for new orders.
           PK_MAX_PAGES: ${{ github.event_name == 'schedule' && '10' || inputs.max_pages }}
         run: |
           test -n "$PK_EMAIL" || (echo "::error::Missing PK_EMAIL secret" && exit 1)

@@ -48,8 +48,40 @@ def load_config():
         config["start_page"] = int(os.environ.get("PK_START_PAGE"))
     if os.environ.get("PK_MAX_PAGES"):
         config["max_pages"] = int(os.environ.get("PK_MAX_PAGES"))
+    if os.environ.get("PK_INCREMENTAL"):
+        config["incremental"] = os.environ.get("PK_INCREMENTAL", "").lower() in (
+            "1",
+            "true",
+            "yes",
+        )
 
     return config
+
+def load_existing_order_urls():
+    if not os.path.exists(DATA_PATH):
+        return set()
+    try:
+        with open(DATA_PATH, "r", encoding="utf-8") as f:
+            orders = json.load(f)
+        return {
+            str(order.get("detail_url", "")).strip()
+            for order in orders
+            if order.get("detail_url")
+        }
+    except (OSError, ValueError, TypeError):
+        return set()
+
+def select_new_order_urls(page_urls, existing_urls):
+    """Return unseen orders and whether this page reached known history."""
+    new_urls = []
+    reached_existing = False
+    for url_info in page_urls:
+        url = url_info[0]
+        if url in existing_urls:
+            reached_existing = True
+            break
+        new_urls.append(url_info)
+    return new_urls, reached_existing
 
 # ─────────────────────────────────────────────
 #  Driver Factory
@@ -475,14 +507,29 @@ def main():
         start_p = config.get("start_page", 1)
         max_p = config.get("max_pages", 0)
         end_p = min(start_p + max_p, total_pages + 1) if max_p > 0 else total_pages + 1
+        incremental = config.get("incremental", False)
+        existing_urls = load_existing_order_urls() if incremental else set()
 
         for p in range(start_p, end_p):
             log(f"[COLLECT] Page {p}/{total_pages}")
             urls = collector.collect_urls_from_page(p)
-            all_urls.extend(urls)
+            if incremental and existing_urls:
+                new_urls, reached_existing = select_new_order_urls(urls, existing_urls)
+                all_urls.extend(new_urls)
+                if reached_existing:
+                    log(
+                        f"[INCREMENTAL] Reached existing history on page {p}; "
+                        f"{len(all_urls)} new orders found."
+                    )
+                    break
+            else:
+                all_urls.extend(urls)
     finally: collector.close()
 
     if not all_urls:
+        if config.get("incremental", False):
+            log("[UP-TO-DATE] Latest PK Cargo order already exists; nothing to scrape.")
+            return
         raise RuntimeError("No PK Cargo order URLs found")
 
     num_workers = config.get("num_workers", 2)
