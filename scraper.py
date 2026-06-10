@@ -413,9 +413,18 @@ def save_to_json(new_data):
         # บันทึกทุกรายการรวมถึงที่ยกเลิกแล้ว
         data_map[order_id] = item
 
-    # นำข้อมูลมาเรียงลำดับตามวันที่
+    # Sort using a real datetime because dd/mm/yyyy cannot be ordered as text.
     final_data = list(data_map.values())
-    final_data.sort(key=lambda x: x.get('date', ''), reverse=True)
+    def parse_order_date(item):
+        raw = str(item.get("date", "") or "").strip()
+        for fmt in ("%d/%m/%Y %H:%M", "%d/%m/%Y"):
+            try:
+                return datetime.strptime(raw, fmt)
+            except ValueError:
+                continue
+        return datetime.min
+
+    final_data.sort(key=parse_order_date, reverse=True)
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
