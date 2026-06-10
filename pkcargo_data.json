@@ -1,5 +1,93 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11492",
+    "scraped_at": "10/06/2026 06:44:56",
+    "order_id": "PN-1275#S11492",
+    "date": "10/06/2026 12:50",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยรถ",
+    "order_note": "06-GREEN01-12VDC",
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 492.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13196",
+        "products": [
+          {
+            "name": "电动喷雾器水泵12V 农用直流水泵 微高压回流隔膜泵小型打药泵",
+            "options": "ตัวเลือกสินค้า: 12v",
+            "price_cny": "¥ 12.30",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 492.00",
+            "total_thb": "฿ 2,435.40",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 06-GREEN01-12VDC"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥492.00",
+          "total_qty": "40",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥492.00",
+          "total_all_thb": "฿2,435.40"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11491",
+    "scraped_at": "10/06/2026 06:44:56",
+    "order_id": "PN-1275#S11491",
+    "date": "10/06/2026 12:27",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยรถ",
+    "order_note": null,
+    "summary": {
+      "rate": "4.95 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 492.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13195",
+        "products": [
+          {
+            "name": "电动喷雾器水泵12V 农用直流水泵 微高压回流隔膜泵小型打药泵",
+            "options": "ตัวเลือกสินค้า: 12v",
+            "price_cny": "¥ 12.30",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 492.00",
+            "total_thb": "฿ 2,435.40",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 06-GREEN01-12VDC"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥492.00",
+          "total_qty": "40",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥492.00",
+          "total_all_thb": "฿2,435.40"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11490",
     "scraped_at": "10/06/2026 04:34:09",
     "order_id": "PN-1275#S11490",
