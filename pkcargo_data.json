@@ -1,5 +1,61 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11495",
+    "scraped_at": "10/06/2026 09:40:43",
+    "order_id": "PN-1275#S11495",
+    "date": "10/06/2026 16:37",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ไม่เอา us plug",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 2,110.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13199",
+        "products": [
+          {
+            "name": "24V6A桌面式开关电源适配器led水泵净水器马达电源24V5A6A8A10A12",
+            "options": "ตัวเลือกสินค้า: 24V5A含1.2米三插线",
+            "price_cny": "¥ 45.00",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 1,800.00",
+            "total_thb": "฿ 9,036.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 08-AD-YU2405 ราคาเดิม 35 หยวน ไม่เอา us plug"
+          },
+          {
+            "name": "跨境24V3A电源适配器开关LED灯带电源72W净水器泵电机直流电源24V",
+            "options": "ตัวเลือกสินค้า: 24V3A 含1.2米美规2插电源线",
+            "price_cny": "¥ 31.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 310.00",
+            "total_thb": "฿ 1,556.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 08-AD-YU2403 ไม่เอา US Plug ราคาเดิม 27 หยวน"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥2,110.00",
+          "total_qty": "50",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥2,110.00",
+          "total_all_thb": "฿10,592.20"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11494",
     "scraped_at": "10/06/2026 08:01:04",
     "order_id": "PN-1275#S11494",
