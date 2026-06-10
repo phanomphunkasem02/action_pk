@@ -12,7 +12,6 @@ from selenium.webdriver.support import expected_conditions as EC
 
 # Folder configuration for GitHub Environment
 # Folder configuration for GitHub Environment
-from google_drive_util import upload_file
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(SCRIPT_DIR, "config.json")
 DATA_PATH = os.path.join(SCRIPT_DIR, "pkcargo_data.json")
@@ -461,17 +460,17 @@ def sync_to_google_drive(new_data):
 
 def main():
     log("=" * 55)
-    log(f" PK CARGO SCRAPER (GITHUB + DRIVE SYNC)")
+    log(" PK CARGO SCRAPER (GITHUB SYNC)")
     log("=" * 55)
     config = load_config()
     if not config:
-        log("[CRITICAL] config or env vars missing.")
-        return
+        raise RuntimeError("config or environment credentials are missing")
 
     collector = PKCargoScraper(config)
     all_urls = []
     try:
-        if not collector.login(): return
+        if not collector.login():
+            raise RuntimeError("PK Cargo login failed")
         total_pages = collector.get_total_pages()
         start_p = config.get("start_page", 1)
         max_p = config.get("max_pages", 0)
@@ -484,8 +483,7 @@ def main():
     finally: collector.close()
 
     if not all_urls:
-        log("[INFO] No URLs found.")
-        return
+        raise RuntimeError("No PK Cargo order URLs found")
 
     num_workers = config.get("num_workers", 2)
     chunks = [all_urls[i::num_workers] for i in range(num_workers)]
@@ -496,14 +494,16 @@ def main():
             try: all_orders.extend(future.result())
             except Exception: pass
 
+    if not all_orders:
+        raise RuntimeError("PK Cargo order details could not be scraped")
+
     # 1. บันทึกลงไฟล์บน GitHub
     save_to_json(all_orders)
     
     # 3. อัปโหลดไฟล์ไฟล์ JSON เข้าไปที่ Google Drive โดยตรง
     try:
         # อัปโหลด pkcargo_data.json เข้าไปในโฟลเดอร์ PK
-        upload_file(DATA_PATH, "pkcargo_data.json", "PK")
-        log("[OK] pkcargo_data.json uploaded to Google Drive folder 'PK'!")
+        log("[INFO] Google Drive upload is disabled.")
     except Exception as e:
         log(f"[ERR] Failed to upload to GDrive directly: {e}")
 
