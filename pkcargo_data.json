@@ -1,5 +1,73 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11498",
+    "scraped_at": "11/06/2026 02:40:55",
+    "order_id": "PN-1275#S11498",
+    "date": "11/06/2026 09:37",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 483.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13203",
+        "products": [
+          {
+            "name": "双外丝变径快速转接头六角等径外对丝直接气动接头2寸变1.5寸(图)",
+            "options": "ตัวเลือกสินค้า: 4分，1/2*3分，3/8",
+            "price_cny": "¥ 1.80",
+            "qty": "110.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 198.00",
+            "total_thb": "฿ 993.96",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PM43"
+          },
+          {
+            "name": "双外丝变径快速转接头六角等径外对丝直接气动接头2寸变1.5寸(图)",
+            "options": "ตัวเลือกสินค้า: 1寸*1寸",
+            "price_cny": "¥ 5.77",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 115.40",
+            "total_thb": "฿ 579.31",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PM88"
+          },
+          {
+            "name": "双外丝变径快速转接头六角等径外对丝直接气动接头2寸变1.5寸(图)",
+            "options": "ตัวเลือกสินค้า: 1寸*4分，1/2",
+            "price_cny": "¥ 4.24",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 169.60",
+            "total_thb": "฿ 851.39",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PM84"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥483.00",
+          "total_qty": "170",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥483.00",
+          "total_all_thb": "฿2,424.66"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11495",
     "scraped_at": "10/06/2026 09:40:43",
     "order_id": "PN-1275#S11495",
