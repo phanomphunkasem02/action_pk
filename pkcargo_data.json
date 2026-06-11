@@ -1,5 +1,121 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11501",
+    "scraped_at": "11/06/2026 04:20:49",
+    "order_id": "PN-1275#S11501",
+    "date": "11/06/2026 11:07",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 950.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13206",
+        "products": [
+          {
+            "name": "供应6分进水电磁阀 塑料常闭电磁阀 平行两头螺纹6分 G3/4",
+            "options": "ตัวเลือกสินค้า: 6分平行*AC220V有压进水电磁阀",
+            "price_cny": "¥ 11.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 110.00",
+            "total_thb": "฿ 552.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD180B-220V-20B1"
+          },
+          {
+            "name": "厂家供应太阳能电磁阀 4分常闭 进水电磁阀 12v水阀 24v电磁阀",
+            "options": "ตัวเลือกสินค้า: 4分*AC220V有压进水阀",
+            "price_cny": "¥ 11.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 110.00",
+            "total_thb": "฿ 552.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD180B-220V-15B2"
+          },
+          {
+            "name": "厂家供应太阳能电磁阀 4分常闭 进水电磁阀 12v水阀 24v电磁阀",
+            "options": "ตัวเลือกสินค้า: 4分*DC24V有压进水阀",
+            "price_cny": "¥ 11.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 110.00",
+            "total_thb": "฿ 552.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD270A-24V-15B2"
+          },
+          {
+            "name": "常闭电磁阀g1/2螺纹四分外螺纹饮水机电磁阀DC12v",
+            "options": "ตัวเลือกสินค้า: 白色, AC220V 有压进水阀",
+            "price_cny": "¥ 10.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 100.00",
+            "total_thb": "฿ 502.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD180B-220V-15B1"
+          },
+          {
+            "name": "常闭电磁阀g1/2螺纹四分外螺纹饮水机电磁阀DC12v",
+            "options": "ตัวเลือกสินค้า: 白色, DC24V有压进水阀",
+            "price_cny": "¥ 10.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 100.00",
+            "total_thb": "฿ 502.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD270A-24V-15B1"
+          },
+          {
+            "name": "供应全铜6分进水阀 电磁阀，常闭进水电磁阀 12v 24v 220v",
+            "options": "ตัวเลือกสินค้า: 6分=G3/4*AC220V有压进水电磁阀",
+            "price_cny": "¥ 21.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 210.00",
+            "total_thb": "฿ 1,054.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD180B-220V-20A1"
+          },
+          {
+            "name": "供应全铜6分进水阀 电磁阀，常闭进水电磁阀 12v 24v 220v",
+            "options": "ตัวเลือกสินค้า: 6分=G3/4*DC24V有压进水电磁阀",
+            "price_cny": "¥ 21.00",
+            "qty": "10.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 210.00",
+            "total_thb": "฿ 1,054.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-FCD270A-24V-20A1"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥950.00",
+          "total_qty": "70",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥950.00",
+          "total_all_thb": "฿4,769.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11500",
     "scraped_at": "11/06/2026 03:20:32",
     "order_id": "PN-1275#S11500",
