@@ -1,5 +1,61 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11500",
+    "scraped_at": "11/06/2026 03:20:32",
+    "order_id": "PN-1275#S11500",
+    "date": "11/06/2026 10:11",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 285.35 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13205",
+        "products": [
+          {
+            "name": "PC直通接头气管快速接头PU快插PL接头气泵配件气动连接件4分螺纹",
+            "options": "ตัวเลือกสินค้า: PC10-04",
+            "price_cny": "¥ 1.16",
+            "qty": "200.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 232.00",
+            "total_thb": "฿ 1,164.64",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPC10-04-BK"
+          },
+          {
+            "name": "内螺纹直通快速接头PCF8-02PLF10-02管90度内丝螺纹弯头L型气动",
+            "options": "ตัวเลือกสินค้า: PCF8-02",
+            "price_cny": "¥ 0.97",
+            "qty": "55.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 53.35",
+            "total_thb": "฿ 267.82",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPCF08-02-BK"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥285.35",
+          "total_qty": "255",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥285.35",
+          "total_all_thb": "฿1,432.46"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11498",
     "scraped_at": "11/06/2026 02:40:55",
     "order_id": "PN-1275#S11498",
