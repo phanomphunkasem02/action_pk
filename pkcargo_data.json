@@ -1,5 +1,48 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11516",
+    "scraped_at": "15/06/2026 05:00:53",
+    "order_id": "PN-1275#S11516",
+    "date": "15/06/2026 11:49",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ใช้ประกอบตัว msp-08 จำนวน 343 ตัว msp-30 จำนวน 28 ตัว msp-01 จำนวน 55 ตัว คงเหลือ 574 ตัว",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 60.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13221",
+        "products": [
+          {
+            "name": "厂家供应ABS螺纹接头雾化喷头 外插式农业园林灌溉微喷配件",
+            "options": "ตัวเลือกสินค้า: 接口7.5",
+            "price_cny": "¥ 0.06",
+            "qty": "1000.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 60.00",
+            "total_thb": "฿ 301.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥60.00",
+          "total_qty": "1000",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥60.00",
+          "total_all_thb": "฿301.20"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11515",
     "scraped_at": "15/06/2026 04:40:49",
     "order_id": "PN-1275#S11515",
