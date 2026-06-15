@@ -1,5 +1,48 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11512",
+    "scraped_at": "15/06/2026 04:00:46",
+    "order_id": "PN-1275#S11512",
+    "date": "15/06/2026 10:41",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "มาประกอบกับ ข้อต่อสีดำ 5 ทาง 1356*5 = 6,780 ตัว",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 1,017.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13217",
+        "products": [
+          {
+            "name": "园林雾化微喷头橘色降温除尘喷头自动浇花器喷淋头花园灌溉工具",
+            "options": "ตัวเลือกสินค้า: 橘色单喷头（可调）",
+            "price_cny": "¥ 0.15",
+            "qty": "6780.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 1,017.00",
+            "total_thb": "฿ 5,105.34",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥1,017.00",
+          "total_qty": "6780",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥1,017.00",
+          "total_all_thb": "฿5,105.34"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11510",
     "scraped_at": "15/06/2026 02:00:47",
     "order_id": "PN-1275#S11510",
