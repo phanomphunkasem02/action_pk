@@ -1,5 +1,92 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11514",
+    "scraped_at": "15/06/2026 04:20:37",
+    "order_id": "PN-1275#S11514",
+    "date": "15/06/2026 11:17",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ใช้ประกอบตัว msp-35 จำนวน 100 ตัว ใช้ประกอบตัว msp-20 จำนวน 212 ตัว",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 112.32 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13219",
+        "products": [
+          {
+            "name": "可批发规格多样花园农业园艺多色可选十字雾化喷头系列节水灌溉",
+            "options": "ตัวเลือกสินค้า: 黑平十字雾化喷头",
+            "price_cny": "¥ 0.36",
+            "qty": "312.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 112.32",
+            "total_thb": "฿ 563.85",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥112.32",
+          "total_qty": "312",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥112.32",
+          "total_all_thb": "฿563.85"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11513",
+    "scraped_at": "15/06/2026 04:20:37",
+    "order_id": "PN-1275#S11513",
+    "date": "15/06/2026 11:15",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "มาประกอบกับ ข้อต่อเกี่ยวนอกเดิม 585 = ที่เหลือสั่งมาขาย 415 ตัว",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 530.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13218",
+        "products": [
+          {
+            "name": "大棚倒挂喷头酷耐特十字雾化微喷头吊挂四出口喷雾器喷灌降温加湿",
+            "options": "ตัวเลือกสินค้า: 6.0酷耐特十字雾化喷头1个装（颜色随机）",
+            "price_cny": "¥ 0.53",
+            "qty": "1000.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 530.00",
+            "total_thb": "฿ 2,660.60",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 05-MSP-12-G"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥530.00",
+          "total_qty": "1000",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥530.00",
+          "total_all_thb": "฿2,660.60"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11512",
     "scraped_at": "15/06/2026 04:00:46",
     "order_id": "PN-1275#S11512",
