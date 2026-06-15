@@ -1,5 +1,117 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11510",
+    "scraped_at": "15/06/2026 02:00:47",
+    "order_id": "PN-1275#S11510",
+    "date": "15/06/2026 08:49",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ต่อราคาให้หน่อยค่ะ",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 739.29 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13215",
+        "products": [
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN20铜芯—110克",
+            "price_cny": "¥ 8.87",
+            "qty": "55.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 487.85",
+            "total_thb": "฿ 2,449.01",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-06"
+          },
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN40铜芯—390克",
+            "price_cny": "¥ 31.43",
+            "qty": "8.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 251.44",
+            "total_thb": "฿ 1,262.23",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-12"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥739.29",
+          "total_qty": "63",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥739.29",
+          "total_all_thb": "฿3,711.24"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11511",
+    "scraped_at": "15/06/2026 02:00:47",
+    "order_id": "PN-1275#S11511",
+    "date": "15/06/2026 08:49",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยรถ",
+    "order_note": "ต่อราคาให้หน่อย",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 271.69 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13216",
+        "products": [
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN20铜芯—110克",
+            "price_cny": "¥ 8.87",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 177.40",
+            "total_thb": "฿ 890.55",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-06"
+          },
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN40铜芯—390克",
+            "price_cny": "¥ 31.43",
+            "qty": "3.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 94.29",
+            "total_thb": "฿ 473.34",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-12"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥271.69",
+          "total_qty": "23",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥271.69",
+          "total_all_thb": "฿1,363.88"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11501",
     "scraped_at": "14/06/2026 05:06:07",
     "order_id": "PN-1275#S11501",
