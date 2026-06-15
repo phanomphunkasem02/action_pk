@@ -1,5 +1,97 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11517",
+    "scraped_at": "15/06/2026 08:00:54",
+    "order_id": "PN-1275#S11517",
+    "date": "15/06/2026 14:52",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 176.50 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13222",
+        "products": [
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （4分）红色",
+            "price_cny": "¥ 0.46",
+            "qty": "130.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 59.80",
+            "total_thb": "฿ 300.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-04-120"
+          },
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （6分）红色",
+            "price_cny": "¥ 0.58",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 34.80",
+            "total_thb": "฿ 174.70",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-06-120"
+          },
+          {
+            "name": "塑料PP螺旋喷嘴供应电厂脱硫塔清洗除尘实心锥形螺旋喷头厂家现货",
+            "options": "ตัวเลือกสินค้า: （2分）红色",
+            "price_cny": "¥ 0.23",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 6.90",
+            "total_thb": "฿ 34.64",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 04-SNPPR-02-120"
+          },
+          {
+            "name": "塑料ABS吹风喷嘴2分吹风喷嘴压缩空气扁型喷头F型727风刀吹气嘴",
+            "options": "ตัวเลือกสินค้า: 2分三孔固定蓝色外螺纹",
+            "price_cny": "¥ 1.60",
+            "qty": "25.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 40.00",
+            "total_thb": "฿ 200.80",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: AIR-FLT-47-02BL"
+          },
+          {
+            "name": "塑料ABS吹风喷嘴2分吹风喷嘴压缩空气扁型喷头F型727风刀吹气嘴",
+            "options": "ตัวเลือกสินค้า: 2分三孔固定外螺纹",
+            "price_cny": "¥ 1.40",
+            "qty": "25.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 35.00",
+            "total_thb": "฿ 175.70",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: AIR-FLT-47-02Y-D"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥176.50",
+          "total_qty": "270",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥176.50",
+          "total_all_thb": "฿886.03"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11516",
     "scraped_at": "15/06/2026 05:27:22",
     "order_id": "PN-1275#S11516",
