@@ -1,5 +1,48 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11515",
+    "scraped_at": "15/06/2026 04:40:49",
+    "order_id": "PN-1275#S11515",
+    "date": "15/06/2026 11:33",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": "ใช้ประกอบตัว msp-20 จำนวน 212 ตัว",
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 46.64 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13220",
+        "products": [
+          {
+            "name": "平口防滴器 微喷头止滴器 温室大棚倒挂微喷头止漏阀 可拆洗",
+            "options": "ตัวเลือกสินค้า: 6.0平头止滴器",
+            "price_cny": "¥ 0.22",
+            "qty": "212.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 46.64",
+            "total_thb": "฿ 234.13",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥46.64",
+          "total_qty": "212",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥46.64",
+          "total_all_thb": "฿234.13"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11514",
     "scraped_at": "15/06/2026 04:20:37",
     "order_id": "PN-1275#S11514",
