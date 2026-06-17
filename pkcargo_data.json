@@ -1,5 +1,216 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11532",
+    "scraped_at": "17/06/2026 08:10:40",
+    "order_id": "PN-1275#S11532",
+    "date": "17/06/2026 15:04",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 289.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13237",
+        "products": [
+          {
+            "name": "铜宝塔接头PC10直通4分外螺纹外丝格林头软管8mm弯头90度PL6-01",
+            "options": "ตัวเลือกสินค้า: 宝塔PCF19-04",
+            "price_cny": "¥ 3.82",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 229.20",
+            "total_thb": "฿ 1,150.58",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PCF19-04"
+          },
+          {
+            "name": "铜宝塔接头PC10直通4分外螺纹外丝格林头软管8mm弯头90度PL6-01",
+            "options": "ตัวเลือกสินค้า: 宝塔PCF14-03",
+            "price_cny": "¥ 2.99",
+            "qty": "20.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 59.80",
+            "total_thb": "฿ 300.20",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PCF14-03"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥289.00",
+          "total_qty": "80",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥289.00",
+          "total_all_thb": "฿1,450.78"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11531",
+    "scraped_at": "17/06/2026 08:10:40",
+    "order_id": "PN-1275#S11531",
+    "date": "17/06/2026 14:54",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 72.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13236",
+        "products": [
+          {
+            "name": "LED户外防水广告招牌投光灯渔船夜市低压泛光灯50W30W100W150W200",
+            "options": "ตัวเลือกสินค้า: AC/DC12-24V通用豪华版白光50W",
+            "price_cny": "¥ 36.00",
+            "qty": "2.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 72.00",
+            "total_thb": "฿ 361.44",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥72.00",
+          "total_qty": "2",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥72.00",
+          "total_all_thb": "฿361.44"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11529",
+    "scraped_at": "17/06/2026 08:10:42",
+    "order_id": "PN-1275#S11529",
+    "date": "17/06/2026 14:43",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 520.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13234",
+        "products": [
+          {
+            "name": "净水器 电子浮球2分PE管浮动球阀3分水箱配件水满断电断水自动停",
+            "options": "ตัวเลือกสินค้า: 电子浮球（水满断电）顶安装【如要整箱请拍250个/箱】",
+            "price_cny": "¥ 6.50",
+            "qty": "80.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 520.00",
+            "total_thb": "฿ 2,610.40",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 11-Float-TYPE C"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥520.00",
+          "total_qty": "80",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥520.00",
+          "total_all_thb": "฿2,610.40"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11528",
+    "scraped_at": "17/06/2026 08:10:42",
+    "order_id": "PN-1275#S11528",
+    "date": "17/06/2026 14:43",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 4,605.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13233",
+        "products": [
+          {
+            "name": "太阳能电磁阀电动DC12V24VAC220V空调温控二通三通球阀常开闭球阀",
+            "options": "ตัวเลือกสินค้า: 二通DN20-DC12V24V",
+            "price_cny": "¥ 72.00",
+            "qty": "25.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 1,800.00",
+            "total_thb": "฿ 9,036.00",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-EBV02-061"
+          },
+          {
+            "name": "太阳能电磁阀电动DC12V24VAC220V空调温控二通三通球阀常开闭球阀",
+            "options": "ตัวเลือกสินค้า: 二通DN50-AC110-220V",
+            "price_cny": "¥ 165.00",
+            "qty": "15.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 2,475.00",
+            "total_thb": "฿ 12,424.50",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-EBV02-162"
+          },
+          {
+            "name": "太阳能电磁阀电动DC12V24VAC220V空调温控二通三通球阀常开闭球阀",
+            "options": "ตัวเลือกสินค้า: 三通DN25-DC12V24V",
+            "price_cny": "¥ 110.00",
+            "qty": "3.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 330.00",
+            "total_thb": "฿ 1,656.60",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 07-EBV03-081"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥4,605.00",
+          "total_qty": "43",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥4,605.00",
+          "total_all_thb": "฿23,117.10"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11522",
     "scraped_at": "17/06/2026 05:16:18",
     "order_id": "PN-1275#S11522",
