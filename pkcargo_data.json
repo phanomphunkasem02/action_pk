@@ -1,5 +1,49 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11522",
+    "scraped_at": "17/06/2026 04:38:50",
+    "order_id": "PN-1275#S11522",
+    "date": "17/06/2026 11:28",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 23.40 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13227",
+        "products": [
+          {
+            "name": "气管快速接头PU/PE/PY/PZA/PK/PV直通三通四通五通变径白色高端",
+            "options": "ตัวเลือกสินค้า: PU-16",
+            "price_cny": "¥ 1.30",
+            "qty": "18.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 23.40",
+            "total_thb": "฿ 117.47",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPU16-WH"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥23.40",
+          "total_qty": "18",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥23.40",
+          "total_all_thb": "฿117.47"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11517",
     "scraped_at": "16/06/2026 05:31:59",
     "order_id": "PN-1275#S11517",
