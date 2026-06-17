@@ -1,5 +1,197 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11535",
+    "scraped_at": "17/06/2026 09:10:40",
+    "order_id": "PN-1275#S11535",
+    "date": "17/06/2026 16:00",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 746.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13240",
+        "products": [
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN20铜芯—110克",
+            "price_cny": "¥ 8.87",
+            "qty": "54.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 478.98",
+            "total_thb": "฿ 2,404.48",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-06"
+          },
+          {
+            "name": "厂家直销立式止回阀水泵用气动单向阀防逆水管水表前黄铜止回阀芯",
+            "options": "ตัวเลือกสินค้า: DN25铜芯—125克",
+            "price_cny": "¥ 10.27",
+            "qty": "26.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 267.02",
+            "total_thb": "฿ 1,340.44",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BCV-08"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥746.00",
+          "total_qty": "80",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥746.00",
+          "total_all_thb": "฿3,744.92"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11534",
+    "scraped_at": "17/06/2026 09:10:40",
+    "order_id": "PN-1275#S11534",
+    "date": "17/06/2026 15:55",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 1,311.20 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13239",
+        "products": [
+          {
+            "name": "黄铜带网底阀4分6分1防倒流阀门直通式过滤阀立式止回阀止逆阀15",
+            "options": "ตัวเลือกสินค้า: 1寸 塑芯93g",
+            "price_cny": "¥ 10.60",
+            "qty": "104.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 1,102.40",
+            "total_thb": "฿ 5,534.05",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BFV-08"
+          },
+          {
+            "name": "黄铜带网底阀4分6分1防倒流阀门直通式过滤阀立式止回阀止逆阀15",
+            "options": "ตัวเลือกสินค้า: 4分 塑芯50g",
+            "price_cny": "¥ 5.80",
+            "qty": "36.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 208.80",
+            "total_thb": "฿ 1,048.18",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BFV-04"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥1,311.20",
+          "total_qty": "140",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥1,311.20",
+          "total_all_thb": "฿6,582.22"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11533",
+    "scraped_at": "17/06/2026 09:10:42",
+    "order_id": "PN-1275#S11533",
+    "date": "17/06/2026 15:51",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 1,013.12 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13238",
+        "products": [
+          {
+            "name": "对丝外丝转换接头4分补心直接内外接内接变径内螺纹外螺纹",
+            "options": "ตัวเลือกสินค้า: 补心2分-4分",
+            "price_cny": "¥ 1.44",
+            "qty": "48.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 69.12",
+            "total_thb": "฿ 346.98",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-BSR02-04"
+          },
+          {
+            "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
+            "options": "ตัวเลือกสินค้า: SA-6",
+            "price_cny": "¥ 1.80",
+            "qty": "110.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 198.00",
+            "total_thb": "฿ 993.96",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SSA06-BK"
+          },
+          {
+            "name": "内螺纹直通快速接头PCF8-02PLF10-02管90度内丝螺纹弯头L型气动",
+            "options": "ตัวเลือกสินค้า: PCF12-04",
+            "price_cny": "¥ 2.35",
+            "qty": "240.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 564.00",
+            "total_thb": "฿ 2,831.28",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 02-SPCF12-04-BK"
+          },
+          {
+            "name": "气动元件宝塔接头外丝PC螺纹直通外牙内螺纹8-02气管铜质",
+            "options": "ตัวเลือกสินค้า: 宝塔PC12-03",
+            "price_cny": "¥ 1.30",
+            "qty": "140.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 182.00",
+            "total_thb": "฿ 913.64",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-PC12-03"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥1,013.12",
+          "total_qty": "538",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥1,013.12",
+          "total_all_thb": "฿5,085.86"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11532",
     "scraped_at": "17/06/2026 08:10:40",
     "order_id": "PN-1275#S11532",
