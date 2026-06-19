@@ -17,6 +17,41 @@ class SelectNewOrderUrlsTests(unittest.TestCase):
         self.assertEqual(new_urls, [])
         self.assertTrue(reached_existing)
 
+    def test_refreshes_existing_order_when_net_total_changed(self):
+        page = [
+            ("https://member.pkcargo.com/shops/11490", "new", 20661.30),
+            ("https://member.pkcargo.com/shops/11489", "new", 1782.00),
+        ]
+        existing = {
+            "https://member.pkcargo.com/shops/11490": {
+                "summary": {"net_thb": "0.00 บาท", "grand_net": None}
+            },
+            "https://member.pkcargo.com/shops/11489": {
+                "summary": {"net_thb": "1,782.00 บาท", "grand_net": None}
+            },
+        }
+
+        new_urls, reached_existing = select_new_order_urls(page, existing)
+
+        self.assertEqual(new_urls, [page[0]])
+        self.assertTrue(reached_existing)
+
+    def test_stops_when_existing_order_net_total_is_unchanged(self):
+        page = [
+            ("https://member.pkcargo.com/shops/11490", "new", 20661.30),
+            ("https://member.pkcargo.com/shops/11489", "new", 1782.00),
+        ]
+        existing = {
+            "https://member.pkcargo.com/shops/11490": {
+                "summary": {"net_thb": "20,661.30 บาท", "grand_net": None}
+            }
+        }
+
+        new_urls, reached_existing = select_new_order_urls(page, existing)
+
+        self.assertEqual(new_urls, [])
+        self.assertTrue(reached_existing)
+
     def test_returns_only_orders_before_first_existing_order(self):
         page = [
             ("https://member.pkcargo.com/shops/11492", "new"),

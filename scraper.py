@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import re
 from datetime import datetime
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from selenium import webdriver
@@ -59,26 +60,69 @@ def load_config():
 
 def load_existing_order_urls():
     if not os.path.exists(DATA_PATH):
-        return set()
+        return {}
     try:
         with open(DATA_PATH, "r", encoding="utf-8") as f:
             orders = json.load(f)
         return {
-            str(order.get("detail_url", "")).strip()
+            str(order.get("detail_url", "")).strip(): order
             for order in orders
             if order.get("detail_url")
         }
     except (OSError, ValueError, TypeError):
-        return set()
+        return {}
+
+def parse_money(value):
+    if value is None:
+        return None
+    text = str(value).strip()
+    if not text or text == "-":
+        return None
+    match = re.search(r"-?\d[\d,]*(?:\.\d+)?", text)
+    if not match:
+        return None
+    try:
+        return round(float(match.group(0).replace(",", "")), 2)
+    except ValueError:
+        return None
+
+def get_saved_net_total(order):
+    summary = order.get("summary") or {}
+    for key in ("grand_net", "net_thb"):
+        value = parse_money(summary.get(key))
+        if value is not None:
+            return value
+    return None
+
+def extract_list_net_total(card_text):
+    text = str(card_text or "")
+    labels = ("สุทธิรวมส่งไทย", "ราคาสุทธิรวมไทย", "สุทธิรวม")
+    for label in labels:
+        idx = text.find(label)
+        if idx == -1:
+            continue
+        snippet = text[idx:idx + 160]
+        matches = re.findall(r"-?\d[\d,]*(?:\.\d+)?", snippet)
+        if matches:
+            return parse_money(matches[-1])
+    return None
 
 def select_new_order_urls(page_urls, existing_urls):
-    """Return unseen orders and whether this page reached known history."""
+    """Return unseen or changed orders and whether this page reached known history."""
     new_urls = []
     reached_existing = False
+    existing_lookup = existing_urls if isinstance(existing_urls, dict) else {url: None for url in existing_urls}
     for url_info in page_urls:
         url = url_info[0]
-        if url in existing_urls:
+        if url in existing_lookup:
             reached_existing = True
+            existing_order = existing_lookup.get(url)
+            saved_net = get_saved_net_total(existing_order) if isinstance(existing_order, dict) else None
+            list_net = url_info[2] if len(url_info) > 2 else None
+            if list_net is not None and saved_net is not None and list_net != saved_net:
+                log(f"[INCREMENTAL] Net total changed for {url}: saved={saved_net:.2f}, list={list_net:.2f}; refreshing.")
+                new_urls.append(url_info)
+                continue
             break
         new_urls.append(url_info)
     return new_urls, reached_existing
@@ -239,7 +283,9 @@ class PKCargoScraper:
                     link_els = item.find_elements(By.XPATH, ".//div/div[2]/div[3]/a")
                     if link_els:
                         url = link_els[0].get_attribute("href")
-                        if url: order_urls.append((url, status_text))
+                        if url:
+                            list_net_total = extract_list_net_total(item.text)
+                            order_urls.append((url, status_text, list_net_total))
                 except Exception: pass
         except Exception as e:
             log(f"[ERR] Page {page_num}: {e}")
@@ -418,7 +464,8 @@ def worker_scrape_urls(url_batch, config, worker_id):
     try:
         if not scraper.login(): return results
         for url_info in url_batch:
-            url, list_status = url_info
+            url = url_info[0]
+            list_status = url_info[1] if len(url_info) > 1 else "-"
             log(f"  [WORKER-{worker_id}] {url}")
             data = scraper.scrape_detail_page(url, list_status)
             if data: results.append(data)
