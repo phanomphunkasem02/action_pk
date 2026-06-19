@@ -2,13 +2,13 @@ name: PK Cargo Scrape
 
 on:
   schedule:
-    - cron: '13 0 * * *'   # ดึง 10 หน้า ทุกวันเวลาประมาณ 07:13 น. (เวลาไทย)
+    - cron: '*/20 * * * *'
   workflow_dispatch:
     inputs:
       max_pages:
-        description: Safety limit for incremental page scanning
+        description: Number of PK Cargo pages to scrape
         required: false
-        default: '10'
+        default: '3'
 
 concurrency:
   group: pk-cargo-scrape
@@ -40,9 +40,8 @@ jobs:
           PK_EMAIL: ${{ secrets.PK_EMAIL }}
           PK_PASSWORD: ${{ secrets.PK_PASSWORD }}
           PK_START_PAGE: 1
-          PK_INCREMENTAL: ${{ github.event_name != 'schedule' && 'true' || 'false' }}
-          # Scheduled runs refresh 10 pages; external runs scan up to 10 pages for new orders.
-          PK_MAX_PAGES: ${{ github.event_name == 'schedule' && '10' || inputs.max_pages }}
+          PK_INCREMENTAL: 'false'
+          PK_MAX_PAGES: ${{ github.event_name == 'schedule' && '3' || inputs.max_pages }}
         run: |
           test -n "$PK_EMAIL" || (echo "::error::Missing PK_EMAIL secret" && exit 1)
           test -n "$PK_PASSWORD" || (echo "::error::Missing PK_PASSWORD secret" && exit 1)
