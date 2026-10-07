@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from pkcargo_table import parse_vendor_cells, table_headers
 
 # Folder configuration for GitHub Environment
 # Folder configuration for GitHub Environment
@@ -321,6 +322,7 @@ class PKCargoScraper:
                     "tracking_numbers": [],
                     "_pending": [],
                 }
+                headers_by_table = {}
                 for row in block.find_elements(By.XPATH, ".//table/tbody/tr"):
                     tds = row.find_elements(By.TAG_NAME, "td")
                     if not tds or len(tds) < 1: continue
@@ -329,12 +331,16 @@ class PKCargoScraper:
 
                     # 1. ตรวจสอบว่าเป็นแถว "รวมยอด" หรือไม่ (เช็คเฉพาะคอลัมน์แรก)
                     if first_cell_text == "รวม" and len(tds) >= 4:
+                        table = row.find_element(By.XPATH, "ancestor::table[1]")
+                        headers = headers_by_table.setdefault(table.id, table_headers(table, By))
+                        totals = parse_vendor_cells([td.text for td in tds], headers, totals=True)
                         vendor_data["table_totals"] = {
-                            "total_price_cny": tds[1].text.strip() if len(tds) > 1 else "-",
-                            "total_qty": tds[2].text.strip() if len(tds) > 2 else "-",
-                            "total_ship_cny": tds[3].text.strip() if len(tds) > 3 else "-",
-                            "total_all_cny": tds[4].text.strip() if len(tds) > 4 else "-",
-                            "total_all_thb": tds[5].text.strip() if len(tds) > 5 else "-",
+                            "total_price_cny": totals["price_cny"],
+                            "total_qty": totals["qty"],
+                            "total_ship_cny": totals["ship_cny"],
+                            "total_all_cny": totals["total_cny"],
+                            "total_all_thb": totals["total_thb"],
+                            "discount_thb": totals["discount_thb"],
                         }
                     
                     # 2. ตรวจสอบว่าเป็นแถว "เลขพัสดุ" หรือไม่
@@ -346,17 +352,14 @@ class PKCargoScraper:
                     
                     # 3. แถวอื่นๆ ที่มีคอลัมน์ครบ ให้ถือว่าเป็นสินค้า (แม้ไม่มีลิงก์จีน)
                     elif len(tds) >= 6:
+                        table = row.find_element(By.XPATH, "ancestor::table[1]")
+                        headers = headers_by_table.setdefault(table.id, table_headers(table, By))
+                        money = parse_vendor_cells([td.text for td in tds], headers)
                         links = tds[0].find_elements(By.TAG_NAME, "a")
                         item = {
                             "name": links[0].text.strip() if links else tds[0].text.strip().split('\n')[0],
                             "options": "",
-                            "price_cny": tds[1].text.strip() if len(tds) > 1 else "0.00",
-                            "qty": tds[2].text.strip() if len(tds) > 2 else "0.00",
-                            "ship_cny": tds[3].text.strip() if len(tds) > 3 else "0.00",
-                            "total_cny": tds[4].text.strip() if len(tds) > 4 else "0.00",
-                            "total_thb": tds[5].text.strip() if len(tds) > 5 else "0.00",
-                            "extra_cny": tds[6].text.strip() if len(tds) > 6 else "0.00",
-                            "item_note": tds[7].text.strip() if len(tds) > 7 else "-",
+                            **money,
                         }
                         
                         # พยายามดึง Option และหมายเหตุภายในคอลัมน์แรก
