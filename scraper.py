@@ -10,7 +10,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from pkcargo_table import parse_vendor_cells, table_headers
+from pkcargo_table import parse_vendor_cells, table_headers, misaligned_order_urls
 
 # Folder configuration for GitHub Environment
 # Folder configuration for GitHub Environment
@@ -548,18 +548,28 @@ def main():
     if not config:
         raise RuntimeError("config or environment credentials are missing")
 
+    repair = os.environ.get("PK_REPAIR_MISALIGNED", "").lower() == "true"
+    if repair:
+        with open(DATA_PATH, "r", encoding="utf-8") as saved:
+            repair_urls = misaligned_order_urls(json.load(saved))
+        if not repair_urls:
+            log("[REPAIR] No misaligned orders remain.")
+            return
+        log(f"[REPAIR] Refreshing {len(repair_urls)} affected orders from their source URLs")
     collector = PKCargoScraper(config)
     all_urls = []
     try:
         if not collector.login():
             raise RuntimeError("PK Cargo login failed")
-        total_pages = collector.get_total_pages()
+        total_pages = 0 if repair else collector.get_total_pages()
         start_p = config.get("start_page", 1)
         max_p = config.get("max_pages", 0)
         end_p = min(start_p + max_p, total_pages + 1) if max_p > 0 else total_pages + 1
         incremental = config.get("incremental", False)
         existing_urls = load_existing_order_urls() if incremental else set()
 
+        if repair:
+            all_urls.extend(repair_urls)
         for p in range(start_p, end_p):
             log(f"[COLLECT] Page {p}/{total_pages}")
             urls = collector.collect_urls_from_page(p)

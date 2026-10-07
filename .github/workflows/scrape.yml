@@ -9,6 +9,11 @@ on:
         description: Number of PK Cargo pages to scrape
         required: false
         default: '3'
+      repair_misaligned:
+        description: Refresh only saved orders affected by the inserted discount column
+        type: boolean
+        required: false
+        default: false
 
 concurrency:
   group: pk-cargo-scrape
@@ -41,6 +46,7 @@ jobs:
           PK_PASSWORD: ${{ secrets.PK_PASSWORD }}
           PK_START_PAGE: 1
           PK_INCREMENTAL: 'false'
+          PK_REPAIR_MISALIGNED: ${{ inputs.repair_misaligned && 'true' || 'false' }}
           PK_MAX_PAGES: ${{ github.event_name == 'schedule' && '3' || inputs.max_pages }}
         run: |
           test -n "$PK_EMAIL" || (echo "::error::Missing PK_EMAIL secret" && exit 1)

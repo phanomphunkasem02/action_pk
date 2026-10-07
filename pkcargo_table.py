@@ -69,3 +69,17 @@ def table_headers(table, by):
     if not rows:
         return []
     return [cell.text.strip() for cell in rows[-1].find_elements(by.XPATH, "./th | ./td")]
+
+
+def misaligned_order_urls(orders):
+    """Select only affected existing orders for a source-backed repair."""
+    urls = []
+    seen = set()
+    for order in orders:
+        affected = any("฿" in str(p.get("extra_cny", "")) or "บาท" in str(p.get("extra_cny", ""))
+                       for v in order.get("vendors", []) for p in v.get("products", []))
+        url = str(order.get("detail_url", ""))
+        if affected and re.fullmatch(r"https://member\.pkcargo\.com/shops/\d+", url) and url not in seen:
+            urls.append((url, order.get("status", "-")))
+            seen.add(url)
+    return urls
