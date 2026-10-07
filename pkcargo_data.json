@@ -1,7 +1,399 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/12301",
+    "scraped_at": "07/10/2026 08:47:12",
+    "order_id": "PN-1275#S12301",
+    "date": "07/10/2026 14:57",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 288.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14070",
+        "products": [
+          {
+            "name": "PL气动气管快速直角接头快插螺纹弯头气缸4/6/8/10-M5/01/02/03",
+            "options": "ตัวเลือกสินค้า: 蓝色PL16-04",
+            "price_cny": "¥ 2.40",
+            "qty": "120.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 288.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,486.08",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-SPL16-04-BK"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥288.00",
+          "total_qty": "120",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥288.00",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12300",
+    "scraped_at": "07/10/2026 08:47:12",
+    "order_id": "PN-1275#S12300",
+    "date": "07/10/2026 14:56",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยรถ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 8.50 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14069",
+        "products": [
+          {
+            "name": "带磁座带开关塑料竹节蛇形管 冷却吹气风扁头喷嘴空气喷头带竹节",
+            "options": "ตัวเลือกสินค้า: 圆头吹风+300mm竹节管(不带开关)+磁座",
+            "price_cny": "¥ 8.50",
+            "qty": "1.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 8.50",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 43.86",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: ลูกค้าพรีออเดอร์"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥8.50",
+          "total_qty": "1",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥8.50",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12294",
+    "scraped_at": "07/10/2026 08:47:14",
+    "order_id": "PN-1275#S12294",
+    "date": "07/10/2026 11:03",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "25.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 806.90 หยวน",
+      "net_thb": "4,163.60 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14063",
+        "products": [
+          {
+            "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
+            "options": "ตัวเลือกสินค้า: SA-12",
+            "price_cny": "¥ 4.63",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 163.90",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 845.72",
+            "item_note": "¥ 25.00",
+            "item_internal_note": "หมายเหตุ: 02-SSA12-BK"
+          },
+          {
+            "name": "内螺纹直通快速接头PCF8-02PLF10-02管90度内丝螺纹弯头L型气动",
+            "options": "ตัวเลือกสินค้า: PCF12-04",
+            "price_cny": "¥ 2.35",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 141.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 727.56",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-SPCF12-04-BK"
+          },
+          {
+            "name": "节流阀快速接头SL6-01/8-02/10-02气动元件快插防漏防漏设计直通",
+            "options": "ตัวเลือกสินค้า: SL8-04",
+            "price_cny": "¥ 5.78",
+            "qty": "70.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 404.60",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,087.74",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-04-SL08-BK"
+          },
+          {
+            "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
+            "options": "ตัวเลือกสินค้า: PZA-4",
+            "price_cny": "¥ 0.43",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 17.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 88.75",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-SPZA04-BK"
+          },
+          {
+            "name": "内螺纹直通快速接头PCF8-02PLF10-02管90度内丝螺纹弯头L型气动",
+            "options": "ตัวเลือกสินค้า: PCF6-02",
+            "price_cny": "¥ 0.99",
+            "qty": "60.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 59.40",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 306.50",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-SPCF06-02-BK"
+          },
+          {
+            "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
+            "options": "ตัวเลือกสินค้า: PZA-8",
+            "price_cny": "¥ 0.52",
+            "qty": "40.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 20.80",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 107.33",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 02-SPZA08-BK"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥781.90",
+          "total_qty": "300",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥806.90",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12293",
+    "scraped_at": "07/10/2026 08:47:14",
+    "order_id": "PN-1275#S12293",
+    "date": "07/10/2026 11:02",
+    "status": "สถานะ: มีสินค้ายกเลิก",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 0.00 หยวน",
+      "net_thb": "0.00 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14062",
+        "products": [
+          {
+            "name": "L型软管气管气动快速接头90度直角弯头快插接头PL8-02外螺纹弯通",
+            "options": "ตัวเลือกสินค้า: 蓝PL16-04",
+            "price_cny": "¥ 2.25",
+            "qty": "120.00",
+            "ship_cny": "¥ 8.00",
+            "total_cny": "¥ 278.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,434.48",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: สินค้าหมด"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥0.00",
+          "total_qty": "0",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥0.00",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12292",
+    "scraped_at": "07/10/2026 08:47:16",
+    "order_id": "PN-1275#S12292",
+    "date": "07/10/2026 10:10",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 497.00 หยวน",
+      "net_thb": "2,564.52 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14061",
+        "products": [
+          {
+            "name": "格强直供扇形喷嘴 3分4分不锈钢高压雾化扇形喷嘴清洗喷淋喷头",
+            "options": "ตัวเลือกสินค้า: 4分-6501",
+            "price_cny": "¥ 9.50",
+            "qty": "30.00",
+            "ship_cny": "¥ 16.00",
+            "total_cny": "¥ 301.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,553.16",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 04-CCSS-04-6501"
+          },
+          {
+            "name": "304不锈钢扇形喷嘴2分外丝喷淋雾化清洗喷头 规格齐全 厂家直供",
+            "options": "ตัวเลือกสินค้า: 2分—6510",
+            "price_cny": "¥ 2.80",
+            "qty": "70.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 196.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,011.36",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 04-CCSS-02-6510"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥481.00",
+          "total_qty": "100",
+          "total_ship_cny": "¥16.00",
+          "total_all_cny": "¥497.00",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12291",
+    "scraped_at": "07/10/2026 08:47:16",
+    "order_id": "PN-1275#S12291",
+    "date": "07/10/2026 10:08",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 173.00 หยวน",
+      "net_thb": "892.68 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14060",
+        "products": [
+          {
+            "name": "不锈钢大面积多头瓶罐清洗喷嘴 现货供应360°清洗除尘喷雾嘴喷头",
+            "options": "ตัวเลือกสินค้า: 1/2-7头2.8mm孔",
+            "price_cny": "¥ 85.00",
+            "qty": "2.00",
+            "ship_cny": "¥ 3.00",
+            "total_cny": "¥ 173.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 892.68",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 04-TNSS-04-6528"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥170.00",
+          "total_qty": "2",
+          "total_ship_cny": "¥3.00",
+          "total_all_cny": "¥173.00",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/12290",
+    "scraped_at": "07/10/2026 08:47:18",
+    "order_id": "PN-1275#S12290",
+    "date": "07/10/2026 10:03",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.16 บาท/หยวน",
+      "extra_pay": "8.00 หยวน",
+      "china_shipping": null,
+      "net_cny": "¥ 324.50 หยวน",
+      "net_thb": "1,674.42 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-14059",
+        "products": [
+          {
+            "name": "黄铜宝塔头插10煤气软管接头天然气管道8/12气动配件一字十字三通",
+            "options": "ตัวเลือกสินค้า: Y字三叉16mm宝塔气咀",
+            "price_cny": "¥ 4.65",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 147.50",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 761.10",
+            "item_note": "¥ 8.00",
+            "item_internal_note": "หมายเหตุ: 01-BY16"
+          },
+          {
+            "name": "铜1/2分内外丝接头3/4分变径加长直接6分1寸水管燃气管道气动配件",
+            "options": "ตัวเลือกสินค้า: 1寸内丝转6分外丝",
+            "price_cny": "¥ 5.90",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 177.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 913.32",
+            "item_note": "¥ 0.00",
+            "item_internal_note": "หมายเหตุ: 01-POI68"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥316.50",
+          "total_qty": "60",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥324.50",
+          "total_all_thb": "฿0.00"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/12289",
-    "scraped_at": "07/10/2026 02:45:33",
+    "scraped_at": "07/10/2026 08:47:18",
     "order_id": "PN-1275#S12289",
     "date": "06/10/2026 12:23",
     "status": "สถานะ: กำลังตรวจสอบ",
@@ -26,9 +418,9 @@
             "qty": "1700.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,040.00",
-            "total_thb": "฿ 10,526.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 10,526.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-611"
           },
           {
@@ -38,9 +430,9 @@
             "qty": "1200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,440.00",
-            "total_thb": "฿ 7,430.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 7,430.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-614"
           },
           {
@@ -50,9 +442,9 @@
             "qty": "1600.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,920.00",
-            "total_thb": "฿ 9,907.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 9,907.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-615"
           },
           {
@@ -62,9 +454,9 @@
             "qty": "900.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,080.00",
-            "total_thb": "฿ 5,572.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,572.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-616"
           },
           {
@@ -74,9 +466,9 @@
             "qty": "1000.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,200.00",
-            "total_thb": "฿ 6,192.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 6,192.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-618"
           },
           {
@@ -86,9 +478,9 @@
             "qty": "3700.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 4,440.00",
-            "total_thb": "฿ 22,910.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 22,910.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-613"
           },
           {
@@ -98,9 +490,9 @@
             "qty": "2200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 3,740.00",
-            "total_thb": "฿ 19,298.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 19,298.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-621"
           },
           {
@@ -110,9 +502,9 @@
             "qty": "2100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 3,570.00",
-            "total_thb": "฿ 18,421.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 18,421.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-622"
           },
           {
@@ -122,9 +514,9 @@
             "qty": "600.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,020.00",
-            "total_thb": "฿ 5,263.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,263.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-623"
           },
           {
@@ -134,9 +526,9 @@
             "qty": "200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 340.00",
-            "total_thb": "฿ 1,754.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,754.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-625"
           },
           {
@@ -146,9 +538,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 170.00",
-            "total_thb": "฿ 877.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 877.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-626"
           },
           {
@@ -158,9 +550,9 @@
             "qty": "500.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 850.00",
-            "total_thb": "฿ 4,386.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,386.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-628"
           },
           {
@@ -170,9 +562,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 170.00",
-            "total_thb": "฿ 877.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 877.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-FLS-825"
           }
         ],
@@ -181,7 +573,7 @@
           "total_qty": "15900",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥21,980.00",
-          "total_all_thb": "฿113,416.80"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -189,7 +581,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12287",
-    "scraped_at": "07/10/2026 02:45:33",
+    "scraped_at": "07/10/2026 08:47:20",
     "order_id": "PN-1275#S12287",
     "date": "05/10/2026 16:11",
     "status": "สถานะ: รอชำระเงิน",
@@ -199,7 +591,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 102.00 หยวน",
+      "net_cny": "¥ 107.00 หยวน",
       "net_thb": "552.12 บาท",
       "grand_net": null
     },
@@ -213,10 +605,10 @@
             "price_cny": "¥ 1.40",
             "qty": "20.00",
             "ship_cny": "¥ 5.00",
-            "total_cny": "¥ 28.00",
-            "total_thb": "฿ 144.48",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 33.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 170.28",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-AIR-FLT-47-02Y-D ราคาเดิม 1.40 หยวน"
           },
           {
@@ -226,9 +618,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 16.00",
-            "total_thb": "฿ 82.56",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 82.56",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-AIR-FLT-47-02BL"
           },
           {
@@ -238,9 +630,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 58.00",
-            "total_thb": "฿ 299.28",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 299.28",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-CFH-04-300"
           }
         ],
@@ -248,8 +640,8 @@
           "total_price_cny": "¥102.00",
           "total_qty": "40",
           "total_ship_cny": "¥5.00",
-          "total_all_cny": "¥102.00",
-          "total_all_thb": "฿526.32"
+          "total_all_cny": "¥107.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -257,7 +649,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12286",
-    "scraped_at": "07/10/2026 02:45:36",
+    "scraped_at": "07/10/2026 08:47:21",
     "order_id": "PN-1275#S12286",
     "date": "05/10/2026 15:38",
     "status": "สถานะ: รอชำระเงิน",
@@ -282,9 +674,9 @@
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 377.20",
-            "total_thb": "฿ 1,946.35",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,946.35",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 09-S-120-12"
           }
         ],
@@ -293,7 +685,7 @@
           "total_qty": "20",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥377.20",
-          "total_all_thb": "฿1,946.35"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -301,7 +693,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12285",
-    "scraped_at": "07/10/2026 02:45:36",
+    "scraped_at": "07/10/2026 08:47:22",
     "order_id": "PN-1275#S12285",
     "date": "05/10/2026 14:19",
     "status": "สถานะ: รอชำระเงิน",
@@ -311,7 +703,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 375.00 หยวน",
+      "net_cny": "¥ 398.00 หยวน",
       "net_thb": "2,053.68 บาท",
       "grand_net": null
     },
@@ -325,10 +717,10 @@
             "price_cny": "¥ 2.50",
             "qty": "150.00",
             "ship_cny": "¥ 23.00",
-            "total_cny": "¥ 375.00",
-            "total_thb": "฿ 1,935.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 398.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,053.68",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 1.5 aperture spray gun"
           }
         ],
@@ -336,8 +728,8 @@
           "total_price_cny": "¥375.00",
           "total_qty": "150",
           "total_ship_cny": "¥23.00",
-          "total_all_cny": "¥375.00",
-          "total_all_thb": "฿1,935.00"
+          "total_all_cny": "¥398.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -345,7 +737,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12284",
-    "scraped_at": "07/10/2026 02:45:38",
+    "scraped_at": "07/10/2026 08:47:23",
     "order_id": "PN-1275#S12284",
     "date": "05/10/2026 14:12",
     "status": "สถานะ: รอชำระเงิน",
@@ -370,9 +762,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 294.00",
-            "total_thb": "฿ 1,517.04",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,517.04",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-06-1-220V-SE"
           },
           {
@@ -382,9 +774,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 294.00",
-            "total_thb": "฿ 1,517.04",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,517.04",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-06-1-24VDC-SE"
           },
           {
@@ -394,9 +786,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 400.00",
-            "total_thb": "฿ 2,064.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,064.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-03-1-220V-SE"
           },
           {
@@ -406,9 +798,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,180.00",
-            "total_thb": "฿ 11,248.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 11,248.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-16-1-24VDC-SY 原价213元。"
           },
           {
@@ -418,9 +810,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,090.00",
-            "total_thb": "฿ 5,624.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,624.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-16-1-220V-SY 原价213元。"
           },
           {
@@ -430,9 +822,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,275.00",
-            "total_thb": "฿ 6,579.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 6,579.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-16-2-220V-SE"
           }
         ],
@@ -441,7 +833,7 @@
           "total_qty": "29",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥5,533.00",
-          "total_all_thb": "฿28,550.28"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -449,7 +841,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12283",
-    "scraped_at": "07/10/2026 02:45:38",
+    "scraped_at": "07/10/2026 08:47:24",
     "order_id": "PN-1275#S12283",
     "date": "05/10/2026 09:57",
     "status": "สถานะ: รอชำระเงิน",
@@ -459,7 +851,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 40.00 หยวน",
+      "net_cny": "¥ 48.00 หยวน",
       "net_thb": "247.68 บาท",
       "grand_net": null
     },
@@ -473,10 +865,10 @@
             "price_cny": "¥ 0.40",
             "qty": "100.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 40.00",
-            "total_thb": "฿ 206.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 48.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 247.68",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 21-A-006"
           }
         ],
@@ -484,8 +876,8 @@
           "total_price_cny": "¥40.00",
           "total_qty": "100",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥40.00",
-          "total_all_thb": "฿206.40"
+          "total_all_cny": "¥48.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -493,7 +885,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12277",
-    "scraped_at": "07/10/2026 02:45:41",
+    "scraped_at": "07/10/2026 08:47:25",
     "order_id": "PN-1275#S12277",
     "date": "03/10/2026 16:23",
     "status": "สถานะ: รอชำระเงิน",
@@ -503,7 +895,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 200.00 หยวน",
+      "net_cny": "¥ 210.00 หยวน",
       "net_thb": "1,083.60 บาท",
       "grand_net": null
     },
@@ -517,10 +909,10 @@
             "price_cny": "¥ 20.00",
             "qty": "10.00",
             "ship_cny": "¥ 10.00",
-            "total_cny": "¥ 200.00",
-            "total_thb": "฿ 1,032.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 210.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,083.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-FPD270A-12V-15A1 โซลินอยด์วาล์วทองเหลือง เกลียวนอก 1/2\" 12VDC แบบเสียบปลั๊ก"
           }
         ],
@@ -528,8 +920,8 @@
           "total_price_cny": "¥200.00",
           "total_qty": "10",
           "total_ship_cny": "¥10.00",
-          "total_all_cny": "¥200.00",
-          "total_all_thb": "฿1,032.00"
+          "total_all_cny": "¥210.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -537,7 +929,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12276",
-    "scraped_at": "07/10/2026 02:45:40",
+    "scraped_at": "07/10/2026 08:47:26",
     "order_id": "PN-1275#S12276",
     "date": "03/10/2026 16:19",
     "status": "สถานะ: รอชำระเงิน",
@@ -547,7 +939,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 356.00 หยวน",
+      "net_cny": "¥ 374.00 หยวน",
       "net_thb": "1,929.84 บาท",
       "grand_net": null
     },
@@ -561,10 +953,10 @@
             "price_cny": "¥ 1.78",
             "qty": "200.00",
             "ship_cny": "¥ 18.00",
-            "total_cny": "¥ 356.00",
-            "total_thb": "฿ 1,836.96",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 374.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,929.84",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-POI24"
           }
         ],
@@ -572,8 +964,8 @@
           "total_price_cny": "¥356.00",
           "total_qty": "200",
           "total_ship_cny": "¥18.00",
-          "total_all_cny": "¥356.00",
-          "total_all_thb": "฿1,836.96"
+          "total_all_cny": "¥374.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -581,7 +973,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12275",
-    "scraped_at": "07/10/2026 02:45:43",
+    "scraped_at": "07/10/2026 08:47:27",
     "order_id": "PN-1275#S12275",
     "date": "03/10/2026 15:51",
     "status": "สถานะ: รอชำระเงิน",
@@ -591,7 +983,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 559.00 หยวน",
+      "net_cny": "¥ 573.00 หยวน",
       "net_thb": "2,956.68 บาท",
       "grand_net": null
     },
@@ -605,10 +997,10 @@
             "price_cny": "¥ 43.00",
             "qty": "10.00",
             "ship_cny": "¥ 14.00",
-            "total_cny": "¥ 430.00",
-            "total_thb": "฿ 2,218.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 444.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,291.04",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-750-GPH-12VDC-B"
           },
           {
@@ -618,9 +1010,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 129.00",
-            "total_thb": "฿ 665.64",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 665.64",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-1100-GPH-12VDC-C"
           }
         ],
@@ -628,8 +1020,8 @@
           "total_price_cny": "¥559.00",
           "total_qty": "13",
           "total_ship_cny": "¥14.00",
-          "total_all_cny": "¥559.00",
-          "total_all_thb": "฿2,884.44"
+          "total_all_cny": "¥573.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -637,7 +1029,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12274",
-    "scraped_at": "07/10/2026 02:45:42",
+    "scraped_at": "07/10/2026 08:47:28",
     "order_id": "PN-1275#S12274",
     "date": "03/10/2026 15:17",
     "status": "สถานะ: รอชำระเงิน",
@@ -662,9 +1054,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,065.00",
-            "total_thb": "฿ 5,495.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,495.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-16-1-220V-SY 原价213元。"
           },
           {
@@ -674,9 +1066,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 720.00",
-            "total_thb": "฿ 3,715.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,715.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-12-1-220V-SY 原价144元。"
           },
           {
@@ -686,9 +1078,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,150.00",
-            "total_thb": "฿ 11,094.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 11,094.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-16-1-24VDC-SY 原价213元。"
           },
           {
@@ -698,9 +1090,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 720.00",
-            "total_thb": "฿ 3,715.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,715.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-12-1-24VDC-SY 原价144元。"
           },
           {
@@ -710,9 +1102,9 @@
             "qty": "70.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 4,690.00",
-            "total_thb": "฿ 24,200.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 24,200.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-08-1-220V-SY 原价66元。"
           },
           {
@@ -722,9 +1114,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,010.00",
-            "total_thb": "฿ 10,371.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 10,371.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-08-1-24VDC-SY 原价66元。"
           },
           {
@@ -734,9 +1126,9 @@
             "qty": "60.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,460.00",
-            "total_thb": "฿ 12,693.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 12,693.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-04-1-220V-SY 原价41元。"
           }
         ],
@@ -745,7 +1137,7 @@
           "total_qty": "185",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥13,815.00",
-          "total_all_thb": "฿71,285.40"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -753,7 +1145,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12272",
-    "scraped_at": "07/10/2026 02:45:45",
+    "scraped_at": "07/10/2026 08:47:29",
     "order_id": "PN-1275#S12272",
     "date": "03/10/2026 13:30",
     "status": "สถานะ: รอชำระเงิน",
@@ -763,7 +1155,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 256.00 หยวน",
+      "net_cny": "¥ 266.00 หยวน",
       "net_thb": "1,372.56 บาท",
       "grand_net": null
     },
@@ -777,10 +1169,10 @@
             "price_cny": "¥ 1.35",
             "qty": "60.00",
             "ship_cny": "¥ 10.00",
-            "total_cny": "¥ 81.00",
-            "total_thb": "฿ 417.96",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 91.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 469.56",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-DN10"
           },
           {
@@ -790,9 +1182,9 @@
             "qty": "70.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 175.00",
-            "total_thb": "฿ 903.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 903.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-DN20"
           }
         ],
@@ -800,8 +1192,8 @@
           "total_price_cny": "¥256.00",
           "total_qty": "130",
           "total_ship_cny": "¥10.00",
-          "total_all_cny": "¥256.00",
-          "total_all_thb": "฿1,320.96"
+          "total_all_cny": "¥266.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -809,7 +1201,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12271",
-    "scraped_at": "07/10/2026 02:45:44",
+    "scraped_at": "07/10/2026 08:47:30",
     "order_id": "PN-1275#S12271",
     "date": "03/10/2026 11:05",
     "status": "สถานะ: รอชำระเงิน",
@@ -834,9 +1226,9 @@
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,740.00",
-            "total_thb": "฿ 8,978.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,978.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-ZQB-12VDC-02 ขนาด 2 นิ้ว 12V ราคาเดิม 87 หยวน"
           },
           {
@@ -846,9 +1238,9 @@
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,360.00",
-            "total_thb": "฿ 7,017.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 7,017.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-ZQB-12VDC-01 เคยได้ราคาอยู่ที่ 63 หยวน"
           },
           {
@@ -858,9 +1250,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 289.85",
-            "total_thb": "฿ 1,495.63",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,495.63",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-ZQB-12VDC-01-B เคยได้ราคาอยู่ที่ 58 หยวน"
           },
           {
@@ -870,9 +1262,9 @@
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,740.00",
-            "total_thb": "฿ 8,978.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,978.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-ZQB-24VDC-02 ราคาเดิม 87 หยวน แบบคีบแบตเตอร์"
           }
         ],
@@ -881,7 +1273,7 @@
           "total_qty": "65",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥5,129.85",
-          "total_all_thb": "฿26,470.03"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -889,7 +1281,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12270",
-    "scraped_at": "07/10/2026 02:45:47",
+    "scraped_at": "07/10/2026 08:47:31",
     "order_id": "PN-1275#S12270",
     "date": "03/10/2026 10:47",
     "status": "สถานะ: รอชำระเงิน",
@@ -899,7 +1291,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 367.80 หยวน",
+      "net_cny": "¥ 379.80 หยวน",
       "net_thb": "1,959.77 บาท",
       "grand_net": null
     },
@@ -913,10 +1305,10 @@
             "price_cny": "¥ 2.62",
             "qty": "60.00",
             "ship_cny": "¥ 12.00",
-            "total_cny": "¥ 157.20",
-            "total_thb": "฿ 811.15",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 169.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 873.07",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-ELB-M-03-B"
           },
           {
@@ -926,9 +1318,9 @@
             "qty": "60.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 210.60",
-            "total_thb": "฿ 1,086.70",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,086.70",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-ELB-M-04-BR"
           }
         ],
@@ -936,8 +1328,8 @@
           "total_price_cny": "¥367.80",
           "total_qty": "120",
           "total_ship_cny": "¥12.00",
-          "total_all_cny": "¥367.80",
-          "total_all_thb": "฿1,897.85"
+          "total_all_cny": "¥379.80",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -945,7 +1337,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12268",
-    "scraped_at": "07/10/2026 02:45:46",
+    "scraped_at": "07/10/2026 08:47:33",
     "order_id": "PN-1275#S12268",
     "date": "03/10/2026 09:50",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -955,7 +1347,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 50.40 หยวน",
+      "net_cny": "¥ 58.40 หยวน",
       "net_thb": "301.34 บาท",
       "grand_net": null
     },
@@ -969,10 +1361,10 @@
             "price_cny": "¥ 0.84",
             "qty": "60.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 50.40",
-            "total_thb": "฿ 260.06",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 58.40",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 301.34",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-CUT-BK"
           }
         ],
@@ -980,8 +1372,8 @@
           "total_price_cny": "¥50.40",
           "total_qty": "60",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥50.40",
-          "total_all_thb": "฿260.06"
+          "total_all_cny": "¥58.40",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -989,7 +1381,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12263",
-    "scraped_at": "07/10/2026 02:45:49",
+    "scraped_at": "07/10/2026 08:47:33",
     "order_id": "PN-1275#S12263",
     "date": "02/10/2026 16:40",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -999,7 +1391,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,798.80 หยวน",
+      "net_cny": "¥ 1,838.80 หยวน",
       "net_thb": "9,488.21 บาท",
       "grand_net": null
     },
@@ -1013,10 +1405,10 @@
             "price_cny": "¥ 1.38",
             "qty": "50.00",
             "ship_cny": "¥ 40.00",
-            "total_cny": "¥ 69.00",
-            "total_thb": "฿ 356.04",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 109.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 562.44",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SSA04-BK"
           },
           {
@@ -1026,9 +1418,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 180.00",
-            "total_thb": "฿ 928.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 928.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SSA06-BK"
           },
           {
@@ -1038,9 +1430,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 252.00",
-            "total_thb": "฿ 1,300.32",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,300.32",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SSA08-BK"
           },
           {
@@ -1050,9 +1442,9 @@
             "qty": "200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 142.00",
-            "total_thb": "฿ 732.72",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 732.72",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PC10-02"
           },
           {
@@ -1062,9 +1454,9 @@
             "qty": "40.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 62.80",
-            "total_thb": "฿ 324.05",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 324.05",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PCF06-04"
           },
           {
@@ -1074,9 +1466,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 185.00",
-            "total_thb": "฿ 954.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 954.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PCF12-04"
           },
           {
@@ -1086,9 +1478,9 @@
             "qty": "200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 384.00",
-            "total_thb": "฿ 1,981.44",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,981.44",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PL10-02"
           },
           {
@@ -1098,9 +1490,9 @@
             "qty": "150.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 288.00",
-            "total_thb": "฿ 1,486.08",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,486.08",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PL08-02"
           },
           {
@@ -1110,9 +1502,9 @@
             "qty": "200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 126.00",
-            "total_thb": "฿ 650.16",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 650.16",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPL08-02-BK"
           },
           {
@@ -1122,9 +1514,9 @@
             "qty": "200.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 110.00",
-            "total_thb": "฿ 567.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 567.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPEG12-08-12-BK"
           }
         ],
@@ -1132,8 +1524,8 @@
           "total_price_cny": "¥1,798.80",
           "total_qty": "1340",
           "total_ship_cny": "¥40.00",
-          "total_all_cny": "¥1,798.80",
-          "total_all_thb": "฿9,281.81"
+          "total_all_cny": "¥1,838.80",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -1141,7 +1533,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12262",
-    "scraped_at": "07/10/2026 02:45:48",
+    "scraped_at": "07/10/2026 08:47:35",
     "order_id": "PN-1275#S12262",
     "date": "02/10/2026 16:35",
     "status": "สถานะ: รอชำระเงิน",
@@ -1151,7 +1543,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 5,500.00 หยวน",
+      "net_cny": "¥ 5,600.00 หยวน",
       "net_thb": "28,896.00 บาท",
       "grand_net": null
     },
@@ -1165,18 +1557,18 @@
             "price_cny": "¥ 550.00",
             "qty": "10.00",
             "ship_cny": "¥ 100.00",
-            "total_cny": "¥ 5,500.00",
-            "total_thb": "฿ 28,380.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 5,600.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 28,896.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥5,500.00",
           "total_qty": "10",
           "total_ship_cny": "¥100.00",
-          "total_all_cny": "¥5,500.00",
-          "total_all_thb": "฿28,380.00"
+          "total_all_cny": "¥5,600.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -1184,7 +1576,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12257",
-    "scraped_at": "07/10/2026 02:45:52",
+    "scraped_at": "07/10/2026 08:47:36",
     "order_id": "PN-1275#S12257",
     "date": "01/10/2026 17:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1194,7 +1586,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 175.00 หยวน",
+      "net_cny": "¥ 183.00 หยวน",
       "net_thb": "944.28 บาท",
       "grand_net": null
     },
@@ -1208,10 +1600,10 @@
             "price_cny": "¥ 3.50",
             "qty": "50.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 175.00",
-            "total_thb": "฿ 903.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 183.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 944.28",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-ELE-029-220V ราคาเดิม 3.50 หยวน"
           }
         ],
@@ -1219,8 +1611,8 @@
           "total_price_cny": "¥175.00",
           "total_qty": "50",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥175.00",
-          "total_all_thb": "฿903.00"
+          "total_all_cny": "¥183.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -1259,17 +1651,17 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12256",
-    "scraped_at": "07/10/2026 02:45:50",
+    "scraped_at": "07/10/2026 08:47:37",
     "order_id": "PN-1275#S12256",
     "date": "01/10/2026 17:07",
-    "status": "สถานะ: รอเลขขนส่ง",
+    "status": "สถานะ: สั่งซื้อสำเร็จ",
     "shipping_type": "โดยเรือ",
     "order_note": "13-CON-10A-LB ราคาเดิม 9.30 หยวน",
     "summary": {
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 558.00 หยวน",
+      "net_cny": "¥ 578.00 หยวน",
       "net_thb": "2,982.48 บาท",
       "grand_net": null
     },
@@ -1283,26 +1675,57 @@
             "price_cny": "¥ 9.30",
             "qty": "60.00",
             "ship_cny": "¥ 20.00",
-            "total_cny": "¥ 558.00",
-            "total_thb": "฿ 2,879.28",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 578.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,982.48",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥558.00",
           "total_qty": "60",
           "total_ship_cny": "¥20.00",
-          "total_all_cny": "¥558.00",
-          "total_all_thb": "฿2,879.28"
+          "total_all_cny": "¥578.00",
+          "total_all_thb": "฿0.00"
         },
-        "tracking_numbers": []
+        "tracking_numbers": [
+          {
+            "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=XF0075108935-%E4%BF%A1%E4%B8%B0",
+            "tracking_id": "เลขพัสดุ : XF0075108935-信丰",
+            "date": "07/10/26 : 14:43",
+            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "product_description": null,
+            "note": null,
+            "box_type": "1",
+            "width": "0.00",
+            "length": "0.00",
+            "height": "0.00",
+            "weight": "0.00",
+            "volume": "0.0000",
+            "shipping_fee": "0.00",
+            "crate_fee": "0.00",
+            "check_fee": "0.00",
+            "other_fee": "0.00",
+            "discount": "0.00",
+            "total": "0.00",
+            "product_type": "-",
+            "shipped_by": "เรือ",
+            "calculated_by": "-",
+            "shipping_rate": "0.00",
+            "total_net_thb": "0.00",
+            "lot_id": null,
+            "lot_container_close": null,
+            "lot_status": null,
+            "lot_departed_china": null,
+            "lot_arrived_thai": null
+          }
+        ]
       }
     ]
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12255",
-    "scraped_at": "07/10/2026 02:45:56",
+    "scraped_at": "07/10/2026 08:47:40",
     "order_id": "PN-1275#S12255",
     "date": "01/10/2026 15:37",
     "status": "สถานะ: รอชำระเงิน",
@@ -1327,9 +1750,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 35.40",
-            "total_thb": "฿ 182.66",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 182.66",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: ลูกค้าพรีออเดอร์"
           }
         ],
@@ -1338,7 +1761,7 @@
           "total_qty": "3",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥35.40",
-          "total_all_thb": "฿182.66"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -1346,7 +1769,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12248",
-    "scraped_at": "07/10/2026 02:45:52",
+    "scraped_at": "07/10/2026 08:47:40",
     "order_id": "PN-1275#S12248",
     "date": "30/09/2026 16:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1356,7 +1779,7 @@
       "rate": "5.16 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 328.00 หยวน",
+      "net_cny": "¥ 338.00 หยวน",
       "net_thb": "1,744.08 บาท",
       "grand_net": null
     },
@@ -1370,10 +1793,10 @@
             "price_cny": "¥ 8.20",
             "qty": "40.00",
             "ship_cny": "¥ 10.00",
-            "total_cny": "¥ 328.00",
-            "total_thb": "฿ 1,692.48",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 338.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,744.08",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-CCSS-04-11020"
           }
         ],
@@ -1381,8 +1804,8 @@
           "total_price_cny": "¥328.00",
           "total_qty": "40",
           "total_ship_cny": "¥10.00",
-          "total_all_cny": "¥328.00",
-          "total_all_thb": "฿1,692.48"
+          "total_all_cny": "¥338.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -1421,7 +1844,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12225",
-    "scraped_at": "07/10/2026 02:45:57",
+    "scraped_at": "07/10/2026 08:47:42",
     "order_id": "PN-1275#S12225",
     "date": "29/09/2026 14:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1431,7 +1854,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,672.00 หยวน",
+      "net_cny": "¥ 1,696.00 หยวน",
       "net_thb": "8,649.60 บาท",
       "grand_net": null
     },
@@ -1445,10 +1868,10 @@
             "price_cny": "¥ 7.00",
             "qty": "40.00",
             "ship_cny": "¥ 24.00",
-            "total_cny": "¥ 280.00",
-            "total_thb": "฿ 1,428.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 304.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,550.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-BBSS-02-6524"
           },
           {
@@ -1458,9 +1881,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 750.00",
-            "total_thb": "฿ 3,825.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,825.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-BBSS-04-6515"
           },
           {
@@ -1470,9 +1893,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 82.00",
-            "total_thb": "฿ 418.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 418.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-CCSS-04-11003"
           },
           {
@@ -1482,9 +1905,9 @@
             "qty": "80.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 560.00",
-            "total_thb": "฿ 2,856.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,856.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-BBSS-02-6520"
           }
         ],
@@ -1492,8 +1915,8 @@
           "total_price_cny": "¥1,672.00",
           "total_qty": "180",
           "total_ship_cny": "¥24.00",
-          "total_all_cny": "¥1,672.00",
-          "total_all_thb": "฿8,527.20"
+          "total_all_cny": "¥1,696.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -1532,7 +1955,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12224",
-    "scraped_at": "07/10/2026 02:45:56",
+    "scraped_at": "07/10/2026 08:47:44",
     "order_id": "PN-1275#S12224",
     "date": "29/09/2026 14:29",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -1556,10 +1979,10 @@
             "price_cny": "¥ 1.20",
             "qty": "1200.00",
             "ship_cny": "¥ 122.00",
-            "total_cny": "¥ 1,440.00",
-            "total_thb": "฿ 7,344.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "เกินกำหนดชำระ",
+            "total_cny": "¥ 1,562.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 7,966.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เกินกำหนดชำระ"
           },
           {
@@ -1569,9 +1992,9 @@
             "qty": "1300.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,210.00",
-            "total_thb": "฿ 11,271.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "เกินกำหนดชำระ",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 11,271.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เกินกำหนดชำระ"
           },
           {
@@ -1581,9 +2004,9 @@
             "qty": "500.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 850.00",
-            "total_thb": "฿ 4,335.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "เกินกำหนดชำระ",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,335.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เกินกำหนดชำระ"
           }
         ],
@@ -1600,7 +2023,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12223",
-    "scraped_at": "07/10/2026 02:46:02",
+    "scraped_at": "07/10/2026 08:47:46",
     "order_id": "PN-1275#S12223",
     "date": "29/09/2026 14:18",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -1610,7 +2033,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,110.00 หยวน",
+      "net_cny": "¥ 1,135.00 หยวน",
       "net_thb": "5,788.50 บาท",
       "grand_net": null
     },
@@ -1624,10 +2047,10 @@
             "price_cny": "¥ 18.50",
             "qty": "40.00",
             "ship_cny": "¥ 25.00",
-            "total_cny": "¥ 740.00",
-            "total_thb": "฿ 3,774.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 765.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,901.50",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "YANP/盐盘KG316T-II时控开关定时器AC220V时间控制器3V芯片12V",
@@ -1636,17 +2059,17 @@
             "qty": "20.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 370.00",
-            "total_thb": "฿ 1,887.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,887.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥1,110.00",
           "total_qty": "60",
           "total_ship_cny": "¥25.00",
-          "total_all_cny": "¥1,110.00",
-          "total_all_thb": "฿5,661.00"
+          "total_all_cny": "¥1,135.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -1654,7 +2077,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12222",
-    "scraped_at": "07/10/2026 02:45:58",
+    "scraped_at": "07/10/2026 08:47:46",
     "order_id": "PN-1275#S12221",
     "date": "29/09/2026 14:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1679,9 +2102,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,650.00",
-            "total_thb": "฿ 8,415.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,415.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-SFIB1-270-02 ราคาเดิม 55 หยวน"
           }
         ],
@@ -1690,7 +2113,7 @@
           "total_qty": "30",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥1,650.00",
-          "total_all_thb": "฿8,415.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -1729,7 +2152,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12220",
-    "scraped_at": "07/10/2026 02:46:04",
+    "scraped_at": "07/10/2026 08:47:48",
     "order_id": "PN-1275#S12220",
     "date": "29/09/2026 13:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1754,9 +2177,9 @@
             "qty": "220.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 330.00",
-            "total_thb": "฿ 1,683.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,683.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-SNPPW-"
           },
           {
@@ -1766,9 +2189,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 14.00",
-            "total_thb": "฿ 71.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 71.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-SNPPW-"
           }
         ],
@@ -1777,7 +2200,7 @@
           "total_qty": "270",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥344.00",
-          "total_all_thb": "฿1,754.40"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -1816,7 +2239,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12215",
-    "scraped_at": "07/10/2026 02:46:02",
+    "scraped_at": "07/10/2026 08:47:50",
     "order_id": "PN-1275#S12215",
     "date": "29/09/2026 12:05",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -1841,9 +2264,9 @@
             "qty": "40.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,840.00",
-            "total_thb": "฿ 14,484.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 14,484.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
@@ -1851,7 +2274,7 @@
           "total_qty": "40",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥2,840.00",
-          "total_all_thb": "฿14,484.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -1952,7 +2375,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12213",
-    "scraped_at": "07/10/2026 02:46:08",
+    "scraped_at": "07/10/2026 08:47:52",
     "order_id": "PN-1275#S12213",
     "date": "29/09/2026 11:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1962,7 +2385,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 297.00 หยวน",
+      "net_cny": "¥ 309.00 หยวน",
       "net_thb": "1,575.90 บาท",
       "grand_net": null
     },
@@ -1976,18 +2399,18 @@
             "price_cny": "¥ 4.95",
             "qty": "60.00",
             "ship_cny": "¥ 12.00",
-            "total_cny": "¥ 297.00",
-            "total_thb": "฿ 1,514.70",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 309.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,575.90",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥297.00",
           "total_qty": "60",
           "total_ship_cny": "¥12.00",
-          "total_all_cny": "¥297.00",
-          "total_all_thb": "฿1,514.70"
+          "total_all_cny": "¥309.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2026,7 +2449,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12211",
-    "scraped_at": "07/10/2026 02:46:04",
+    "scraped_at": "07/10/2026 08:47:52",
     "order_id": "PN-1275#S12211",
     "date": "29/09/2026 11:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2036,7 +2459,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,078.00 หยวน",
+      "net_cny": "¥ 1,128.00 หยวน",
       "net_thb": "5,752.80 บาท",
       "grand_net": null
     },
@@ -2050,10 +2473,10 @@
             "price_cny": "¥ 0.41",
             "qty": "150.00",
             "ship_cny": "¥ 50.00",
-            "total_cny": "¥ 61.50",
-            "total_thb": "฿ 313.65",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 111.50",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 568.65",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "气管快速接头PU直通PE塑料三通PG变径气泵气动接头配件高压快插",
@@ -2062,9 +2485,9 @@
             "qty": "900.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 459.00",
-            "total_thb": "฿ 2,340.90",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,340.90",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "对丝外丝转换接头4分补心直接内外接内接变径内螺纹外螺纹",
@@ -2073,9 +2496,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 144.00",
-            "total_thb": "฿ 734.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 734.40",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "对丝外丝转换接头4分补心直接内外接内接变径内螺纹外螺纹",
@@ -2084,9 +2507,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 96.00",
-            "total_thb": "฿ 489.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 489.60",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "节流阀快速接头SL6-01/8-02/10-02气动元件快插防漏防漏设计直通",
@@ -2095,9 +2518,9 @@
             "qty": "80.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 200.00",
-            "total_thb": "฿ 1,020.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,020.00",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "内螺纹直通快速接头PCF8-02PLF10-02管90度内丝螺纹弯头L型气动",
@@ -2106,17 +2529,17 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 117.50",
-            "total_thb": "฿ 599.25",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 599.25",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥1,078.00",
           "total_qty": "1380",
           "total_ship_cny": "¥50.00",
-          "total_all_cny": "¥1,078.00",
-          "total_all_thb": "฿5,497.80"
+          "total_all_cny": "¥1,128.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2155,7 +2578,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12209",
-    "scraped_at": "07/10/2026 02:46:12",
+    "scraped_at": "07/10/2026 08:47:55",
     "order_id": "PN-1275#S12209",
     "date": "29/09/2026 09:47",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -2179,10 +2602,10 @@
             "price_cny": "¥ 33.00",
             "qty": "50.00",
             "ship_cny": "¥ 75.00",
-            "total_cny": "¥ 1,650.00",
-            "total_thb": "฿ 8,415.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "เกินกำหนด",
+            "total_cny": "¥ 1,725.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,797.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เกินกำหนด"
           }
         ],
@@ -2199,7 +2622,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12195",
-    "scraped_at": "07/10/2026 02:46:08",
+    "scraped_at": "07/10/2026 08:47:56",
     "order_id": "PN-1275#S12195",
     "date": "25/09/2026 16:54",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2224,9 +2647,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,050.00",
-            "total_thb": "฿ 5,355.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,355.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-CSV-02-12VDC-SE ราคาเดิม 21 หยวน"
           }
         ],
@@ -2235,7 +2658,7 @@
           "total_qty": "50",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥1,050.00",
-          "total_all_thb": "฿5,355.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2348,7 +2771,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12192",
-    "scraped_at": "07/10/2026 02:46:14",
+    "scraped_at": "07/10/2026 08:47:57",
     "order_id": "PN-1275#S12192",
     "date": "25/09/2026 15:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2358,7 +2781,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 187.00 หยวน",
+      "net_cny": "¥ 209.00 หยวน",
       "net_thb": "1,065.90 บาท",
       "grand_net": null
     },
@@ -2372,10 +2795,10 @@
             "price_cny": "¥ 0.95",
             "qty": "20.00",
             "ship_cny": "¥ 22.00",
-            "total_cny": "¥ 19.00",
-            "total_thb": "฿ 96.90",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 41.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 209.10",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "全铜堵头堵帽内丝外丝水管堵头闷头管堵内外丝堵内丝六角黄铜堵头",
@@ -2384,9 +2807,9 @@
             "qty": "80.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 84.00",
-            "total_thb": "฿ 428.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 428.40",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "全铜堵头堵帽内丝外丝水管堵头闷头管堵内外丝堵内丝六角黄铜堵头",
@@ -2395,17 +2818,17 @@
             "qty": "60.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 84.00",
-            "total_thb": "฿ 428.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 428.40",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥187.00",
           "total_qty": "160",
           "total_ship_cny": "¥22.00",
-          "total_all_cny": "¥187.00",
-          "total_all_thb": "฿953.70"
+          "total_all_cny": "¥209.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2444,7 +2867,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12191",
-    "scraped_at": "07/10/2026 02:46:14",
+    "scraped_at": "07/10/2026 08:48:02",
     "order_id": "PN-1275#S12191",
     "date": "25/09/2026 14:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2469,9 +2892,9 @@
             "qty": "2.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 120.00",
-            "total_thb": "฿ 612.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 612.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-02-1-"
           },
           {
@@ -2481,9 +2904,9 @@
             "qty": "2.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 120.00",
-            "total_thb": "฿ 612.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 612.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-02-1-"
           },
           {
@@ -2493,9 +2916,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 650.00",
-            "total_thb": "฿ 3,315.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,315.00",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "2W常开电磁阀水阀220V24V12V 2分4分6分1寸1.2寸1寸半2寸水阀气阀",
@@ -2504,9 +2927,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 650.00",
-            "total_thb": "฿ 3,315.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,315.00",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "2W常开电磁阀水阀220V24V12V 2分4分6分1寸1.2寸1寸半2寸水阀气阀",
@@ -2515,9 +2938,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 390.00",
-            "total_thb": "฿ 1,989.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,989.00",
+            "item_note": "¥ 0.00"
           },
           {
             "name": "森亚SYPC电磁阀水阀气阀2W025-08/2W160-15/2W250-25/2W400-40",
@@ -2526,9 +2949,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,050.00",
-            "total_thb": "฿ 10,455.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 10,455.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-04-1-220V-SY ราคาเดิม 41 หยวน"
           },
           {
@@ -2538,9 +2961,9 @@
             "qty": "2.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 170.00",
-            "total_thb": "฿ 867.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 867.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-04-1-"
           },
           {
@@ -2550,9 +2973,9 @@
             "qty": "2.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 170.00",
-            "total_thb": "฿ 867.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 867.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-04-1-"
           },
           {
@@ -2562,9 +2985,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 420.00",
-            "total_thb": "฿ 2,142.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,142.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-08-1-"
           },
           {
@@ -2574,9 +2997,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 420.00",
-            "total_thb": "฿ 2,142.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,142.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2S-08-1-"
           }
         ],
@@ -2585,7 +3008,7 @@
           "total_qty": "77",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥5,160.00",
-          "total_all_thb": "฿26,316.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2668,7 +3091,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12189",
-    "scraped_at": "07/10/2026 02:46:18",
+    "scraped_at": "07/10/2026 08:48:01",
     "order_id": "PN-1275#S12189",
     "date": "25/09/2026 12:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2678,7 +3101,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 540.00 หยวน",
+      "net_cny": "¥ 568.00 หยวน",
       "net_thb": "2,896.80 บาท",
       "grand_net": null
     },
@@ -2692,10 +3115,10 @@
             "price_cny": "¥ 1.80",
             "qty": "300.00",
             "ship_cny": "¥ 28.00",
-            "total_cny": "¥ 540.00",
-            "total_thb": "฿ 2,754.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 568.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,896.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-WF-T-WAY-B"
           }
         ],
@@ -2703,8 +3126,8 @@
           "total_price_cny": "¥540.00",
           "total_qty": "300",
           "total_ship_cny": "¥28.00",
-          "total_all_cny": "¥540.00",
-          "total_all_thb": "฿2,754.00"
+          "total_all_cny": "¥568.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2743,7 +3166,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12188",
-    "scraped_at": "07/10/2026 02:46:19",
+    "scraped_at": "07/10/2026 08:48:06",
     "order_id": "PN-1275#S12188",
     "date": "25/09/2026 09:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2753,7 +3176,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,700.00 หยวน",
+      "net_cny": "¥ 1,758.00 หยวน",
       "net_thb": "8,965.80 บาท",
       "grand_net": null
     },
@@ -2767,10 +3190,10 @@
             "price_cny": "¥ 17.00",
             "qty": "100.00",
             "ship_cny": "¥ 58.00",
-            "total_cny": "¥ 1,700.00",
-            "total_thb": "฿ 8,670.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 1,758.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,965.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 10-THC15A-12VDC-16 ราคา 17 หยวน"
           }
         ],
@@ -2778,8 +3201,8 @@
           "total_price_cny": "¥1,700.00",
           "total_qty": "100",
           "total_ship_cny": "¥58.00",
-          "total_all_cny": "¥1,700.00",
-          "total_all_thb": "฿8,670.00"
+          "total_all_cny": "¥1,758.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2818,7 +3241,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12187",
-    "scraped_at": "07/10/2026 02:46:21",
+    "scraped_at": "07/10/2026 08:48:05",
     "order_id": "PN-1275#S12187",
     "date": "25/09/2026 09:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2828,7 +3251,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 63.00 หยวน",
+      "net_cny": "¥ 72.00 หยวน",
       "net_thb": "367.20 บาท",
       "grand_net": null
     },
@@ -2842,10 +3265,10 @@
             "price_cny": "¥ 6.30",
             "qty": "10.00",
             "ship_cny": "¥ 9.00",
-            "total_cny": "¥ 63.00",
-            "total_thb": "฿ 321.30",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 72.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 367.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-HTC-1 นาฬิกาวัดความชื้นและอุณหภูมิ HTC-1"
           }
         ],
@@ -2853,8 +3276,8 @@
           "total_price_cny": "¥63.00",
           "total_qty": "10",
           "total_ship_cny": "¥9.00",
-          "total_all_cny": "¥63.00",
-          "total_all_thb": "฿321.30"
+          "total_all_cny": "¥72.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2893,7 +3316,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12186",
-    "scraped_at": "07/10/2026 02:46:23",
+    "scraped_at": "07/10/2026 08:48:11",
     "order_id": "PN-1275#S12186",
     "date": "25/09/2026 09:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2903,7 +3326,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 540.00 หยวน",
+      "net_cny": "¥ 548.00 หยวน",
       "net_thb": "2,794.80 บาท",
       "grand_net": null
     },
@@ -2917,10 +3340,10 @@
             "price_cny": "¥ 108.00",
             "qty": "5.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 540.00",
-            "total_thb": "฿ 2,754.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 548.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,794.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-Y-002 มิเตอร์สีแดง 11A สีแดง"
           }
         ],
@@ -2928,8 +3351,8 @@
           "total_price_cny": "¥540.00",
           "total_qty": "5",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥540.00",
-          "total_all_thb": "฿2,754.00"
+          "total_all_cny": "¥548.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -2968,7 +3391,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12185",
-    "scraped_at": "07/10/2026 02:46:25",
+    "scraped_at": "07/10/2026 08:48:09",
     "order_id": "PN-1275#S12185",
     "date": "25/09/2026 09:39",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -2978,7 +3401,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 13,650.00 หยวน",
+      "net_cny": "¥ 14,350.00 หยวน",
       "net_thb": "73,185.00 บาท",
       "grand_net": null
     },
@@ -2992,10 +3415,10 @@
             "price_cny": "¥ 195.00",
             "qty": "70.00",
             "ship_cny": "¥ 700.00",
-            "total_cny": "¥ 13,650.00",
-            "total_thb": "฿ 69,615.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 14,350.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 73,185.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-ACTP60-220V ปั๊มดูดน้ำมัน AC220V 550W ACTP60"
           }
         ],
@@ -3003,8 +3426,8 @@
           "total_price_cny": "¥13,650.00",
           "total_qty": "70",
           "total_ship_cny": "¥700.00",
-          "total_all_cny": "¥13,650.00",
-          "total_all_thb": "฿69,615.00"
+          "total_all_cny": "¥14,350.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -3012,7 +3435,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12181",
-    "scraped_at": "07/10/2026 02:46:26",
+    "scraped_at": "07/10/2026 08:48:15",
     "order_id": "PN-1275#S12181",
     "date": "24/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3022,7 +3445,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 776.00 หยวน",
+      "net_cny": "¥ 788.00 หยวน",
       "net_thb": "4,018.80 บาท",
       "grand_net": null
     },
@@ -3036,10 +3459,10 @@
             "price_cny": "¥ 3.88",
             "qty": "200.00",
             "ship_cny": "¥ 12.00",
-            "total_cny": "¥ 776.00",
-            "total_thb": "฿ 3,957.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 788.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,018.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: ลูกค้าพรีออเดอร์ 200 ตัวค่ะ"
           }
         ],
@@ -3047,8 +3470,8 @@
           "total_price_cny": "¥776.00",
           "total_qty": "200",
           "total_ship_cny": "¥12.00",
-          "total_all_cny": "¥776.00",
-          "total_all_thb": "฿3,957.60"
+          "total_all_cny": "¥788.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3131,7 +3554,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12171",
-    "scraped_at": "07/10/2026 02:46:27",
+    "scraped_at": "07/10/2026 08:48:11",
     "order_id": "PN-1275#S12171",
     "date": "23/09/2026 14:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3141,7 +3564,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,125.00 หยวน",
+      "net_cny": "¥ 1,140.00 หยวน",
       "net_thb": "5,814.00 บาท",
       "grand_net": null
     },
@@ -3155,10 +3578,10 @@
             "price_cny": "¥ 63.40",
             "qty": "15.00",
             "ship_cny": "¥ 15.00",
-            "total_cny": "¥ 951.00",
-            "total_thb": "฿ 4,850.10",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 966.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,926.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BFV-16 ราคาเดิม 63.4 หยวน"
           },
           {
@@ -3168,9 +3591,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 174.00",
-            "total_thb": "฿ 887.40",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 887.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BFV-04 ราคาเดิม 5.80 หยวน"
           }
         ],
@@ -3178,8 +3601,8 @@
           "total_price_cny": "¥1,125.00",
           "total_qty": "45",
           "total_ship_cny": "¥15.00",
-          "total_all_cny": "¥1,125.00",
-          "total_all_thb": "฿5,737.50"
+          "total_all_cny": "¥1,140.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3218,7 +3641,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12168",
-    "scraped_at": "07/10/2026 02:46:31",
+    "scraped_at": "07/10/2026 08:48:19",
     "order_id": "PN-1275#S12168",
     "date": "22/09/2026 15:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3228,7 +3651,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 204.40 หยวน",
+      "net_cny": "¥ 212.40 หยวน",
       "net_thb": "1,083.24 บาท",
       "grand_net": null
     },
@@ -3242,10 +3665,10 @@
             "price_cny": "¥ 12.00",
             "qty": "1.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 12.00",
-            "total_thb": "฿ 61.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 20.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 102.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: ลูกค้าพรีออเดอร์ ในเว็ป"
           },
           {
@@ -3255,9 +3678,9 @@
             "qty": "8.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 122.40",
-            "total_thb": "฿ 624.24",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 624.24",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-SPN-FC-EH-SS-0228"
           },
           {
@@ -3267,9 +3690,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 70.00",
-            "total_thb": "฿ 357.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 357.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-BBSS-02-6535"
           }
         ],
@@ -3277,8 +3700,8 @@
           "total_price_cny": "¥204.40",
           "total_qty": "19",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥204.40",
-          "total_all_thb": "฿1,042.44"
+          "total_all_cny": "¥212.40",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3317,7 +3740,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12166",
-    "scraped_at": "07/10/2026 02:46:31",
+    "scraped_at": "07/10/2026 08:48:16",
     "order_id": "PN-1275#S12166",
     "date": "22/09/2026 11:32",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3327,7 +3750,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 325.00 หยวน",
+      "net_cny": "¥ 331.00 หยวน",
       "net_thb": "1,688.10 บาท",
       "grand_net": null
     },
@@ -3341,10 +3764,10 @@
             "price_cny": "¥ 0.65",
             "qty": "500.00",
             "ship_cny": "¥ 6.00",
-            "total_cny": "¥ 325.00",
-            "total_thb": "฿ 1,657.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 331.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,688.10",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 08-JDC-TYPE C-1"
           }
         ],
@@ -3352,8 +3775,8 @@
           "total_price_cny": "¥325.00",
           "total_qty": "500",
           "total_ship_cny": "¥6.00",
-          "total_all_cny": "¥325.00",
-          "total_all_thb": "฿1,657.50"
+          "total_all_cny": "¥331.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3392,7 +3815,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12165",
-    "scraped_at": "07/10/2026 02:46:36",
+    "scraped_at": "07/10/2026 08:48:23",
     "order_id": "PN-1275#S12165",
     "date": "22/09/2026 11:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3417,9 +3840,9 @@
             "qty": "40.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 940.00",
-            "total_thb": "฿ 4,794.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,794.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 11-Float switch-B ราคาเดิม 23.5 หยวน"
           }
         ],
@@ -3428,7 +3851,7 @@
           "total_qty": "40",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥940.00",
-          "total_all_thb": "฿4,794.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3467,7 +3890,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12156",
-    "scraped_at": "07/10/2026 02:46:36",
+    "scraped_at": "07/10/2026 08:48:20",
     "order_id": "PN-1275#S12156",
     "date": "19/09/2026 15:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3477,7 +3900,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 2,450.00 หยวน",
+      "net_cny": "¥ 2,465.00 หยวน",
       "net_thb": "12,571.50 บาท",
       "grand_net": null
     },
@@ -3491,18 +3914,18 @@
             "price_cny": "¥ 245.00",
             "qty": "10.00",
             "ship_cny": "¥ 15.00",
-            "total_cny": "¥ 2,450.00",
-            "total_thb": "฿ 12,495.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 2,465.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 12,571.50",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥2,450.00",
           "total_qty": "10",
           "total_ship_cny": "¥15.00",
-          "total_all_cny": "¥2,450.00",
-          "total_all_thb": "฿12,495.00"
+          "total_all_cny": "¥2,465.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3541,7 +3964,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12155",
-    "scraped_at": "07/10/2026 02:46:40",
+    "scraped_at": "07/10/2026 08:48:27",
     "order_id": "PN-1275#S12155",
     "date": "19/09/2026 11:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3551,7 +3974,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 117.00 หยวน",
+      "net_cny": "¥ 125.00 หยวน",
       "net_thb": "637.50 บาท",
       "grand_net": null
     },
@@ -3565,10 +3988,10 @@
             "price_cny": "¥ 1.57",
             "qty": "60.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 94.20",
-            "total_thb": "฿ 480.42",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 102.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 521.22",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PCF08-04"
           },
           {
@@ -3578,9 +4001,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 22.80",
-            "total_thb": "฿ 116.28",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 116.28",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPV16-BK"
           }
         ],
@@ -3588,8 +4011,8 @@
           "total_price_cny": "¥117.00",
           "total_qty": "90",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥117.00",
-          "total_all_thb": "฿596.70"
+          "total_all_cny": "¥125.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3628,7 +4051,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12154",
-    "scraped_at": "07/10/2026 02:46:40",
+    "scraped_at": "07/10/2026 08:48:24",
     "order_id": "PN-1275#S12154",
     "date": "19/09/2026 11:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3638,7 +4061,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 363.00 หยวน",
+      "net_cny": "¥ 371.00 หยวน",
       "net_thb": "1,892.10 บาท",
       "grand_net": null
     },
@@ -3652,10 +4075,10 @@
             "price_cny": "¥ 14.00",
             "qty": "15.00",
             "ship_cny": "¥ 8.00",
-            "total_cny": "¥ 210.00",
-            "total_thb": "฿ 1,071.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 218.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,111.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-CJX2-1210-24VAC"
           },
           {
@@ -3665,9 +4088,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 78.00",
-            "total_thb": "฿ 397.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 397.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-CJX2-3210-380V"
           },
           {
@@ -3677,9 +4100,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 75.00",
-            "total_thb": "฿ 382.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 382.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-CJX2-2510-220V"
           }
         ],
@@ -3687,8 +4110,8 @@
           "total_price_cny": "¥363.00",
           "total_qty": "21",
           "total_ship_cny": "¥8.00",
-          "total_all_cny": "¥363.00",
-          "total_all_thb": "฿1,851.30"
+          "total_all_cny": "¥371.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3727,7 +4150,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12153",
-    "scraped_at": "07/10/2026 02:46:44",
+    "scraped_at": "07/10/2026 08:48:31",
     "order_id": "PN-1275#S12153",
     "date": "19/09/2026 11:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3737,7 +4160,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 129.80 หยวน",
+      "net_cny": "¥ 136.80 หยวน",
       "net_thb": "697.68 บาท",
       "grand_net": null
     },
@@ -3751,10 +4174,10 @@
             "price_cny": "¥ 6.49",
             "qty": "20.00",
             "ship_cny": "¥ 7.00",
-            "total_cny": "¥ 129.80",
-            "total_thb": "฿ 661.98",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 136.80",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 697.68",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PCF25-08"
           }
         ],
@@ -3762,8 +4185,8 @@
           "total_price_cny": "¥129.80",
           "total_qty": "20",
           "total_ship_cny": "¥7.00",
-          "total_all_cny": "¥129.80",
-          "total_all_thb": "฿661.98"
+          "total_all_cny": "¥136.80",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3802,7 +4225,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12152",
-    "scraped_at": "07/10/2026 02:46:44",
+    "scraped_at": "07/10/2026 08:48:28",
     "order_id": "PN-1275#S12152",
     "date": "18/09/2026 17:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3812,7 +4235,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 830.00 หยวน",
+      "net_cny": "¥ 864.00 หยวน",
       "net_thb": "4,406.40 บาท",
       "grand_net": null
     },
@@ -3826,10 +4249,10 @@
             "price_cny": "¥ 8.30",
             "qty": "100.00",
             "ship_cny": "¥ 34.00",
-            "total_cny": "¥ 830.00",
-            "total_thb": "฿ 4,233.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 864.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,406.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-PH-A ราคาเดิม 8.30 หยวน"
           }
         ],
@@ -3837,8 +4260,8 @@
           "total_price_cny": "¥830.00",
           "total_qty": "100",
           "total_ship_cny": "¥34.00",
-          "total_all_cny": "¥830.00",
-          "total_all_thb": "฿4,233.00"
+          "total_all_cny": "¥864.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3877,7 +4300,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12145",
-    "scraped_at": "07/10/2026 02:46:48",
+    "scraped_at": "07/10/2026 08:48:35",
     "order_id": "PN-1275#S12145",
     "date": "17/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3902,9 +4325,9 @@
             "qty": "15.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 99.00",
-            "total_thb": "฿ 504.90",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 504.90",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 22-FSP-PD-06-68"
           },
           {
@@ -3914,9 +4337,9 @@
             "qty": "2.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 17.00",
-            "total_thb": "฿ 86.70",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 86.70",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: ลูกค้าพรีออเดอร์ 2 ชุด"
           },
           {
@@ -3926,9 +4349,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 14.50",
-            "total_thb": "฿ 73.95",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 73.95",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-AIR-FLT-40-02GY"
           },
           {
@@ -3938,9 +4361,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 125.00",
-            "total_thb": "฿ 637.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 637.50",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
@@ -3948,7 +4371,7 @@
           "total_qty": "72",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥255.50",
-          "total_all_thb": "฿1,303.05"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -3987,7 +4410,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12144",
-    "scraped_at": "07/10/2026 02:46:48",
+    "scraped_at": "07/10/2026 08:48:31",
     "order_id": "PN-1275#S12144",
     "date": "17/09/2026 16:55",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -3997,7 +4420,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 261.20 หยวน",
+      "net_cny": "¥ 276.20 หยวน",
       "net_thb": "1,408.62 บาท",
       "grand_net": null
     },
@@ -4011,10 +4434,10 @@
             "price_cny": "¥ 1.64",
             "qty": "30.00",
             "ship_cny": "¥ 15.00",
-            "total_cny": "¥ 49.20",
-            "total_thb": "฿ 250.92",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 64.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 327.42",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BSR04-06"
           },
           {
@@ -4024,9 +4447,9 @@
             "qty": "80.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 212.00",
-            "total_thb": "฿ 1,081.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,081.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-02-SL10-BK"
           }
         ],
@@ -4034,8 +4457,8 @@
           "total_price_cny": "¥261.20",
           "total_qty": "110",
           "total_ship_cny": "¥15.00",
-          "total_all_cny": "¥261.20",
-          "total_all_thb": "฿1,332.12"
+          "total_all_cny": "¥276.20",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -4043,7 +4466,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12143",
-    "scraped_at": "07/10/2026 02:46:52",
+    "scraped_at": "07/10/2026 08:48:39",
     "order_id": "PN-1275#S12143",
     "date": "17/09/2026 16:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4053,7 +4476,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 386.40 หยวน",
+      "net_cny": "¥ 397.40 หยวน",
       "net_thb": "2,026.74 บาท",
       "grand_net": null
     },
@@ -4067,10 +4490,10 @@
             "price_cny": "¥ 1.96",
             "qty": "60.00",
             "ship_cny": "¥ 11.00",
-            "total_cny": "¥ 117.60",
-            "total_thb": "฿ 599.76",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 128.60",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 655.86",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-PC16-04"
           },
           {
@@ -4080,9 +4503,9 @@
             "qty": "120.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 268.80",
-            "total_thb": "฿ 1,370.88",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,370.88",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPL16-04-BK"
           }
         ],
@@ -4090,8 +4513,8 @@
           "total_price_cny": "¥386.40",
           "total_qty": "180",
           "total_ship_cny": "¥11.00",
-          "total_all_cny": "¥386.40",
-          "total_all_thb": "฿1,970.64"
+          "total_all_cny": "¥397.40",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4174,7 +4597,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12136",
-    "scraped_at": "07/10/2026 02:46:50",
+    "scraped_at": "07/10/2026 08:48:33",
     "order_id": "PN-1275#S12136",
     "date": "16/09/2026 15:55",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -4184,7 +4607,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 3,835.90 หยวน",
+      "net_cny": "¥ 3,955.90 หยวน",
       "net_thb": "20,175.09 บาท",
       "grand_net": null
     },
@@ -4198,10 +4621,10 @@
             "price_cny": "¥ 24.69",
             "qty": "110.00",
             "ship_cny": "¥ 120.00",
-            "total_cny": "¥ 2,715.90",
-            "total_thb": "฿ 13,851.09",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 2,835.90",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 14,463.09",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เปลือย 100 ตัว ราคา 24.69 มีแจ็ค 40 ตัว ราคา 28"
           },
           {
@@ -4211,17 +4634,17 @@
             "qty": "40.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,120.00",
-            "total_thb": "฿ 5,712.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,712.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥3,835.90",
           "total_qty": "150",
           "total_ship_cny": "¥120.00",
-          "total_all_cny": "¥3,835.90",
-          "total_all_thb": "฿19,563.09"
+          "total_all_cny": "¥3,955.90",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -4229,7 +4652,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12134",
-    "scraped_at": "07/10/2026 02:46:56",
+    "scraped_at": "07/10/2026 08:48:43",
     "order_id": "PN-1275#S12134",
     "date": "16/09/2026 14:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4254,9 +4677,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 720.00",
-            "total_thb": "฿ 3,672.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,672.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 08-AD-YU2402 ไม่เอา us plug"
           }
         ],
@@ -4265,7 +4688,7 @@
           "total_qty": "30",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥720.00",
-          "total_all_thb": "฿3,672.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4310,9 +4733,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,100.00",
-            "total_thb": "฿ 10,710.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 10,710.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 08-AD-YU2405"
           }
         ],
@@ -4321,7 +4744,7 @@
           "total_qty": "50",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥2,100.00",
-          "total_all_thb": "฿10,710.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -4373,7 +4796,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12131",
-    "scraped_at": "07/10/2026 02:46:52",
+    "scraped_at": "07/10/2026 08:48:35",
     "order_id": "PN-1275#S12131",
     "date": "16/09/2026 11:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4398,9 +4821,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,230.00",
-            "total_thb": "฿ 6,273.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 6,273.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-2W-04-1-24VDC-SY"
           },
           {
@@ -4410,9 +4833,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 70.00",
-            "total_thb": "฿ 357.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 357.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-DIAV-01-080-SE ราคาเดิม 7 หยวน"
           },
           {
@@ -4422,9 +4845,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 200.00",
-            "total_thb": "฿ 1,020.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,020.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-DIAV-02-150-SE ราคาเดิม 20 หยวน"
           }
         ],
@@ -4433,7 +4856,7 @@
           "total_qty": "50",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥1,500.00",
-          "total_all_thb": "฿7,650.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4472,7 +4895,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12129",
-    "scraped_at": "07/10/2026 02:47:00",
+    "scraped_at": "07/10/2026 08:48:47",
     "order_id": "PN-1275#S12129",
     "date": "16/09/2026 11:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4482,7 +4905,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,950.00 หยวน",
+      "net_cny": "¥ 1,984.00 หยวน",
       "net_thb": "10,118.40 บาท",
       "grand_net": null
     },
@@ -4496,10 +4919,10 @@
             "price_cny": "¥ 15.00",
             "qty": "130.00",
             "ship_cny": "¥ 34.00",
-            "total_cny": "¥ 1,950.00",
-            "total_thb": "฿ 9,945.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 1,984.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 10,118.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12V จำนวน 80 ตัว // 220V จำนวน 50 ตัว ราคาเดิม 15 หยวน"
           }
         ],
@@ -4507,8 +4930,8 @@
           "total_price_cny": "¥1,950.00",
           "total_qty": "130",
           "total_ship_cny": "¥34.00",
-          "total_all_cny": "¥1,950.00",
-          "total_all_thb": "฿9,945.00"
+          "total_all_cny": "¥1,984.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4590,7 +5013,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12122",
-    "scraped_at": "07/10/2026 02:46:56",
+    "scraped_at": "07/10/2026 08:48:40",
     "order_id": "PN-1275#S12122",
     "date": "15/09/2026 16:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4600,7 +5023,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 27.80 หยวน",
+      "net_cny": "¥ 30.80 หยวน",
       "net_thb": "157.08 บาท",
       "grand_net": null
     },
@@ -4614,10 +5037,10 @@
             "price_cny": "¥ 2.78",
             "qty": "10.00",
             "ship_cny": "¥ 3.00",
-            "total_cny": "¥ 27.80",
-            "total_thb": "฿ 141.78",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 30.80",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 157.08",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPLF16-04-BK"
           }
         ],
@@ -4625,8 +5048,8 @@
           "total_price_cny": "¥27.80",
           "total_qty": "10",
           "total_ship_cny": "¥3.00",
-          "total_all_cny": "¥27.80",
-          "total_all_thb": "฿141.78"
+          "total_all_cny": "¥30.80",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4665,7 +5088,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12121",
-    "scraped_at": "07/10/2026 02:47:05",
+    "scraped_at": "07/10/2026 08:48:50",
     "order_id": "PN-1275#S12121",
     "date": "15/09/2026 16:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4690,9 +5113,9 @@
             "qty": "60.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 105.00",
-            "total_thb": "฿ 535.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 535.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-01-SL08-BK"
           }
         ],
@@ -4701,7 +5124,7 @@
           "total_qty": "60",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥105.00",
-          "total_all_thb": "฿535.50"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4740,7 +5163,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12120",
-    "scraped_at": "07/10/2026 02:47:00",
+    "scraped_at": "07/10/2026 08:48:43",
     "order_id": "PN-1275#S12120",
     "date": "15/09/2026 14:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4750,7 +5173,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 220.00 หยวน",
+      "net_cny": "¥ 227.00 หยวน",
       "net_thb": "1,157.70 บาท",
       "grand_net": null
     },
@@ -4764,10 +5187,10 @@
             "price_cny": "¥ 0.22",
             "qty": "1000.00",
             "ship_cny": "¥ 7.00",
-            "total_cny": "¥ 220.00",
-            "total_thb": "฿ 1,122.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 227.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,157.70",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เอาไปประกอบ MSP-38 1000 ชุด"
           }
         ],
@@ -4775,8 +5198,8 @@
           "total_price_cny": "¥220.00",
           "total_qty": "1000",
           "total_ship_cny": "¥7.00",
-          "total_all_cny": "¥220.00",
-          "total_all_thb": "฿1,122.00"
+          "total_all_cny": "¥227.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4815,7 +5238,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12119",
-    "scraped_at": "07/10/2026 02:47:09",
+    "scraped_at": "07/10/2026 08:48:54",
     "order_id": "PN-1275#S12119",
     "date": "15/09/2026 12:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4825,7 +5248,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 230.00 หยวน",
+      "net_cny": "¥ 244.00 หยวน",
       "net_thb": "1,244.40 บาท",
       "grand_net": null
     },
@@ -4839,10 +5262,10 @@
             "price_cny": "¥ 0.23",
             "qty": "1000.00",
             "ship_cny": "¥ 14.00",
-            "total_cny": "¥ 230.00",
-            "total_thb": "฿ 1,173.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 244.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,244.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เอาไปประกอบ MSP-38 1000 ชุด"
           }
         ],
@@ -4850,8 +5273,8 @@
           "total_price_cny": "¥230.00",
           "total_qty": "1000",
           "total_ship_cny": "¥14.00",
-          "total_all_cny": "¥230.00",
-          "total_all_thb": "฿1,173.00"
+          "total_all_cny": "¥244.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4890,7 +5313,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12118",
-    "scraped_at": "07/10/2026 02:47:05",
+    "scraped_at": "07/10/2026 08:48:47",
     "order_id": "PN-1275#S12118",
     "date": "15/09/2026 12:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4900,7 +5323,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 350.00 หยวน",
+      "net_cny": "¥ 430.00 หยวน",
       "net_thb": "2,193.00 บาท",
       "grand_net": null
     },
@@ -4914,10 +5337,10 @@
             "price_cny": "¥ 0.35",
             "qty": "1000.00",
             "ship_cny": "¥ 80.00",
-            "total_cny": "¥ 350.00",
-            "total_thb": "฿ 1,785.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 430.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,193.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: เอาไปประกอบ MSP-38 1000 ชุด"
           }
         ],
@@ -4925,8 +5348,8 @@
           "total_price_cny": "¥350.00",
           "total_qty": "1000",
           "total_ship_cny": "¥80.00",
-          "total_all_cny": "¥350.00",
-          "total_all_thb": "฿1,785.00"
+          "total_all_cny": "¥430.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -4995,7 +5418,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12116",
-    "scraped_at": "07/10/2026 02:47:11",
+    "scraped_at": "07/10/2026 08:48:53",
     "order_id": "PN-1275#S12116",
     "date": "15/09/2026 12:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5005,7 +5428,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 206.40 หยวน",
+      "net_cny": "¥ 264.40 หยวน",
       "net_thb": "1,348.44 บาท",
       "grand_net": null
     },
@@ -5019,10 +5442,10 @@
             "price_cny": "¥ 0.86",
             "qty": "240.00",
             "ship_cny": "¥ 58.00",
-            "total_cny": "¥ 206.40",
-            "total_thb": "฿ 1,052.64",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 264.40",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,348.44",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 05-MSP-44-GR"
           }
         ],
@@ -5030,8 +5453,8 @@
           "total_price_cny": "¥206.40",
           "total_qty": "240",
           "total_ship_cny": "¥58.00",
-          "total_all_cny": "¥206.40",
-          "total_all_thb": "฿1,052.64"
+          "total_all_cny": "¥264.40",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5070,7 +5493,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12117",
-    "scraped_at": "07/10/2026 02:47:13",
+    "scraped_at": "07/10/2026 08:48:58",
     "order_id": "PN-1275#S12117",
     "date": "15/09/2026 12:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5080,7 +5503,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 135.00 หยวน",
+      "net_cny": "¥ 155.00 หยวน",
       "net_thb": "790.50 บาท",
       "grand_net": null
     },
@@ -5094,10 +5517,10 @@
             "price_cny": "¥ 4.50",
             "qty": "30.00",
             "ship_cny": "¥ 20.00",
-            "total_cny": "¥ 135.00",
-            "total_thb": "฿ 688.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 155.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 790.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 05-MSP-40-BRASS"
           }
         ],
@@ -5105,8 +5528,8 @@
           "total_price_cny": "¥135.00",
           "total_qty": "30",
           "total_ship_cny": "¥20.00",
-          "total_all_cny": "¥135.00",
-          "total_all_thb": "฿688.50"
+          "total_all_cny": "¥155.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5145,7 +5568,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12114",
-    "scraped_at": "07/10/2026 02:47:17",
+    "scraped_at": "07/10/2026 08:49:02",
     "order_id": "PN-1275#S12114",
     "date": "15/09/2026 12:31",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5155,7 +5578,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,000.00 หยวน",
+      "net_cny": "¥ 1,050.00 หยวน",
       "net_thb": "5,355.00 บาท",
       "grand_net": null
     },
@@ -5169,18 +5592,18 @@
             "price_cny": "¥ 0.20",
             "qty": "5000.00",
             "ship_cny": "¥ 50.00",
-            "total_cny": "¥ 1,000.00",
-            "total_thb": "฿ 5,100.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 1,050.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,355.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥1,000.00",
           "total_qty": "5000",
           "total_ship_cny": "¥50.00",
-          "total_all_cny": "¥1,000.00",
-          "total_all_thb": "฿5,100.00"
+          "total_all_cny": "¥1,050.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5219,7 +5642,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12113",
-    "scraped_at": "07/10/2026 02:47:15",
+    "scraped_at": "07/10/2026 08:48:57",
     "order_id": "PN-1275#S12113",
     "date": "15/09/2026 10:22",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5244,9 +5667,9 @@
             "qty": "15.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 1,050.00",
-            "total_thb": "฿ 5,355.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 5,355.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-EBV02-042"
           },
           {
@@ -5256,9 +5679,9 @@
             "qty": "5.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 395.00",
-            "total_thb": "฿ 2,014.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,014.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-EBV03-042"
           },
           {
@@ -5268,9 +5691,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 330.00",
-            "total_thb": "฿ 1,683.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,683.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 07-EBV03-081"
           }
         ],
@@ -5279,7 +5702,7 @@
           "total_qty": "23",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥1,775.00",
-          "total_all_thb": "฿9,052.50"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5318,7 +5741,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12112",
-    "scraped_at": "07/10/2026 02:47:21",
+    "scraped_at": "07/10/2026 08:49:06",
     "order_id": "PN-1275#S12112",
     "date": "15/09/2026 09:59",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5328,7 +5751,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 400.50 หยวน",
+      "net_cny": "¥ 422.50 หยวน",
       "net_thb": "2,154.75 บาท",
       "grand_net": null
     },
@@ -5342,10 +5765,10 @@
             "price_cny": "¥ 4.45",
             "qty": "50.00",
             "ship_cny": "¥ 22.00",
-            "total_cny": "¥ 222.50",
-            "total_thb": "฿ 1,134.75",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 244.50",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,246.95",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 14-A-008"
           },
           {
@@ -5355,9 +5778,9 @@
             "qty": "40.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 178.00",
-            "total_thb": "฿ 907.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 907.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 14-A-007"
           }
         ],
@@ -5365,8 +5788,8 @@
           "total_price_cny": "¥400.50",
           "total_qty": "90",
           "total_ship_cny": "¥22.00",
-          "total_all_cny": "¥400.50",
-          "total_all_thb": "฿2,042.55"
+          "total_all_cny": "¥422.50",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5405,7 +5828,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12111",
-    "scraped_at": "07/10/2026 02:47:19",
+    "scraped_at": "07/10/2026 08:49:01",
     "order_id": "PN-1275#S12111",
     "date": "15/09/2026 09:51",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5415,7 +5838,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,568.00 หยวน",
+      "net_cny": "¥ 1,637.00 หยวน",
       "net_thb": "8,348.70 บาท",
       "grand_net": null
     },
@@ -5429,10 +5852,10 @@
             "price_cny": "¥ 5.60",
             "qty": "280.00",
             "ship_cny": "¥ 69.00",
-            "total_cny": "¥ 1,568.00",
-            "total_thb": "฿ 7,996.80",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 1,637.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 8,348.70",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-WF-LT-A4-C ราคาเดิม 5.60 หยวน"
           }
         ],
@@ -5440,8 +5863,8 @@
           "total_price_cny": "¥1,568.00",
           "total_qty": "280",
           "total_ship_cny": "¥69.00",
-          "total_all_cny": "¥1,568.00",
-          "total_all_thb": "฿7,996.80"
+          "total_all_cny": "¥1,637.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5480,7 +5903,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12110",
-    "scraped_at": "07/10/2026 02:47:25",
+    "scraped_at": "07/10/2026 08:49:10",
     "order_id": "PN-1275#S12110",
     "date": "15/09/2026 09:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5490,7 +5913,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 1,300.00 หยวน",
+      "net_cny": "¥ 1,368.00 หยวน",
       "net_thb": "6,976.80 บาท",
       "grand_net": null
     },
@@ -5504,10 +5927,10 @@
             "price_cny": "¥ 6.50",
             "qty": "200.00",
             "ship_cny": "¥ 68.00",
-            "total_cny": "¥ 1,300.00",
-            "total_thb": "฿ 6,630.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 1,368.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 6,976.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-WF-LT-A4-B ราคาเดิม 6.5 หยวน"
           }
         ],
@@ -5515,8 +5938,8 @@
           "total_price_cny": "¥1,300.00",
           "total_qty": "200",
           "total_ship_cny": "¥68.00",
-          "total_all_cny": "¥1,300.00",
-          "total_all_thb": "฿6,630.00"
+          "total_all_cny": "¥1,368.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5555,7 +5978,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12109",
-    "scraped_at": "07/10/2026 02:47:23",
+    "scraped_at": "07/10/2026 08:49:05",
     "order_id": "PN-1275#S12109",
     "date": "15/09/2026 09:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5580,9 +6003,9 @@
             "qty": "100.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 2,800.00",
-            "total_thb": "฿ 14,280.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 14,280.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 08-AD-EADP-120GRA ราคาเดิม 28 หยวน"
           }
         ],
@@ -5591,7 +6014,7 @@
           "total_qty": "100",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥2,800.00",
-          "total_all_thb": "฿14,280.00"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5628,7 +6051,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=YT7645041679549-%E5%9C%86%E9%80%9A",
             "tracking_id": "เลขพัสดุ : YT7645041679549-圆通",
             "date": "18/09/26 : 11:48",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -5643,7 +6066,7 @@
             "other_fee": "0.00",
             "discount": "0.00",
             "total": "163.20",
-            "product_type": "ทั่วไป",
+            "product_type": "พิเศษ 1",
             "shipped_by": "เรือ",
             "calculated_by": "น้ำหนัก",
             "shipping_rate": "12.00",
@@ -5660,7 +6083,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12106",
-    "scraped_at": "07/10/2026 02:47:28",
+    "scraped_at": "07/10/2026 08:49:14",
     "order_id": "PN-1275#S12106",
     "date": "14/09/2026 13:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5670,7 +6093,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 2,800.00 หยวน",
+      "net_cny": "¥ 2,891.00 หยวน",
       "net_thb": "14,744.10 บาท",
       "grand_net": null
     },
@@ -5684,10 +6107,10 @@
             "price_cny": "¥ 11.20",
             "qty": "250.00",
             "ship_cny": "¥ 91.00",
-            "total_cny": "¥ 2,800.00",
-            "total_thb": "฿ 14,280.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 2,891.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 14,744.10",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 03-WF-LT-A4-A ราคาเดิม 11.20 หยวน"
           }
         ],
@@ -5695,8 +6118,8 @@
           "total_price_cny": "¥2,800.00",
           "total_qty": "250",
           "total_ship_cny": "¥91.00",
-          "total_all_cny": "¥2,800.00",
-          "total_all_thb": "฿14,280.00"
+          "total_all_cny": "¥2,891.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5735,7 +6158,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12105",
-    "scraped_at": "07/10/2026 02:47:29",
+    "scraped_at": "07/10/2026 08:49:11",
     "order_id": "PN-1275#S12105",
     "date": "14/09/2026 11:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5745,7 +6168,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 200.00 หยวน",
+      "net_cny": "¥ 230.00 หยวน",
       "net_thb": "1,173.00 บาท",
       "grand_net": null
     },
@@ -5759,18 +6182,18 @@
             "price_cny": "¥ 0.20",
             "qty": "1000.00",
             "ship_cny": "¥ 30.00",
-            "total_cny": "¥ 200.00",
-            "total_thb": "฿ 1,020.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-"
+            "total_cny": "¥ 230.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,173.00",
+            "item_note": "¥ 0.00"
           }
         ],
         "table_totals": {
           "total_price_cny": "¥200.00",
           "total_qty": "1000",
           "total_ship_cny": "¥30.00",
-          "total_all_cny": "¥200.00",
-          "total_all_thb": "฿1,020.00"
+          "total_all_cny": "¥230.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5809,7 +6232,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12104",
-    "scraped_at": "07/10/2026 02:47:32",
+    "scraped_at": "07/10/2026 08:49:17",
     "order_id": "PN-1275#S12104",
     "date": "14/09/2026 11:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5819,7 +6242,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 11.00 หยวน",
+      "net_cny": "¥ 24.00 หยวน",
       "net_thb": "122.40 บาท",
       "grand_net": null
     },
@@ -5833,10 +6256,10 @@
             "price_cny": "¥ 0.22",
             "qty": "50.00",
             "ship_cny": "¥ 13.00",
-            "total_cny": "¥ 11.00",
-            "total_thb": "฿ 56.10",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 24.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 122.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 05-MSP-56-BL"
           }
         ],
@@ -5844,8 +6267,8 @@
           "total_price_cny": "¥11.00",
           "total_qty": "50",
           "total_ship_cny": "¥13.00",
-          "total_all_cny": "¥11.00",
-          "total_all_thb": "฿56.10"
+          "total_all_cny": "¥24.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5884,7 +6307,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12102",
-    "scraped_at": "07/10/2026 02:47:32",
+    "scraped_at": "07/10/2026 08:49:15",
     "order_id": "PN-1275#S12102",
     "date": "14/09/2026 10:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5894,7 +6317,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 50.10 หยวน",
+      "net_cny": "¥ 64.10 หยวน",
       "net_thb": "326.91 บาท",
       "grand_net": null
     },
@@ -5908,10 +6331,10 @@
             "price_cny": "¥ 1.96",
             "qty": "10.00",
             "ship_cny": "¥ 14.00",
-            "total_cny": "¥ 19.60",
-            "total_thb": "฿ 99.96",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 33.60",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 171.36",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPVG16-14-BK"
           },
           {
@@ -5921,9 +6344,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 24.30",
-            "total_thb": "฿ 123.93",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 123.93",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BSR02-03"
           },
           {
@@ -5933,9 +6356,9 @@
             "qty": "10.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 6.20",
-            "total_thb": "฿ 31.62",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 31.62",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPEG08-12-08-BK"
           }
         ],
@@ -5943,8 +6366,8 @@
           "total_price_cny": "¥50.10",
           "total_qty": "50",
           "total_ship_cny": "¥14.00",
-          "total_all_cny": "¥50.10",
-          "total_all_thb": "฿255.51"
+          "total_all_cny": "¥64.10",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -5983,7 +6406,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12101",
-    "scraped_at": "07/10/2026 02:47:36",
+    "scraped_at": "07/10/2026 08:49:21",
     "order_id": "PN-1275#S12101",
     "date": "14/09/2026 09:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5993,7 +6416,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 240.00 หยวน",
+      "net_cny": "¥ 280.00 หยวน",
       "net_thb": "1,428.00 บาท",
       "grand_net": null
     },
@@ -6007,10 +6430,10 @@
             "price_cny": "¥ 4.80",
             "qty": "50.00",
             "ship_cny": "¥ 40.00",
-            "total_cny": "¥ 240.00",
-            "total_thb": "฿ 1,224.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 280.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,428.00",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 12-TDS&EC-A ราคาเดิม 4.80 หยวน"
           }
         ],
@@ -6018,15 +6441,15 @@
           "total_price_cny": "¥240.00",
           "total_qty": "50",
           "total_ship_cny": "¥40.00",
-          "total_all_cny": "¥240.00",
-          "total_all_thb": "฿1,224.00"
+          "total_all_cny": "¥280.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=131147747008-%E4%BF%A1%E4%B8%B0",
             "tracking_id": "เลขพัสดุ : 131147747008-信丰",
             "date": "18/09/26 : 13:44",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6035,17 +6458,17 @@
             "height": "17.00",
             "weight": "2.80",
             "volume": "0.0125",
-            "shipping_fee": "47.48",
+            "shipping_fee": "47.50",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "47.48",
+            "total": "47.50",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
             "calculated_by": "ปริมาตร",
             "shipping_rate": "3,800.00",
-            "total_net_thb": "47.48",
+            "total_net_thb": "47.50",
             "lot_id": "S20260919-3282",
             "lot_container_close": "19/09/2026",
             "lot_status": "ถึงไทย",
@@ -6058,7 +6481,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12098",
-    "scraped_at": "07/10/2026 02:47:37",
+    "scraped_at": "07/10/2026 08:49:19",
     "order_id": "PN-1275#S12098",
     "date": "12/09/2026 11:56",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6068,7 +6491,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 158.80 หยวน",
+      "net_cny": "¥ 178.80 หยวน",
       "net_thb": "911.88 บาท",
       "grand_net": null
     },
@@ -6082,10 +6505,10 @@
             "price_cny": "¥ 1.22",
             "qty": "100.00",
             "ship_cny": "¥ 20.00",
-            "total_cny": "¥ 122.00",
-            "total_thb": "฿ 622.20",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 142.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 724.20",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-M5-SL06-BK"
           },
           {
@@ -6095,9 +6518,9 @@
             "qty": "80.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 36.80",
-            "total_thb": "฿ 187.68",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 187.68",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 02-SPG12-06-BK"
           }
         ],
@@ -6105,8 +6528,8 @@
           "total_price_cny": "¥158.80",
           "total_qty": "180",
           "total_ship_cny": "¥20.00",
-          "total_all_cny": "¥158.80",
-          "total_all_thb": "฿809.88"
+          "total_all_cny": "¥178.80",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6145,7 +6568,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12097",
-    "scraped_at": "07/10/2026 02:47:40",
+    "scraped_at": "07/10/2026 08:49:25",
     "order_id": "PN-1275#S12097",
     "date": "12/09/2026 11:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6155,7 +6578,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 67.00 หยวน",
+      "net_cny": "¥ 89.00 หยวน",
       "net_thb": "453.90 บาท",
       "grand_net": null
     },
@@ -6169,10 +6592,10 @@
             "price_cny": "¥ 0.67",
             "qty": "100.00",
             "ship_cny": "¥ 22.00",
-            "total_cny": "¥ 67.00",
-            "total_thb": "฿ 341.70",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 89.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 453.90",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 10-Ni-MH-B40H ราคาเดิม 0.67 หยวน"
           }
         ],
@@ -6180,8 +6603,8 @@
           "total_price_cny": "¥67.00",
           "total_qty": "100",
           "total_ship_cny": "¥22.00",
-          "total_all_cny": "¥67.00",
-          "total_all_thb": "฿341.70"
+          "total_all_cny": "¥89.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6220,7 +6643,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12096",
-    "scraped_at": "07/10/2026 02:47:40",
+    "scraped_at": "07/10/2026 08:49:22",
     "order_id": "PN-1275#S12096",
     "date": "12/09/2026 10:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6230,7 +6653,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 429.54 หยวน",
+      "net_cny": "¥ 451.54 หยวน",
       "net_thb": "2,302.85 บาท",
       "grand_net": null
     },
@@ -6244,10 +6667,10 @@
             "price_cny": "¥ 10.27",
             "qty": "30.00",
             "ship_cny": "¥ 22.00",
-            "total_cny": "¥ 308.10",
-            "total_thb": "฿ 1,571.31",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 330.10",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,683.51",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BCV-08"
           },
           {
@@ -6257,9 +6680,9 @@
             "qty": "3.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 121.44",
-            "total_thb": "฿ 619.34",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 619.34",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 01-BCV-16"
           }
         ],
@@ -6267,8 +6690,8 @@
           "total_price_cny": "¥429.54",
           "total_qty": "33",
           "total_ship_cny": "¥22.00",
-          "total_all_cny": "¥429.54",
-          "total_all_thb": "฿2,190.65"
+          "total_all_cny": "¥451.54",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6307,7 +6730,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12095",
-    "scraped_at": "07/10/2026 02:47:44",
+    "scraped_at": "07/10/2026 08:49:29",
     "order_id": "PN-1275#S12095",
     "date": "12/09/2026 09:36",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6317,7 +6740,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 2,300.00 หยวน",
+      "net_cny": "¥ 2,325.00 หยวน",
       "net_thb": "11,857.50 บาท",
       "grand_net": null
     },
@@ -6331,10 +6754,10 @@
             "price_cny": "¥ 230.00",
             "qty": "10.00",
             "ship_cny": "¥ 25.00",
-            "total_cny": "¥ 2,300.00",
-            "total_thb": "฿ 11,730.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 2,325.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 11,857.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 09-S-1200-24 หม้อแปลงไฟฟ้า 220VAC 24VDC 50A"
           }
         ],
@@ -6342,8 +6765,8 @@
           "total_price_cny": "¥2,300.00",
           "total_qty": "10",
           "total_ship_cny": "¥25.00",
-          "total_all_cny": "¥2,300.00",
-          "total_all_thb": "฿11,730.00"
+          "total_all_cny": "¥2,325.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6382,7 +6805,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12092",
-    "scraped_at": "07/10/2026 02:47:44",
+    "scraped_at": "07/10/2026 08:49:26",
     "order_id": "PN-1275#S12092",
     "date": "11/09/2026 12:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6392,7 +6815,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 775.00 หยวน",
+      "net_cny": "¥ 798.00 หยวน",
       "net_thb": "4,069.80 บาท",
       "grand_net": null
     },
@@ -6406,10 +6829,10 @@
             "price_cny": "¥ 15.00",
             "qty": "20.00",
             "ship_cny": "¥ 23.00",
-            "total_cny": "¥ 300.00",
-            "total_thb": "฿ 1,530.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 323.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 1,647.30",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-BBSS-04-6545"
           }
         ],
@@ -6417,15 +6840,15 @@
           "total_price_cny": "¥300.00",
           "total_qty": "20",
           "total_ship_cny": "¥23.00",
-          "total_all_cny": "¥300.00",
-          "total_all_thb": "฿1,530.00"
+          "total_all_cny": "¥323.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=79033245364063-%E4%B8%AD%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 79033245364063-中通",
             "date": "16/09/26 : 11:11",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6447,9 +6870,9 @@
             "total_net_thb": "67.20",
             "lot_id": "S20260919-3281",
             "lot_container_close": "19/09/2026",
-            "lot_status": "ออกจากโกดัง",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": null,
-            "lot_arrived_thai": "14/10/2026"
+            "lot_arrived_thai": "07/10/2026"
           }
         ]
       },
@@ -6463,9 +6886,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 475.00",
-            "total_thb": "฿ 2,422.50",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,422.50",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 04-CCSS-04-9501"
           }
         ],
@@ -6474,14 +6897,14 @@
           "total_qty": "50",
           "total_ship_cny": "¥0.00",
           "total_all_cny": "¥475.00",
-          "total_all_thb": "฿2,422.50"
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=79033245364063-%E4%B8%AD%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 79033245364063-中通",
             "date": "16/09/26 : 11:11",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6503,9 +6926,9 @@
             "total_net_thb": "67.20",
             "lot_id": "S20260919-3281",
             "lot_container_close": "19/09/2026",
-            "lot_status": "ออกจากโกดัง",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": null,
-            "lot_arrived_thai": "14/10/2026"
+            "lot_arrived_thai": "07/10/2026"
           }
         ]
       }
@@ -6513,7 +6936,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12089",
-    "scraped_at": "07/10/2026 02:47:48",
+    "scraped_at": "07/10/2026 08:49:33",
     "order_id": "PN-1275#S12089",
     "date": "11/09/2026 12:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6523,7 +6946,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 487.20 หยวน",
+      "net_cny": "¥ 498.20 หยวน",
       "net_thb": "2,540.82 บาท",
       "grand_net": null
     },
@@ -6537,10 +6960,10 @@
             "price_cny": "¥ 81.20",
             "qty": "6.00",
             "ship_cny": "¥ 11.00",
-            "total_cny": "¥ 487.20",
-            "total_thb": "฿ 2,484.72",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 498.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 2,540.82",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 13-SP4000-Y"
           }
         ],
@@ -6548,15 +6971,15 @@
           "total_price_cny": "¥487.20",
           "total_qty": "6",
           "total_ship_cny": "¥11.00",
-          "total_all_cny": "¥487.20",
-          "total_all_thb": "฿2,484.72"
+          "total_all_cny": "¥498.20",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JYM800119331250-%E5%8A%A0%E8%BF%90",
             "tracking_id": "เลขพัสดุ : JYM800119331250-加运",
             "date": "16/09/26 : 11:12",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6565,22 +6988,22 @@
             "height": "21.00",
             "weight": "4.00",
             "volume": "0.0208",
-            "shipping_fee": "112.49",
+            "shipping_fee": "112.32",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "112.49",
+            "total": "112.32",
             "product_type": "พิเศษ 1",
             "shipped_by": "รถ",
             "calculated_by": "ปริมาตร",
             "shipping_rate": "5,400.00",
-            "total_net_thb": "112.49",
+            "total_net_thb": "112.32",
             "lot_id": "S20260917-3278",
             "lot_container_close": "17/09/2026",
-            "lot_status": "ออกจากโกดัง",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": null,
-            "lot_arrived_thai": "12/10/2026"
+            "lot_arrived_thai": "07/10/2026"
           }
         ]
       }
@@ -6588,7 +7011,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12088",
-    "scraped_at": "07/10/2026 02:47:50",
+    "scraped_at": "07/10/2026 08:49:32",
     "order_id": "PN-1275#S12088",
     "date": "11/09/2026 11:46",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6598,7 +7021,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 776.00 หยวน",
+      "net_cny": "¥ 786.00 หยวน",
       "net_thb": "4,008.60 บาท",
       "grand_net": null
     },
@@ -6612,10 +7035,10 @@
             "price_cny": "¥ 0.97",
             "qty": "800.00",
             "ship_cny": "¥ 10.00",
-            "total_cny": "¥ 776.00",
-            "total_thb": "฿ 3,957.60",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 786.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,008.60",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 13-SES-004 ขั้วต่อสายไฟ แผงโซล่าเซลล์ ชนิด MC4 OEM"
           }
         ],
@@ -6623,8 +7046,8 @@
           "total_price_cny": "¥776.00",
           "total_qty": "800",
           "total_ship_cny": "¥10.00",
-          "total_all_cny": "¥776.00",
-          "total_all_thb": "฿3,957.60"
+          "total_all_cny": "¥786.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6663,7 +7086,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12087",
-    "scraped_at": "07/10/2026 02:47:52",
+    "scraped_at": "07/10/2026 08:49:37",
     "order_id": "PN-1275#S12087",
     "date": "11/09/2026 11:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6673,7 +7096,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 960.00 หยวน",
+      "net_cny": "¥ 978.00 หยวน",
       "net_thb": "4,987.80 บาท",
       "grand_net": null
     },
@@ -6687,10 +7110,10 @@
             "price_cny": "¥ 48.00",
             "qty": "20.00",
             "ship_cny": "¥ 18.00",
-            "total_cny": "¥ 960.00",
-            "total_thb": "฿ 4,896.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 978.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 4,987.80",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-SFIB1-130-01 ราคาเดิม 48 หยวน"
           }
         ],
@@ -6698,8 +7121,8 @@
           "total_price_cny": "¥960.00",
           "total_qty": "20",
           "total_ship_cny": "¥18.00",
-          "total_all_cny": "¥960.00",
-          "total_all_thb": "฿4,896.00"
+          "total_all_cny": "¥978.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
@@ -6768,7 +7191,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12086",
-    "scraped_at": "07/10/2026 02:47:54",
+    "scraped_at": "07/10/2026 08:49:36",
     "order_id": "PN-1275#S12086",
     "date": "11/09/2026 11:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6778,7 +7201,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 630.00 หยวน",
+      "net_cny": "¥ 654.00 หยวน",
       "net_thb": "3,335.40 บาท",
       "grand_net": null
     },
@@ -6792,10 +7215,10 @@
             "price_cny": "¥ 9.00",
             "qty": "70.00",
             "ship_cny": "¥ 24.00",
-            "total_cny": "¥ 630.00",
-            "total_thb": "฿ 3,213.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 654.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 3,335.40",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 06-USB-1020 ราคาเดิม 9 หยวน"
           }
         ],
@@ -6803,15 +7226,15 @@
           "total_price_cny": "¥630.00",
           "total_qty": "70",
           "total_ship_cny": "¥24.00",
-          "total_all_cny": "¥630.00",
-          "total_all_thb": "฿3,213.00"
+          "total_all_cny": "¥654.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT3177691279571-%E5%AE%98%E6%96%B9",
             "tracking_id": "เลขพัสดุ : JT3177691279571-官方",
             "date": "15/09/26 : 16:42",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6820,22 +7243,22 @@
             "height": "24.00",
             "weight": "7.00",
             "volume": "0.0266",
-            "shipping_fee": "101.23",
+            "shipping_fee": "101.08",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "101.23",
+            "total": "101.08",
             "product_type": "พิเศษ 1",
             "shipped_by": "เรือ",
             "calculated_by": "ปริมาตร",
             "shipping_rate": "3,800.00",
-            "total_net_thb": "101.23",
+            "total_net_thb": "101.08",
             "lot_id": "S20260916-3276",
             "lot_container_close": "16/09/2026",
-            "lot_status": "ออกจากโกดัง",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": null,
-            "lot_arrived_thai": "11/10/2026"
+            "lot_arrived_thai": "07/10/2026"
           }
         ]
       }
@@ -6843,7 +7266,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12085",
-    "scraped_at": "07/10/2026 02:47:57",
+    "scraped_at": "07/10/2026 08:49:43",
     "order_id": "PN-1275#S12085",
     "date": "10/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6853,7 +7276,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 34.30 หยวน",
+      "net_cny": "¥ 53.30 หยวน",
       "net_thb": "271.83 บาท",
       "grand_net": null
     },
@@ -6867,10 +7290,10 @@
             "price_cny": "¥ 0.24",
             "qty": "30.00",
             "ship_cny": "¥ 19.00",
-            "total_cny": "¥ 7.20",
-            "total_thb": "฿ 36.72",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 26.20",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 133.62",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 18-TOOL-003"
           },
           {
@@ -6880,9 +7303,9 @@
             "qty": "50.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 14.50",
-            "total_thb": "฿ 73.95",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 73.95",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 18-TOOL-009"
           },
           {
@@ -6892,9 +7315,9 @@
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
             "total_cny": "¥ 12.60",
-            "total_thb": "฿ 64.26",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 64.26",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 18-TOOL-010"
           }
         ],
@@ -6902,15 +7325,15 @@
           "total_price_cny": "¥34.30",
           "total_qty": "110",
           "total_ship_cny": "¥19.00",
-          "total_all_cny": "¥34.30",
-          "total_all_thb": "฿174.93"
+          "total_all_cny": "¥53.30",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT317770175309-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT317770175309-极兔",
             "date": "06/10/26 : 11:24",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6932,9 +7355,9 @@
             "total_net_thb": "45.60",
             "lot_id": "S20260919-3281",
             "lot_container_close": "19/09/2026",
-            "lot_status": "ออกจากโกดัง",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": null,
-            "lot_arrived_thai": "14/10/2026"
+            "lot_arrived_thai": "07/10/2026"
           }
         ]
       }
@@ -6942,7 +7365,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12084",
-    "scraped_at": "07/10/2026 02:47:58",
+    "scraped_at": "07/10/2026 08:49:40",
     "order_id": "PN-1275#S12084",
     "date": "10/09/2026 17:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6952,7 +7375,7 @@
       "rate": "5.10 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": null,
-      "net_cny": "¥ 3,200.00 หยวน",
+      "net_cny": "¥ 3,213.00 หยวน",
       "net_thb": "16,386.30 บาท",
       "grand_net": null
     },
@@ -6966,10 +7389,10 @@
             "price_cny": "¥ 16.00",
             "qty": "200.00",
             "ship_cny": "¥ 13.00",
-            "total_cny": "¥ 3,200.00",
-            "total_thb": "฿ 16,320.00",
-            "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "total_cny": "¥ 3,213.00",
+            "total_thb": "฿ 0.00",
+            "extra_cny": "฿ 16,386.30",
+            "item_note": "¥ 0.00",
             "item_internal_note": "หมายเหตุ: 10-DH48S-S-220V"
           }
         ],
@@ -6977,8 +7400,8 @@
           "total_price_cny": "¥3,200.00",
           "total_qty": "200",
           "total_ship_cny": "¥13.00",
-          "total_all_cny": "¥3,200.00",
-          "total_all_thb": "฿16,320.00"
+          "total_all_cny": "¥3,213.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": [
           {
