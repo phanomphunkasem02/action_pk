@@ -11,6 +11,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from pkcargo_table import parse_vendor_cells, table_headers, misaligned_order_urls
+from pkcargo_shipping import page_jobs, merge_shipping, scrape_shipping_patch
 
 # Folder configuration for GitHub Environment
 # Folder configuration for GitHub Environment
@@ -50,6 +51,8 @@ def load_config():
         config["start_page"] = int(os.environ.get("PK_START_PAGE"))
     if os.environ.get("PK_MAX_PAGES"):
         config["max_pages"] = int(os.environ.get("PK_MAX_PAGES"))
+    config.setdefault("max_pages", 10)
+    config["full_detail_pages"] = int(os.environ.get("PK_FULL_DETAIL_PAGES", "5"))
     if os.environ.get("PK_INCREMENTAL"):
         config["incremental"] = os.environ.get("PK_INCREMENTAL", "").lower() in (
             "1",
@@ -470,7 +473,13 @@ def worker_scrape_urls(url_batch, config, worker_id):
             url = url_info[0]
             list_status = url_info[1] if len(url_info) > 1 else "-"
             log(f"  [WORKER-{worker_id}] {url}")
-            data = scraper.scrape_detail_page(url, list_status)
+            shipping_only = url_info[-1] == "shipping"
+            log(f"  [MODE] {'shipping' if shipping_only else 'full'} {url}")
+            try:
+                data = scrape_shipping_patch(scraper, url, list_status) if shipping_only else scraper.scrape_detail_page(url, list_status)
+            except Exception as e:
+                log(f"    [ERR] Shipping/detail {url}: {e}")
+                continue
             if data: results.append(data)
     except Exception as e: log(f"[WORKER-{worker_id}] Error: {e}")
     finally: scraper.close()
@@ -492,7 +501,13 @@ def save_to_json(new_data):
     for item in new_data:
         order_id = item["order_id"]
         # บันทึกทุกรายการรวมถึงที่ยกเลิกแล้ว
-        data_map[order_id] = item
+        if item.get("_shipping_only"):
+            try:
+                data_map[order_id] = merge_shipping(data_map.get(order_id), item)
+            except ValueError as e:
+                log(f"[SKIP] {order_id}: {e}")
+        else:
+            data_map[order_id] = item
 
     # Sort using a real datetime because dd/mm/yyyy cannot be ordered as text.
     final_data = list(data_map.values())
@@ -575,7 +590,7 @@ def main():
             urls = collector.collect_urls_from_page(p)
             if incremental and existing_urls:
                 new_urls, reached_existing = select_new_order_urls(urls, existing_urls)
-                all_urls.extend(new_urls)
+                all_urls.extend(page_jobs(new_urls, p, config["full_detail_pages"]))
                 if reached_existing:
                     log(
                         f"[INCREMENTAL] Reached existing history on page {p}; "
@@ -583,7 +598,7 @@ def main():
                     )
                     break
             else:
-                all_urls.extend(urls)
+                all_urls.extend(page_jobs(urls, p, config["full_detail_pages"]))
     finally: collector.close()
 
     if not all_urls:
