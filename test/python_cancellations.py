@@ -69,7 +69,10 @@ class CancellationTests(unittest.TestCase):
             def find_elements(self, by, selector):
                 if selector == status.CARDS:
                     n = 10000 + len(self.visited)
-                    return [Element(f"เลขที่ออเดอร์: PN-1275#S{n}", status.BASE_URL+f"/shops/{n}")]
+                    cards = [Element(f"เลขที่ออเดอร์: PN-1275#S{n}", status.BASE_URL+f"/shops/{n}")]
+                    if len(self.visited) == 12:
+                        cards.append(Element("เลขที่ออเดอร์: PN-1275#S9355", status.BASE_URL+"/shops/9356"))
+                    return cards
                 if "pagination" in selector:
                     return [Element(url=status.BASE_URL+"/shops?s=cancel&page=12")]
                 return []

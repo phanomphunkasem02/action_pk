@@ -67,13 +67,20 @@ def collect_cancelled_orders(scraper, log):
         for card in cards:
             status = card.find_element(By.XPATH, "./div/div[1]/div/div[2]").text
             url = card.find_element(By.XPATH, ".//div/div[2]/div[3]/a").get_attribute("href")
-            patch = status_patch(card.text, url, status, timestamp)
+            try:
+                patch = status_patch(card.text, url, status, timestamp)
+            except ValueError as e:
+                # Historical source cards can have a heading for a different URL.
+                # Never guess which saved order to cancel.
+                log(f"[CANCEL-SKIP] {url}: {e}")
+                continue
             page_ids.add(patch["order_id"])
             patches[patch["order_id"]] = patch
+        if not page_ids:
+            raise ValueError("Cancellation page has no valid order identities/statuses")
         if page > 1 and not page_ids.difference(previous_ids):
             raise ValueError("Cancellation pagination repeated a page")
         previous_ids = set(patches)
         log(f"[CANCEL] Page {page}/{last_page}: {len(cards)} orders (status only)")
         page += 1
     return list(patches.values())
-
