@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from pkcargo_table import parse_vendor_cells, table_headers, misaligned_order_urls
 from pkcargo_shipping import page_jobs, merge_shipping, scrape_shipping_patch
+from pkcargo_status import collect_cancelled_orders, merge_status
 
 # Folder configuration for GitHub Environment
 # Folder configuration for GitHub Environment
@@ -493,7 +494,8 @@ def save_to_json(new_data):
             with open(DATA_PATH, "r", encoding="utf-8") as f:
                 content = f.read().strip()
                 if content: old_data = json.loads(content)
-        except Exception: pass
+        except (OSError, ValueError) as e:
+            raise RuntimeError("Cannot safely read saved order history") from e
 
     # Merge and update logic
     data_map = {o["order_id"]: o for o in old_data}
@@ -501,7 +503,12 @@ def save_to_json(new_data):
     for item in new_data:
         order_id = item["order_id"]
         # บันทึกทุกรายการรวมถึงที่ยกเลิกแล้ว
-        if item.get("_shipping_only"):
+        if item.get("_status_only"):
+            try:
+                data_map[order_id] = merge_status(data_map.get(order_id), item)
+            except ValueError as e:
+                log(f"[SKIP] {order_id}: {e}")
+        elif item.get("_shipping_only"):
             try:
                 data_map[order_id] = merge_shipping(data_map.get(order_id), item)
             except ValueError as e:
@@ -573,10 +580,12 @@ def main():
         log(f"[REPAIR] Refreshing {len(repair_urls)} affected orders from their source URLs")
     collector = PKCargoScraper(config)
     all_urls = []
+    cancellations = []
     try:
         if not collector.login():
             raise RuntimeError("PK Cargo login failed")
-        total_pages = 0 if repair else collector.get_total_pages()
+        cancel_only = os.environ.get("PK_CANCEL_ONLY", "").lower() == "true"
+        total_pages = 0 if repair or cancel_only else collector.get_total_pages()
         start_p = config.get("start_page", 1)
         max_p = config.get("max_pages", 0)
         end_p = min(start_p + max_p, total_pages + 1) if max_p > 0 else total_pages + 1
@@ -599,9 +608,11 @@ def main():
                     break
             else:
                 all_urls.extend(page_jobs(urls, p, config["full_detail_pages"]))
+        if not repair:
+            cancellations = collect_cancelled_orders(collector, log)
     finally: collector.close()
 
-    if not all_urls:
+    if not all_urls and not cancellations:
         if config.get("incremental", False):
             log("[UP-TO-DATE] Latest PK Cargo order already exists; nothing to scrape.")
             return
@@ -616,11 +627,11 @@ def main():
             try: all_orders.extend(future.result())
             except Exception: pass
 
-    if not all_orders:
+    if not all_orders and not cancellations:
         raise RuntimeError("PK Cargo order details could not be scraped")
 
     # 1. บันทึกลงไฟล์บน GitHub
-    save_to_json(all_orders)
+    save_to_json(all_orders + cancellations)
     
     # 3. อัปโหลดไฟล์ไฟล์ JSON เข้าไปที่ Google Drive โดยตรง
     try:

@@ -14,6 +14,11 @@ on:
         type: boolean
         required: false
         default: false
+      cancel_only:
+        description: Check all cancellation pages and update saved statuses only
+        type: boolean
+        required: false
+        default: false
 
 concurrency:
   group: pk-cargo-scrape
@@ -36,9 +41,13 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
+        # The cancellation checks must pass before touching the saved data.
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
+
+      - name: Test cancellation status merge
+        run: python -m unittest discover -s test -p 'python_cancellations.py'
 
       - name: Run Scraper
         env:
@@ -46,6 +55,7 @@ jobs:
           PK_PASSWORD: ${{ secrets.PK_PASSWORD }}
           PK_START_PAGE: 1
           PK_INCREMENTAL: 'false'
+          PK_CANCEL_ONLY: ${{ inputs.cancel_only && 'true' || 'false' }}
           PK_REPAIR_MISALIGNED: ${{ inputs.repair_misaligned && 'true' || 'false' }}
           PK_MAX_PAGES: ${{ github.event_name == 'schedule' && '10' || inputs.max_pages }}
           PK_FULL_DETAIL_PAGES: '5'
