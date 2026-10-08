@@ -13,7 +13,8 @@ def status_patch(card_text, detail_url, status, timestamp):
     if normalized not in ("ยกเลิกออเดอร์", "ยกเลิกสั่งซื้อ"):
         raise ValueError("Not a whole-order cancellation")
     match = re.search(r"PN-\d+#S(\d+)\b", card_text)
-    if not match or detail_url != BASE_URL + "/shops/" + match.group(1):
+    # Old displayed IDs are zero-padded (S0069), but their URLs use /shops/69.
+    if not match or detail_url != BASE_URL + "/shops/" + str(int(match.group(1))):
         raise ValueError("Cancellation order ID and URL do not match")
     return {"_status_only": True, "order_id": match.group(0),
             "detail_url": detail_url, "status": "สถานะ: " + normalized,

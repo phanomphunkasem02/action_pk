@@ -50,6 +50,12 @@ class CancellationTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             status.merge_status({"order_id":"PN-1275#S12300","detail_url":"other"}, self.make_patch())
 
+    def test_old_zero_padded_heading_matches_numeric_url(self):
+        result = status.status_patch("เลขที่ออเดอร์: PN-1275#S0069", status.BASE_URL+"/shops/69", "ยกเลิกออเดอร์", "now")
+        self.assertEqual(result["order_id"], "PN-1275#S0069")
+        with self.assertRaises(ValueError):
+            status.status_patch("PN-1275#S0069", status.BASE_URL+"/shops/68", "ยกเลิกออเดอร์", "now")
+
     def test_all_pages_use_href_even_when_page_numbers_are_hidden(self):
         class Element:
             def __init__(self, text="", url=""):

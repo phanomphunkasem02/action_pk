@@ -613,7 +613,7 @@ def main():
     finally: collector.close()
 
     if not all_urls and not cancellations:
-        if config.get("incremental", False):
+        if cancel_only or config.get("incremental", False):
             log("[UP-TO-DATE] Latest PK Cargo order already exists; nothing to scrape.")
             return
         raise RuntimeError("No PK Cargo order URLs found")
