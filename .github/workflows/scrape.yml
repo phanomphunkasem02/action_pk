@@ -1,8 +1,7 @@
 name: PK Cargo Scrape
 
 on:
-  schedule:
-    - cron: '*/20 * * * *'
+
   workflow_dispatch:
     inputs:
       max_pages:
