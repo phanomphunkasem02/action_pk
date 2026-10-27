@@ -1,7 +1,7 @@
 [
   {
     "detail_url": "https://member.pkcargo.com/shops/12410",
-    "scraped_at": "27/10/2026 03:01:56",
+    "scraped_at": "27/10/2026 03:21:14",
     "order_id": "PN-1275#S12410",
     "date": "24/10/2026 14:14",
     "status": "สถานะ: รอชำระเงิน",
@@ -46,7 +46,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12409",
-    "scraped_at": "27/10/2026 03:01:56",
+    "scraped_at": "27/10/2026 03:21:13",
     "order_id": "PN-1275#S12409",
     "date": "24/10/2026 14:08",
     "status": "สถานะ: รอชำระเงิน",
@@ -92,7 +92,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12408",
-    "scraped_at": "27/10/2026 03:01:58",
+    "scraped_at": "27/10/2026 03:21:15",
     "order_id": "PN-1275#S12408",
     "date": "24/10/2026 14:00",
     "status": "สถานะ: รอชำระเงิน",
@@ -137,7 +137,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12407",
-    "scraped_at": "27/10/2026 03:01:58",
+    "scraped_at": "27/10/2026 03:21:15",
     "order_id": "PN-1275#S12407",
     "date": "24/10/2026 11:37",
     "status": "สถานะ: รอชำระเงิน",
@@ -196,7 +196,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12406",
-    "scraped_at": "27/10/2026 03:02:00",
+    "scraped_at": "27/10/2026 03:21:17",
     "order_id": "PN-1275#S12406",
     "date": "24/10/2026 11:36",
     "status": "สถานะ: รอชำระเงิน",
@@ -255,7 +255,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12403",
-    "scraped_at": "27/10/2026 03:02:00",
+    "scraped_at": "27/10/2026 03:21:17",
     "order_id": "PN-1275#S12403",
     "date": "24/10/2026 11:19",
     "status": "สถานะ: รอชำระเงิน",
@@ -340,7 +340,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12402",
-    "scraped_at": "27/10/2026 03:02:02",
+    "scraped_at": "27/10/2026 03:21:19",
     "order_id": "PN-1275#S12402",
     "date": "24/10/2026 10:45",
     "status": "สถานะ: รอชำระเงิน",
@@ -386,7 +386,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12401",
-    "scraped_at": "27/10/2026 03:02:03",
+    "scraped_at": "27/10/2026 03:21:19",
     "order_id": "PN-1275#S12401",
     "date": "24/10/2026 09:01",
     "status": "สถานะ: รอชำระเงิน",
@@ -432,7 +432,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12397",
-    "scraped_at": "27/10/2026 03:02:04",
+    "scraped_at": "27/10/2026 03:21:21",
     "order_id": "PN-1275#S12397",
     "date": "21/10/2026 23:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -535,7 +535,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12396",
-    "scraped_at": "27/10/2026 03:02:05",
+    "scraped_at": "27/10/2026 03:21:21",
     "order_id": "PN-1275#S12396",
     "date": "21/10/2026 17:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -623,7 +623,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12395",
-    "scraped_at": "27/10/2026 03:02:09",
+    "scraped_at": "27/10/2026 03:21:24",
     "order_id": "PN-1275#S12395",
     "date": "21/10/2026 16:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -713,7 +713,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12387",
-    "scraped_at": "27/10/2026 03:02:09",
+    "scraped_at": "27/10/2026 03:21:24",
     "order_id": "PN-1275#S12387",
     "date": "20/10/2026 11:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -803,7 +803,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12386",
-    "scraped_at": "27/10/2026 03:02:13",
+    "scraped_at": "27/10/2026 03:21:28",
     "order_id": "PN-1275#S12386",
     "date": "20/10/2026 11:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -897,29 +897,89 @@
         },
         "tracking_numbers": [
           {
-            "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=XF0076533200-%E4%BF%A1%E4%B8%B0",
-            "tracking_id": "เลขพัสดุ : XF0076533200-信丰",
-            "date": "27/10/26 : 09:53",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=XF0076533200-%E4%BF%A1%E4%B8%B0-1-4%2F6",
+            "tracking_id": "เลขพัสดุ : XF0076533200-信丰-1-4/6",
+            "date": "27/10/26 : 10:09",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
-            "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "box_type": "4",
+            "width": "42.00",
+            "length": "33.00",
+            "height": "34.00",
+            "weight": "106.66",
+            "volume": "0.1885",
+            "shipping_fee": "1,279.92",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "1,279.92",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "1,279.92",
+            "lot_id": null,
+            "lot_container_close": null,
+            "lot_status": null,
+            "lot_departed_china": null,
+            "lot_arrived_thai": null
+          },
+          {
+            "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=XF0076533200-%E4%BF%A1%E4%B8%B0-5%2F6",
+            "tracking_id": "เลขพัสดุ : XF0076533200-信丰-5/6",
+            "date": "27/10/26 : 10:09",
+            "status": "สถานะ: รอพัสดุถึงไทย",
+            "product_description": null,
+            "note": null,
+            "box_type": "1",
+            "width": "43.00",
+            "length": "34.00",
+            "height": "26.00",
+            "weight": "26.67",
+            "volume": "0.0380",
+            "shipping_fee": "320.04",
+            "crate_fee": "0.00",
+            "check_fee": "0.00",
+            "other_fee": "0.00",
+            "discount": "0.00",
+            "total": "320.04",
+            "product_type": "ทั่วไป",
+            "shipped_by": "เรือ",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "320.04",
+            "lot_id": null,
+            "lot_container_close": null,
+            "lot_status": null,
+            "lot_departed_china": null,
+            "lot_arrived_thai": null
+          },
+          {
+            "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=XF0076533200-%E4%BF%A1%E4%B8%B0-6%2F6",
+            "tracking_id": "เลขพัสดุ : XF0076533200-信丰-6/6",
+            "date": "27/10/26 : 10:09",
+            "status": "สถานะ: รอพัสดุถึงไทย",
+            "product_description": null,
+            "note": null,
+            "box_type": "1",
+            "width": "46.00",
+            "length": "40.00",
+            "height": "14.00",
+            "weight": "26.67",
+            "volume": "0.0258",
+            "shipping_fee": "320.04",
+            "crate_fee": "0.00",
+            "check_fee": "0.00",
+            "other_fee": "0.00",
+            "discount": "0.00",
+            "total": "320.04",
+            "product_type": "ทั่วไป",
+            "shipped_by": "เรือ",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "320.04",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -932,7 +992,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12385",
-    "scraped_at": "27/10/2026 03:02:13",
+    "scraped_at": "27/10/2026 03:21:28",
     "order_id": "PN-1275#S12385",
     "date": "20/10/2026 11:12",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -1021,11 +1081,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12383",
-    "scraped_at": "27/10/2026 03:02:17",
+    "scraped_at": "27/10/2026 03:21:35",
     "order_id": "PN-1275#S12383",
     "date": "20/10/2026 10:12",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1070,31 +1130,31 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JYM166003472738-%E5%8A%A0%E8%BF%90%E7%BE%8E",
             "tracking_id": "เลขพัสดุ : JYM166003472738-加运美",
             "date": "26/10/26 : 13:46",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "47.00",
+            "length": "47.00",
+            "height": "26.00",
+            "weight": "5.00",
+            "volume": "0.0574",
+            "shipping_fee": "218.25",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "218.25",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
-            "lot_id": null,
-            "lot_container_close": null,
-            "lot_status": null,
+            "calculated_by": "ปริมาตร",
+            "shipping_rate": "3,800.00",
+            "total_net_thb": "218.25",
+            "lot_id": "S20261025-3363",
+            "lot_container_close": "25/10/2026",
+            "lot_status": "ออกจากโกดัง",
             "lot_departed_china": null,
-            "lot_arrived_thai": null
+            "lot_arrived_thai": "19/11/2026"
           }
         ]
       }
@@ -1102,7 +1162,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12382",
-    "scraped_at": "27/10/2026 03:02:15",
+    "scraped_at": "27/10/2026 03:21:30",
     "order_id": "PN-1275#S12382",
     "date": "20/10/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1147,26 +1207,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=188149857616-%E4%BF%A1%E4%B8%B0",
             "tracking_id": "เลขพัสดุ : 188149857616-信丰",
             "date": "27/10/26 : 09:53",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "48.00",
+            "length": "31.00",
+            "height": "28.00",
+            "weight": "16.00",
+            "volume": "0.0417",
+            "shipping_fee": "192.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "192.00",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "192.00",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -1179,7 +1239,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12380",
-    "scraped_at": "27/10/2026 03:02:18",
+    "scraped_at": "27/10/2026 03:21:33",
     "order_id": "PN-1275#S12380",
     "date": "20/10/2026 10:11",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -1238,7 +1298,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12381",
-    "scraped_at": "27/10/2026 03:02:21",
+    "scraped_at": "27/10/2026 03:21:38",
     "order_id": "PN-1275#S12381",
     "date": "20/10/2026 10:11",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -1284,7 +1344,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12378",
-    "scraped_at": "27/10/2026 03:02:23",
+    "scraped_at": "27/10/2026 03:21:40",
     "order_id": "PN-1275#S12378",
     "date": "20/10/2026 09:20",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -1330,7 +1390,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12375",
-    "scraped_at": "27/10/2026 03:02:21",
+    "scraped_at": "27/10/2026 03:21:35",
     "order_id": "PN-1275#S12375",
     "date": "19/10/2026 16:44",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1489,11 +1549,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12367",
-    "scraped_at": "27/10/2026 03:02:25",
+    "scraped_at": "27/10/2026 03:21:42",
     "order_id": "PN-1275#S12367",
     "date": "19/10/2026 09:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1570,7 +1630,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12364",
-    "scraped_at": "27/10/2026 03:02:25",
+    "scraped_at": "27/10/2026 03:21:38",
     "order_id": "PN-1275#S12364",
     "date": "17/10/2026 15:04",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -1627,7 +1687,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12363",
-    "scraped_at": "27/10/2026 03:02:29",
+    "scraped_at": "27/10/2026 03:21:45",
     "order_id": "PN-1275#S12363",
     "date": "17/10/2026 13:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1717,7 +1777,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12362",
-    "scraped_at": "27/10/2026 03:02:27",
+    "scraped_at": "27/10/2026 03:21:40",
     "order_id": "PN-1275#S12362",
     "date": "17/10/2026 10:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1807,7 +1867,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12359",
-    "scraped_at": "27/10/2026 03:02:32",
+    "scraped_at": "27/10/2026 03:21:49",
     "order_id": "PN-1275#S12359",
     "date": "16/10/2026 10:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1865,26 +1925,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=188151387086-%E4%BF%A1%E4%B8%B0",
             "tracking_id": "เลขพัสดุ : 188151387086-信丰",
             "date": "26/10/26 : 11:06",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "46.00",
+            "length": "39.00",
+            "height": "16.00",
+            "weight": "14.00",
+            "volume": "0.0287",
+            "shipping_fee": "168.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "168.00",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "168.00",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -1953,11 +2013,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12352",
-    "scraped_at": "27/10/2026 03:02:31",
+    "scraped_at": "27/10/2026 03:21:44",
     "order_id": "PN-1275#S12352",
     "date": "15/10/2026 11:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2073,7 +2133,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12351",
-    "scraped_at": "27/10/2026 03:02:36",
+    "scraped_at": "27/10/2026 03:21:52",
     "order_id": "PN-1275#S12351",
     "date": "14/10/2026 15:45",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2150,7 +2210,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12350",
-    "scraped_at": "27/10/2026 03:02:35",
+    "scraped_at": "27/10/2026 03:21:47",
     "order_id": "PN-1275#S12350",
     "date": "14/10/2026 13:38",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -2196,7 +2256,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12338",
-    "scraped_at": "27/10/2026 03:02:40",
+    "scraped_at": "27/10/2026 03:21:55",
     "order_id": "PN-1275#S12338",
     "date": "12/10/2026 11:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2273,7 +2333,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12337",
-    "scraped_at": "27/10/2026 03:02:37",
+    "scraped_at": "27/10/2026 03:21:49",
     "order_id": "PN-1275#S12337",
     "date": "12/10/2026 11:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2363,7 +2423,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12336",
-    "scraped_at": "27/10/2026 03:02:44",
+    "scraped_at": "27/10/2026 03:21:59",
     "order_id": "PN-1275#S12336",
     "date": "12/10/2026 11:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2453,7 +2513,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12335",
-    "scraped_at": "27/10/2026 03:02:41",
+    "scraped_at": "27/10/2026 03:21:52",
     "order_id": "PN-1275#S12335",
     "date": "12/10/2026 10:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2556,7 +2616,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12334",
-    "scraped_at": "27/10/2026 03:02:47",
+    "scraped_at": "27/10/2026 03:22:02",
     "order_id": "PN-1275#S12334",
     "date": "12/10/2026 10:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2633,7 +2693,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12333",
-    "scraped_at": "27/10/2026 03:02:45",
+    "scraped_at": "27/10/2026 03:21:56",
     "order_id": "PN-1275#S12333",
     "date": "12/10/2026 09:44",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2740,7 +2800,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12332",
-    "scraped_at": "27/10/2026 03:02:51",
+    "scraped_at": "27/10/2026 03:22:05",
     "order_id": "PN-1275#S12332",
     "date": "12/10/2026 09:33",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2817,7 +2877,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12330",
-    "scraped_at": "27/10/2026 03:02:50",
+    "scraped_at": "27/10/2026 03:22:01",
     "order_id": "PN-1275#S12330",
     "date": "10/10/2026 15:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2933,7 +2993,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12323",
-    "scraped_at": "27/10/2026 03:02:56",
+    "scraped_at": "27/10/2026 03:22:09",
     "order_id": "PN-1275#S12323",
     "date": "09/10/2026 13:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3049,7 +3109,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12319",
-    "scraped_at": "27/10/2026 03:02:55",
+    "scraped_at": "27/10/2026 03:22:04",
     "order_id": "PN-1275#S12319",
     "date": "09/10/2026 12:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3208,11 +3268,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12316",
-    "scraped_at": "27/10/2026 03:03:00",
+    "scraped_at": "27/10/2026 03:22:12",
     "order_id": "PN-1275#S12316",
     "date": "09/10/2026 09:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3289,7 +3349,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12313",
-    "scraped_at": "27/10/2026 03:02:59",
+    "scraped_at": "27/10/2026 03:22:08",
     "order_id": "PN-1275#S12313",
     "date": "08/10/2026 11:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3366,7 +3426,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12312",
-    "scraped_at": "27/10/2026 03:03:04",
+    "scraped_at": "27/10/2026 03:22:16",
     "order_id": "PN-1275#S12312",
     "date": "08/10/2026 09:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3482,7 +3542,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12311",
-    "scraped_at": "27/10/2026 03:03:02",
+    "scraped_at": "27/10/2026 03:22:11",
     "order_id": "PN-1275#S12311",
     "date": "08/10/2026 09:03",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3572,7 +3632,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12310",
-    "scraped_at": "27/10/2026 03:03:08",
+    "scraped_at": "27/10/2026 03:22:19",
     "order_id": "PN-1275#S12310",
     "date": "08/10/2026 08:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3649,7 +3709,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12309",
-    "scraped_at": "27/10/2026 03:03:06",
+    "scraped_at": "27/10/2026 03:22:14",
     "order_id": "PN-1275#S12309",
     "date": "08/10/2026 08:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3755,7 +3815,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12307",
-    "scraped_at": "27/10/2026 03:03:12",
+    "scraped_at": "27/10/2026 03:22:23",
     "order_id": "PN-1275#S12307",
     "date": "07/10/2026 17:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3845,7 +3905,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12306",
-    "scraped_at": "27/10/2026 03:03:12",
+    "scraped_at": "27/10/2026 03:22:19",
     "order_id": "PN-1275#S12306",
     "date": "07/10/2026 17:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3922,7 +3982,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12304",
-    "scraped_at": "27/10/2026 03:03:16",
+    "scraped_at": "27/10/2026 03:22:26",
     "order_id": "PN-1275#S12304",
     "date": "07/10/2026 16:28",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4185,7 +4245,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12301",
-    "scraped_at": "27/10/2026 03:03:16",
+    "scraped_at": "27/10/2026 03:22:23",
     "order_id": "PN-1275#S12301",
     "date": "07/10/2026 14:57",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4305,11 +4365,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12294",
-    "scraped_at": "27/10/2026 03:03:23",
+    "scraped_at": "27/10/2026 03:22:32",
     "order_id": "PN-1275#S12294",
     "date": "07/10/2026 11:03",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4451,7 +4511,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12293",
-    "scraped_at": "27/10/2026 03:03:19",
+    "scraped_at": "27/10/2026 03:22:26",
     "order_id": "PN-1275#S12293",
     "date": "07/10/2026 11:02",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -4497,7 +4557,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12292",
-    "scraped_at": "27/10/2026 03:03:28",
+    "scraped_at": "27/10/2026 03:22:36",
     "order_id": "PN-1275#S12292",
     "date": "07/10/2026 10:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4587,7 +4647,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12291",
-    "scraped_at": "27/10/2026 03:03:21",
+    "scraped_at": "27/10/2026 03:22:28",
     "order_id": "PN-1275#S12291",
     "date": "07/10/2026 10:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4664,7 +4724,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12290",
-    "scraped_at": "27/10/2026 03:03:31",
+    "scraped_at": "27/10/2026 03:22:39",
     "order_id": "PN-1275#S12290",
     "date": "07/10/2026 10:03",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4953,11 +5013,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12287",
-    "scraped_at": "27/10/2026 03:03:25",
+    "scraped_at": "27/10/2026 03:22:31",
     "order_id": "PN-1275#S12287",
     "date": "05/10/2026 16:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5060,7 +5120,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12286",
-    "scraped_at": "27/10/2026 03:03:35",
+    "scraped_at": "27/10/2026 03:22:43",
     "order_id": "PN-1275#S12286",
     "date": "05/10/2026 15:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5137,7 +5197,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12285",
-    "scraped_at": "27/10/2026 03:03:29",
+    "scraped_at": "27/10/2026 03:22:35",
     "order_id": "PN-1275#S12285",
     "date": "05/10/2026 14:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5214,7 +5274,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12284",
-    "scraped_at": "27/10/2026 03:03:39",
+    "scraped_at": "27/10/2026 03:22:46",
     "order_id": "PN-1275#S12284",
     "date": "05/10/2026 14:12",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5476,7 +5536,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12283",
-    "scraped_at": "27/10/2026 03:03:33",
+    "scraped_at": "27/10/2026 03:22:38",
     "order_id": "PN-1275#S12283",
     "date": "05/10/2026 09:57",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5553,7 +5613,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12277",
-    "scraped_at": "27/10/2026 03:03:50",
+    "scraped_at": "27/10/2026 03:22:56",
     "order_id": "PN-1275#S12277",
     "date": "03/10/2026 16:23",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5630,7 +5690,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12276",
-    "scraped_at": "27/10/2026 03:03:36",
+    "scraped_at": "27/10/2026 03:22:42",
     "order_id": "PN-1275#S12276",
     "date": "03/10/2026 16:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5707,7 +5767,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12275",
-    "scraped_at": "27/10/2026 03:03:54",
+    "scraped_at": "27/10/2026 03:22:59",
     "order_id": "PN-1275#S12275",
     "date": "03/10/2026 15:51",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5797,7 +5857,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12274",
-    "scraped_at": "27/10/2026 03:03:40",
+    "scraped_at": "27/10/2026 03:22:45",
     "order_id": "PN-1275#S12274",
     "date": "03/10/2026 15:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6072,7 +6132,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12272",
-    "scraped_at": "27/10/2026 03:03:58",
+    "scraped_at": "27/10/2026 03:23:03",
     "order_id": "PN-1275#S12272",
     "date": "03/10/2026 13:30",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6162,7 +6222,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12271",
-    "scraped_at": "27/10/2026 03:03:52",
+    "scraped_at": "27/10/2026 03:22:56",
     "order_id": "PN-1275#S12271",
     "date": "03/10/2026 11:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6338,7 +6398,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12270",
-    "scraped_at": "27/10/2026 03:04:02",
+    "scraped_at": "27/10/2026 03:23:06",
     "order_id": "PN-1275#S12270",
     "date": "03/10/2026 10:47",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6428,7 +6488,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12268",
-    "scraped_at": "27/10/2026 03:03:59",
+    "scraped_at": "27/10/2026 03:23:02",
     "order_id": "PN-1275#S12268",
     "date": "03/10/2026 09:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6505,7 +6565,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12263",
-    "scraped_at": "27/10/2026 03:04:06",
+    "scraped_at": "27/10/2026 03:23:10",
     "order_id": "PN-1275#S12263",
     "date": "02/10/2026 16:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6699,7 +6759,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12262",
-    "scraped_at": "27/10/2026 03:04:03",
+    "scraped_at": "27/10/2026 03:23:06",
     "order_id": "PN-1275#S12262",
     "date": "02/10/2026 16:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6775,7 +6835,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12257",
-    "scraped_at": "27/10/2026 03:04:11",
+    "scraped_at": "27/10/2026 03:23:14",
     "order_id": "PN-1275#S12257",
     "date": "01/10/2026 17:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6852,7 +6912,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12256",
-    "scraped_at": "27/10/2026 03:04:07",
+    "scraped_at": "27/10/2026 03:23:09",
     "order_id": "PN-1275#S12256",
     "date": "01/10/2026 17:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6928,7 +6988,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12255",
-    "scraped_at": "27/10/2026 03:04:15",
+    "scraped_at": "27/10/2026 03:23:18",
     "order_id": "PN-1275#S12255",
     "date": "01/10/2026 15:37",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -6974,7 +7034,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12248",
-    "scraped_at": "27/10/2026 03:04:11",
+    "scraped_at": "27/10/2026 03:23:13",
     "order_id": "PN-1275#S12248",
     "date": "30/09/2026 16:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7051,7 +7111,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12225",
-    "scraped_at": "27/10/2026 03:04:17",
+    "scraped_at": "27/10/2026 03:23:19",
     "order_id": "PN-1275#S12225",
     "date": "29/09/2026 14:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7167,7 +7227,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12224",
-    "scraped_at": "27/10/2026 03:04:14",
+    "scraped_at": "27/10/2026 03:23:16",
     "order_id": "PN-1275#S12224",
     "date": "29/09/2026 14:29",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -7239,7 +7299,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12223",
-    "scraped_at": "27/10/2026 03:04:21",
+    "scraped_at": "27/10/2026 03:23:23",
     "order_id": "PN-1275#S12223",
     "date": "29/09/2026 14:18",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7327,7 +7387,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12222",
-    "scraped_at": "27/10/2026 03:04:17",
+    "scraped_at": "27/10/2026 03:23:18",
     "order_id": "PN-1275#S12221",
     "date": "29/09/2026 14:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7434,7 +7494,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12220",
-    "scraped_at": "27/10/2026 03:04:25",
+    "scraped_at": "27/10/2026 03:23:26",
     "order_id": "PN-1275#S12220",
     "date": "29/09/2026 13:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7524,7 +7584,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12215",
-    "scraped_at": "27/10/2026 03:04:22",
+    "scraped_at": "27/10/2026 03:23:23",
     "order_id": "PN-1275#S12215",
     "date": "29/09/2026 12:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7690,11 +7750,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12213",
-    "scraped_at": "27/10/2026 03:04:29",
+    "scraped_at": "27/10/2026 03:23:30",
     "order_id": "PN-1275#S12213",
     "date": "29/09/2026 11:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7770,7 +7830,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12211",
-    "scraped_at": "27/10/2026 03:04:26",
+    "scraped_at": "27/10/2026 03:23:26",
     "order_id": "PN-1275#S12211",
     "date": "29/09/2026 11:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7906,7 +7966,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12209",
-    "scraped_at": "27/10/2026 03:04:33",
+    "scraped_at": "27/10/2026 03:23:33",
     "order_id": "PN-1275#S12209",
     "date": "29/09/2026 09:47",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -7952,7 +8012,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12195",
-    "scraped_at": "27/10/2026 03:04:30",
+    "scraped_at": "27/10/2026 03:23:30",
     "order_id": "PN-1275#S12195",
     "date": "25/09/2026 16:54",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8070,11 +8130,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12192",
-    "scraped_at": "27/10/2026 03:04:34",
+    "scraped_at": "27/10/2026 03:23:35",
     "order_id": "PN-1275#S12192",
     "date": "25/09/2026 15:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8174,7 +8234,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12191",
-    "scraped_at": "27/10/2026 03:04:34",
+    "scraped_at": "27/10/2026 03:23:33",
     "order_id": "PN-1275#S12191",
     "date": "25/09/2026 14:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8436,11 +8496,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12189",
-    "scraped_at": "27/10/2026 03:04:39",
+    "scraped_at": "27/10/2026 03:23:38",
     "order_id": "PN-1275#S12189",
     "date": "25/09/2026 12:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8517,7 +8577,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12188",
-    "scraped_at": "27/10/2026 03:04:41",
+    "scraped_at": "27/10/2026 03:23:39",
     "order_id": "PN-1275#S12188",
     "date": "25/09/2026 09:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8594,7 +8654,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12187",
-    "scraped_at": "27/10/2026 03:04:42",
+    "scraped_at": "27/10/2026 03:23:41",
     "order_id": "PN-1275#S12187",
     "date": "25/09/2026 09:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8671,7 +8731,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12186",
-    "scraped_at": "27/10/2026 03:04:45",
+    "scraped_at": "27/10/2026 03:23:42",
     "order_id": "PN-1275#S12186",
     "date": "25/09/2026 09:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8748,7 +8808,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12185",
-    "scraped_at": "27/10/2026 03:04:46",
+    "scraped_at": "27/10/2026 03:23:45",
     "order_id": "PN-1275#S12185",
     "date": "25/09/2026 09:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8825,7 +8885,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12181",
-    "scraped_at": "27/10/2026 03:04:49",
+    "scraped_at": "27/10/2026 03:23:46",
     "order_id": "PN-1275#S12181",
     "date": "24/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8943,11 +9003,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12171",
-    "scraped_at": "27/10/2026 03:04:50",
+    "scraped_at": "27/10/2026 03:23:48",
     "order_id": "PN-1275#S12171",
     "date": "23/09/2026 14:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9037,7 +9097,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12168",
-    "scraped_at": "27/10/2026 03:04:52",
+    "scraped_at": "27/10/2026 03:23:49",
     "order_id": "PN-1275#S12168",
     "date": "22/09/2026 15:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9140,7 +9200,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12166",
-    "scraped_at": "27/10/2026 03:04:54",
+    "scraped_at": "27/10/2026 03:23:51",
     "order_id": "PN-1275#S12166",
     "date": "22/09/2026 11:32",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9217,7 +9277,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12165",
-    "scraped_at": "27/10/2026 03:04:57",
+    "scraped_at": "27/10/2026 03:23:52",
     "order_id": "PN-1275#S12165",
     "date": "22/09/2026 11:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9294,7 +9354,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12156",
-    "scraped_at": "27/10/2026 03:04:58",
+    "scraped_at": "27/10/2026 03:23:55",
     "order_id": "PN-1275#S12156",
     "date": "19/09/2026 15:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9370,7 +9430,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12155",
-    "scraped_at": "27/10/2026 03:05:00",
+    "scraped_at": "27/10/2026 03:23:56",
     "order_id": "PN-1275#S12155",
     "date": "19/09/2026 11:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9460,7 +9520,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12154",
-    "scraped_at": "27/10/2026 03:05:01",
+    "scraped_at": "27/10/2026 03:23:58",
     "order_id": "PN-1275#S12154",
     "date": "19/09/2026 11:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9563,7 +9623,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12153",
-    "scraped_at": "27/10/2026 03:05:04",
+    "scraped_at": "27/10/2026 03:23:59",
     "order_id": "PN-1275#S12153",
     "date": "19/09/2026 11:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9640,7 +9700,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12152",
-    "scraped_at": "27/10/2026 03:05:05",
+    "scraped_at": "27/10/2026 03:24:02",
     "order_id": "PN-1275#S12152",
     "date": "18/09/2026 17:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9717,7 +9777,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12145",
-    "scraped_at": "27/10/2026 03:05:08",
+    "scraped_at": "27/10/2026 03:24:02",
     "order_id": "PN-1275#S12145",
     "date": "17/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9832,7 +9892,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12144",
-    "scraped_at": "27/10/2026 03:05:09",
+    "scraped_at": "27/10/2026 03:24:05",
     "order_id": "PN-1275#S12144",
     "date": "17/09/2026 16:55",
     "status": "สถานะ: รอเลขขนส่ง",
@@ -9891,7 +9951,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12143",
-    "scraped_at": "27/10/2026 03:05:12",
+    "scraped_at": "27/10/2026 03:24:06",
     "order_id": "PN-1275#S12143",
     "date": "17/09/2026 16:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10022,11 +10082,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12136",
-    "scraped_at": "27/10/2026 03:05:11",
+    "scraped_at": "27/10/2026 03:24:07",
     "order_id": "PN-1275#S12136",
     "date": "16/09/2026 15:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10145,7 +10205,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12134",
-    "scraped_at": "27/10/2026 03:05:16",
+    "scraped_at": "27/10/2026 03:24:09",
     "order_id": "PN-1275#S12134",
     "date": "16/09/2026 14:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10290,11 +10350,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12131",
-    "scraped_at": "27/10/2026 03:05:17",
+    "scraped_at": "27/10/2026 03:24:12",
     "order_id": "PN-1275#S12131",
     "date": "16/09/2026 11:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10397,7 +10457,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12129",
-    "scraped_at": "27/10/2026 03:05:20",
+    "scraped_at": "27/10/2026 03:24:13",
     "order_id": "PN-1275#S12129",
     "date": "16/09/2026 11:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10514,11 +10574,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12122",
-    "scraped_at": "27/10/2026 03:05:21",
+    "scraped_at": "27/10/2026 03:24:15",
     "order_id": "PN-1275#S12122",
     "date": "15/09/2026 16:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10595,7 +10655,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12121",
-    "scraped_at": "27/10/2026 03:05:24",
+    "scraped_at": "27/10/2026 03:24:16",
     "order_id": "PN-1275#S12121",
     "date": "15/09/2026 16:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10672,7 +10732,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12120",
-    "scraped_at": "27/10/2026 03:05:25",
+    "scraped_at": "27/10/2026 03:24:18",
     "order_id": "PN-1275#S12120",
     "date": "15/09/2026 14:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10749,7 +10809,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12119",
-    "scraped_at": "27/10/2026 03:05:28",
+    "scraped_at": "27/10/2026 03:24:19",
     "order_id": "PN-1275#S12119",
     "date": "15/09/2026 12:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10826,7 +10886,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12118",
-    "scraped_at": "27/10/2026 03:05:29",
+    "scraped_at": "27/10/2026 03:24:22",
     "order_id": "PN-1275#S12118",
     "date": "15/09/2026 12:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10933,7 +10993,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12116",
-    "scraped_at": "27/10/2026 03:05:34",
+    "scraped_at": "27/10/2026 03:24:27",
     "order_id": "PN-1275#S12116",
     "date": "15/09/2026 12:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11010,7 +11070,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12117",
-    "scraped_at": "27/10/2026 03:05:32",
+    "scraped_at": "27/10/2026 03:24:23",
     "order_id": "PN-1275#S12117",
     "date": "15/09/2026 12:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11087,7 +11147,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12114",
-    "scraped_at": "27/10/2026 03:05:35",
+    "scraped_at": "27/10/2026 03:24:26",
     "order_id": "PN-1275#S12114",
     "date": "15/09/2026 12:31",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11163,7 +11223,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12113",
-    "scraped_at": "27/10/2026 03:05:38",
+    "scraped_at": "27/10/2026 03:24:30",
     "order_id": "PN-1275#S12113",
     "date": "15/09/2026 10:22",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11266,7 +11326,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12112",
-    "scraped_at": "27/10/2026 03:05:39",
+    "scraped_at": "27/10/2026 03:24:29",
     "order_id": "PN-1275#S12112",
     "date": "15/09/2026 09:59",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11356,7 +11416,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12111",
-    "scraped_at": "27/10/2026 03:05:42",
+    "scraped_at": "27/10/2026 03:24:34",
     "order_id": "PN-1275#S12111",
     "date": "15/09/2026 09:51",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11433,7 +11493,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12110",
-    "scraped_at": "27/10/2026 03:05:43",
+    "scraped_at": "27/10/2026 03:24:33",
     "order_id": "PN-1275#S12110",
     "date": "15/09/2026 09:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11510,7 +11570,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12109",
-    "scraped_at": "27/10/2026 03:05:46",
+    "scraped_at": "27/10/2026 03:24:37",
     "order_id": "PN-1275#S12109",
     "date": "15/09/2026 09:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11617,7 +11677,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12106",
-    "scraped_at": "27/10/2026 03:05:47",
+    "scraped_at": "27/10/2026 03:24:36",
     "order_id": "PN-1275#S12106",
     "date": "14/09/2026 13:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11694,7 +11754,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12105",
-    "scraped_at": "27/10/2026 03:05:51",
+    "scraped_at": "27/10/2026 03:24:42",
     "order_id": "PN-1275#S12105",
     "date": "14/09/2026 11:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11770,7 +11830,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12104",
-    "scraped_at": "27/10/2026 03:05:50",
+    "scraped_at": "27/10/2026 03:24:39",
     "order_id": "PN-1275#S12104",
     "date": "14/09/2026 11:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11847,7 +11907,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12102",
-    "scraped_at": "27/10/2026 03:05:55",
+    "scraped_at": "27/10/2026 03:24:45",
     "order_id": "PN-1275#S12102",
     "date": "14/09/2026 10:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11950,7 +12010,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12101",
-    "scraped_at": "27/10/2026 03:05:54",
+    "scraped_at": "27/10/2026 03:24:43",
     "order_id": "PN-1275#S12101",
     "date": "14/09/2026 09:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12027,7 +12087,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12098",
-    "scraped_at": "27/10/2026 03:05:59",
+    "scraped_at": "27/10/2026 03:24:49",
     "order_id": "PN-1275#S12098",
     "date": "12/09/2026 11:56",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12117,7 +12177,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12097",
-    "scraped_at": "27/10/2026 03:05:58",
+    "scraped_at": "27/10/2026 03:24:46",
     "order_id": "PN-1275#S12097",
     "date": "12/09/2026 11:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12194,7 +12254,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12096",
-    "scraped_at": "27/10/2026 03:06:03",
+    "scraped_at": "27/10/2026 03:24:52",
     "order_id": "PN-1275#S12096",
     "date": "12/09/2026 10:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12284,7 +12344,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12095",
-    "scraped_at": "27/10/2026 03:06:02",
+    "scraped_at": "27/10/2026 03:24:50",
     "order_id": "PN-1275#S12095",
     "date": "12/09/2026 09:36",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12361,7 +12421,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12092",
-    "scraped_at": "27/10/2026 03:06:07",
+    "scraped_at": "27/10/2026 03:24:56",
     "order_id": "PN-1275#S12092",
     "date": "11/09/2026 12:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12496,7 +12556,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12089",
-    "scraped_at": "27/10/2026 03:06:06",
+    "scraped_at": "27/10/2026 03:24:53",
     "order_id": "PN-1275#S12089",
     "date": "11/09/2026 12:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12573,7 +12633,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12088",
-    "scraped_at": "27/10/2026 03:06:12",
+    "scraped_at": "27/10/2026 03:25:01",
     "order_id": "PN-1275#S12088",
     "date": "11/09/2026 11:46",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12650,7 +12710,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12087",
-    "scraped_at": "27/10/2026 03:06:09",
+    "scraped_at": "27/10/2026 03:24:56",
     "order_id": "PN-1275#S12087",
     "date": "11/09/2026 11:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12757,7 +12817,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12086",
-    "scraped_at": "27/10/2026 03:06:16",
+    "scraped_at": "27/10/2026 03:25:04",
     "order_id": "PN-1275#S12086",
     "date": "11/09/2026 11:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12834,7 +12894,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12085",
-    "scraped_at": "27/10/2026 03:06:15",
+    "scraped_at": "27/10/2026 03:25:01",
     "order_id": "PN-1275#S12085",
     "date": "10/09/2026 17:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12937,7 +12997,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12084",
-    "scraped_at": "27/10/2026 03:06:20",
+    "scraped_at": "27/10/2026 03:25:08",
     "order_id": "PN-1275#S12084",
     "date": "10/09/2026 17:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13044,7 +13104,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12083",
-    "scraped_at": "27/10/2026 03:06:19",
+    "scraped_at": "27/10/2026 03:25:05",
     "order_id": "PN-1275#S12083",
     "date": "10/09/2026 17:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13192,11 +13252,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12071",
-    "scraped_at": "27/10/2026 03:06:25",
+    "scraped_at": "27/10/2026 03:25:13",
     "order_id": "PN-1275#S12071",
     "date": "09/09/2026 16:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13273,7 +13333,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12069",
-    "scraped_at": "27/10/2026 03:06:25",
+    "scraped_at": "27/10/2026 03:25:10",
     "order_id": "PN-1275#S12069",
     "date": "09/09/2026 15:31",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13350,7 +13410,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12068",
-    "scraped_at": "27/10/2026 03:06:29",
+    "scraped_at": "27/10/2026 03:25:16",
     "order_id": "PN-1275#S12068",
     "date": "09/09/2026 13:21",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13440,7 +13500,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12064",
-    "scraped_at": "27/10/2026 03:06:28",
+    "scraped_at": "27/10/2026 03:25:13",
     "order_id": "PN-1275#S12064",
     "date": "09/09/2026 11:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13530,7 +13590,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12063",
-    "scraped_at": "27/10/2026 03:06:33",
+    "scraped_at": "27/10/2026 03:25:19",
     "order_id": "PN-1275#S12063",
     "date": "09/09/2026 11:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13607,7 +13667,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12062",
-    "scraped_at": "27/10/2026 03:06:32",
+    "scraped_at": "27/10/2026 03:25:17",
     "order_id": "PN-1275#S12062",
     "date": "09/09/2026 11:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13684,7 +13744,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12061",
-    "scraped_at": "27/10/2026 03:06:37",
+    "scraped_at": "27/10/2026 03:25:23",
     "order_id": "PN-1275#S12061",
     "date": "09/09/2026 11:33",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13761,7 +13821,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12058",
-    "scraped_at": "27/10/2026 03:06:36",
+    "scraped_at": "27/10/2026 03:25:20",
     "order_id": "PN-1275#S12058",
     "date": "08/09/2026 14:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13838,7 +13898,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12056",
-    "scraped_at": "27/10/2026 03:06:40",
+    "scraped_at": "27/10/2026 03:25:23",
     "order_id": "PN-1275#S12056",
     "date": "08/09/2026 14:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14037,7 +14097,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12057",
-    "scraped_at": "27/10/2026 03:06:41",
+    "scraped_at": "27/10/2026 03:25:26",
     "order_id": "PN-1275#S12057",
     "date": "08/09/2026 14:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14114,7 +14174,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12055",
-    "scraped_at": "27/10/2026 03:06:44",
+    "scraped_at": "27/10/2026 03:25:30",
     "order_id": "PN-1275#S12055",
     "date": "08/09/2026 11:14",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14232,11 +14292,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12052",
-    "scraped_at": "27/10/2026 03:06:46",
+    "scraped_at": "27/10/2026 03:25:29",
     "order_id": "PN-1275#S12052",
     "date": "08/09/2026 10:59",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14366,7 +14426,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12050",
@@ -14459,11 +14519,11 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12049",
-    "scraped_at": "27/10/2026 03:06:48",
+    "scraped_at": "27/10/2026 03:25:33",
     "order_id": "PN-1275#S12049",
     "date": "08/09/2026 10:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14540,7 +14600,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12048",
-    "scraped_at": "27/10/2026 03:06:50",
+    "scraped_at": "27/10/2026 03:25:32",
     "order_id": "PN-1275#S12048",
     "date": "08/09/2026 10:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14670,7 +14730,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12039",
@@ -14748,7 +14808,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:52"
+    "shipping_scraped_at": "27/10/2026 03:25:36"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12038",
@@ -14826,7 +14886,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:54"
+    "shipping_scraped_at": "27/10/2026 03:25:36"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12037",
@@ -14904,7 +14964,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:54"
+    "shipping_scraped_at": "27/10/2026 03:25:38"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12035",
@@ -14982,7 +15042,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:56"
+    "shipping_scraped_at": "27/10/2026 03:25:40"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12036",
@@ -15090,7 +15150,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:56"
+    "shipping_scraped_at": "27/10/2026 03:25:38"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12034",
@@ -15181,7 +15241,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:00"
+    "shipping_scraped_at": "27/10/2026 03:25:41"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12033",
@@ -15259,7 +15319,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:06:59"
+    "shipping_scraped_at": "27/10/2026 03:25:43"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12032",
@@ -15304,7 +15364,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12030",
@@ -15349,7 +15409,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12029",
@@ -15394,7 +15454,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12017",
@@ -15439,7 +15499,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12016",
@@ -15484,7 +15544,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12015",
@@ -15562,7 +15622,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:03"
+    "shipping_scraped_at": "27/10/2026 03:25:43"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12013",
@@ -15640,7 +15700,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:01"
+    "shipping_scraped_at": "27/10/2026 03:25:45"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12012",
@@ -15759,7 +15819,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:05"
+    "shipping_scraped_at": "27/10/2026 03:25:46"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12010",
@@ -15893,7 +15953,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:04"
+    "shipping_scraped_at": "27/10/2026 03:25:47"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12004",
@@ -16027,7 +16087,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:09"
+    "shipping_scraped_at": "27/10/2026 03:25:49"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12003",
@@ -16131,7 +16191,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:08"
+    "shipping_scraped_at": "27/10/2026 03:25:50"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12002",
@@ -16261,7 +16321,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:13"
+    "shipping_scraped_at": "27/10/2026 03:25:53"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/12000",
@@ -16330,7 +16390,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11999",
@@ -16408,7 +16468,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:10"
+    "shipping_scraped_at": "27/10/2026 03:25:52"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11998",
@@ -16486,7 +16546,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:15"
+    "shipping_scraped_at": "27/10/2026 03:25:55"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11997",
@@ -16555,7 +16615,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11996",
@@ -16662,7 +16722,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:12"
+    "shipping_scraped_at": "27/10/2026 03:25:55"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11995",
@@ -16740,7 +16800,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:18"
+    "shipping_scraped_at": "27/10/2026 03:25:57"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11994",
@@ -16818,7 +16878,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:16"
+    "shipping_scraped_at": "27/10/2026 03:25:58"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11993",
@@ -16875,7 +16935,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11992",
@@ -16932,7 +16992,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11991",
@@ -17135,7 +17195,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:20"
+    "shipping_scraped_at": "27/10/2026 03:25:59"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11990",
@@ -17239,7 +17299,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:18"
+    "shipping_scraped_at": "27/10/2026 03:26:00"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11989",
@@ -17347,7 +17407,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:26"
+    "shipping_scraped_at": "27/10/2026 03:26:05"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11988",
@@ -17392,7 +17452,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11986",
@@ -17470,7 +17530,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:21"
+    "shipping_scraped_at": "27/10/2026 03:26:03"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11984",
@@ -17561,7 +17621,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:30"
+    "shipping_scraped_at": "27/10/2026 03:26:09"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11982",
@@ -17695,7 +17755,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:23"
+    "shipping_scraped_at": "27/10/2026 03:26:05"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11981",
@@ -17773,7 +17833,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:32"
+    "shipping_scraped_at": "27/10/2026 03:26:11"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11980",
@@ -17864,7 +17924,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:27"
+    "shipping_scraped_at": "27/10/2026 03:26:08"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11976",
@@ -17942,7 +18002,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:35"
+    "shipping_scraped_at": "27/10/2026 03:26:13"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11975",
@@ -18020,7 +18080,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:29"
+    "shipping_scraped_at": "27/10/2026 03:26:11"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11974",
@@ -18098,7 +18158,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:37"
+    "shipping_scraped_at": "27/10/2026 03:26:15"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11973",
@@ -18176,7 +18236,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:32"
+    "shipping_scraped_at": "27/10/2026 03:26:13"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11972",
@@ -18267,7 +18327,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:39"
+    "shipping_scraped_at": "27/10/2026 03:26:17"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11971",
@@ -18345,7 +18405,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:34"
+    "shipping_scraped_at": "27/10/2026 03:26:15"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11970",
@@ -18423,7 +18483,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:41"
+    "shipping_scraped_at": "27/10/2026 03:26:19"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11969",
@@ -18514,7 +18574,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:36"
+    "shipping_scraped_at": "27/10/2026 03:26:17"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11968",
@@ -18571,7 +18631,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11967",
@@ -18616,7 +18676,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11966",
@@ -18694,7 +18754,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:44"
+    "shipping_scraped_at": "27/10/2026 03:26:21"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11965",
@@ -18772,7 +18832,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:38"
+    "shipping_scraped_at": "27/10/2026 03:26:19"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11963",
@@ -18915,7 +18975,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:41"
+    "shipping_scraped_at": "27/10/2026 03:26:21"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11964",
@@ -18993,7 +19053,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:46"
+    "shipping_scraped_at": "27/10/2026 03:26:24"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11962",
@@ -19071,7 +19131,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:48"
+    "shipping_scraped_at": "27/10/2026 03:26:26"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11956",
@@ -19149,7 +19209,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:43"
+    "shipping_scraped_at": "27/10/2026 03:26:24"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11955",
@@ -19227,7 +19287,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:51"
+    "shipping_scraped_at": "27/10/2026 03:26:28"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11954",
@@ -19374,7 +19434,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:45"
+    "shipping_scraped_at": "27/10/2026 03:26:26"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11952",
@@ -19491,7 +19551,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:53"
+    "shipping_scraped_at": "27/10/2026 03:26:30"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11951",
@@ -19591,7 +19651,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:49"
+    "shipping_scraped_at": "27/10/2026 03:26:30"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11948",
@@ -19667,7 +19727,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:55"
+    "shipping_scraped_at": "27/10/2026 03:26:32"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11947",
@@ -19712,7 +19772,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11943",
@@ -19788,7 +19848,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:51"
+    "shipping_scraped_at": "27/10/2026 03:26:32"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11941",
@@ -19930,7 +19990,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:57"
+    "shipping_scraped_at": "27/10/2026 03:26:34"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11934",
@@ -19975,7 +20035,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11925",
@@ -20085,7 +20145,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:54"
+    "shipping_scraped_at": "27/10/2026 03:26:34"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11919",
@@ -20160,7 +20220,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:01"
+    "shipping_scraped_at": "27/10/2026 03:26:38"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11908",
@@ -20241,7 +20301,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11907",
@@ -20298,7 +20358,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11903",
@@ -20343,7 +20403,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11902",
@@ -20431,7 +20491,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:56"
+    "shipping_scraped_at": "27/10/2026 03:26:36"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11901",
@@ -20512,7 +20572,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11900",
@@ -20581,7 +20641,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11899",
@@ -20638,7 +20698,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11898",
@@ -20726,7 +20786,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:04"
+    "shipping_scraped_at": "27/10/2026 03:26:40"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11897",
@@ -20814,7 +20874,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:07:58"
+    "shipping_scraped_at": "27/10/2026 03:26:38"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11896",
@@ -20859,7 +20919,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11894",
@@ -20935,7 +20995,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:01"
+    "shipping_scraped_at": "27/10/2026 03:26:40"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11895",
@@ -21011,7 +21071,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:06"
+    "shipping_scraped_at": "27/10/2026 03:26:42"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11880",
@@ -21159,7 +21219,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:08"
+    "shipping_scraped_at": "27/10/2026 03:26:45"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11878",
@@ -21265,7 +21325,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:03"
+    "shipping_scraped_at": "27/10/2026 03:26:42"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11877",
@@ -21365,7 +21425,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:11"
+    "shipping_scraped_at": "27/10/2026 03:26:47"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11876",
@@ -21477,7 +21537,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:07"
+    "shipping_scraped_at": "27/10/2026 03:26:46"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11866",
@@ -21553,7 +21613,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:13"
+    "shipping_scraped_at": "27/10/2026 03:26:49"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11865",
@@ -21629,7 +21689,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:09"
+    "shipping_scraped_at": "27/10/2026 03:26:48"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11859",
@@ -21717,7 +21777,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:15"
+    "shipping_scraped_at": "27/10/2026 03:26:51"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11857",
@@ -21822,7 +21882,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11854",
@@ -21867,7 +21927,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11855",
@@ -21985,7 +22045,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:11"
+    "shipping_scraped_at": "27/10/2026 03:26:50"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11851",
@@ -22061,7 +22121,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:18"
+    "shipping_scraped_at": "27/10/2026 03:26:53"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11849",
@@ -22137,7 +22197,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:15"
+    "shipping_scraped_at": "27/10/2026 03:26:54"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11845",
@@ -22236,7 +22296,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:20"
+    "shipping_scraped_at": "27/10/2026 03:26:55"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11843",
@@ -22305,7 +22365,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11842",
@@ -22350,7 +22410,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11834",
@@ -22462,7 +22522,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:18"
+    "shipping_scraped_at": "27/10/2026 03:26:56"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11833",
@@ -22507,7 +22567,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11832",
@@ -22595,7 +22655,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:22"
+    "shipping_scraped_at": "27/10/2026 03:26:57"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11831",
@@ -22743,7 +22803,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:20"
+    "shipping_scraped_at": "27/10/2026 03:26:58"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11829",
@@ -22824,7 +22884,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11827",
@@ -22900,7 +22960,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:22"
+    "shipping_scraped_at": "27/10/2026 03:27:00"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11830",
@@ -22988,7 +23048,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:25"
+    "shipping_scraped_at": "27/10/2026 03:26:59"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11828",
@@ -23069,7 +23129,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11815",
@@ -23166,7 +23226,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:27"
+    "shipping_scraped_at": "27/10/2026 03:27:01"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11814",
@@ -23242,7 +23302,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:25"
+    "shipping_scraped_at": "27/10/2026 03:27:02"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11810",
@@ -23318,7 +23378,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:29"
+    "shipping_scraped_at": "27/10/2026 03:27:04"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11809",
@@ -23394,7 +23454,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:27"
+    "shipping_scraped_at": "27/10/2026 03:27:04"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11804",
@@ -23482,7 +23542,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:32"
+    "shipping_scraped_at": "27/10/2026 03:27:06"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11803",
@@ -23557,7 +23617,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:29"
+    "shipping_scraped_at": "27/10/2026 03:27:06"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11795",
@@ -23633,7 +23693,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:34"
+    "shipping_scraped_at": "27/10/2026 03:27:08"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11791",
@@ -23745,7 +23805,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:32"
+    "shipping_scraped_at": "27/10/2026 03:27:09"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11790",
@@ -23814,7 +23874,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11788",
@@ -23883,7 +23943,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11789",
@@ -23928,7 +23988,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11787",
@@ -24052,7 +24112,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:37"
+    "shipping_scraped_at": "27/10/2026 03:27:10"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11786",
@@ -24097,7 +24157,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11785",
@@ -24215,7 +24275,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:34"
+    "shipping_scraped_at": "27/10/2026 03:27:11"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11784",
@@ -24284,7 +24344,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11783",
@@ -24392,7 +24452,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:39"
+    "shipping_scraped_at": "27/10/2026 03:27:12"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11782",
@@ -24468,7 +24528,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:38"
+    "shipping_scraped_at": "27/10/2026 03:27:14"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11781",
@@ -24543,7 +24603,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:41"
+    "shipping_scraped_at": "27/10/2026 03:27:14"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11780",
@@ -24619,7 +24679,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:41"
+    "shipping_scraped_at": "27/10/2026 03:27:16"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11770",
@@ -24695,7 +24755,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:44"
+    "shipping_scraped_at": "27/10/2026 03:27:16"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11766",
@@ -24783,7 +24843,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:43"
+    "shipping_scraped_at": "27/10/2026 03:27:19"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11763",
@@ -24859,7 +24919,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:46"
+    "shipping_scraped_at": "27/10/2026 03:27:18"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11761",
@@ -24959,7 +25019,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:48"
+    "shipping_scraped_at": "27/10/2026 03:27:21"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11762",
@@ -25035,7 +25095,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:45"
+    "shipping_scraped_at": "27/10/2026 03:27:21"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11759",
@@ -25111,7 +25171,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:50"
+    "shipping_scraped_at": "27/10/2026 03:27:23"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11760",
@@ -25187,7 +25247,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:47"
+    "shipping_scraped_at": "27/10/2026 03:27:23"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11758",
@@ -25232,7 +25292,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11757",
@@ -25308,7 +25368,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:50"
+    "shipping_scraped_at": "27/10/2026 03:27:25"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11756",
@@ -25413,7 +25473,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:53"
+    "shipping_scraped_at": "27/10/2026 03:27:25"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11742",
@@ -25468,7 +25528,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11740",
@@ -25523,7 +25583,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11739",
@@ -25599,7 +25659,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:52"
+    "shipping_scraped_at": "27/10/2026 03:27:27"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11738",
@@ -25675,7 +25735,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:57"
+    "shipping_scraped_at": "27/10/2026 03:27:29"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11737",
@@ -25751,7 +25811,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:54"
+    "shipping_scraped_at": "27/10/2026 03:27:29"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11736",
@@ -25839,7 +25899,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:59"
+    "shipping_scraped_at": "27/10/2026 03:27:31"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11727",
@@ -25945,7 +26005,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:08:56"
+    "shipping_scraped_at": "27/10/2026 03:27:31"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11726",
@@ -25990,7 +26050,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11723",
@@ -26133,7 +26193,7 @@
         "tracking_numbers": []
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:01"
+    "shipping_scraped_at": "27/10/2026 03:27:33"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11713",
@@ -26230,7 +26290,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:01"
+    "shipping_scraped_at": "27/10/2026 03:27:35"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11711",
@@ -26316,7 +26376,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:06"
+    "shipping_scraped_at": "27/10/2026 03:27:37"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11708",
@@ -26373,7 +26433,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11707",
@@ -26449,7 +26509,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:03"
+    "shipping_scraped_at": "27/10/2026 03:27:37"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11706",
@@ -26525,7 +26585,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:08"
+    "shipping_scraped_at": "27/10/2026 03:27:39"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11699",
@@ -26649,7 +26709,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:05"
+    "shipping_scraped_at": "27/10/2026 03:27:40"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11696",
@@ -26706,7 +26766,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11695",
@@ -26787,7 +26847,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11694",
@@ -26875,7 +26935,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:10"
+    "shipping_scraped_at": "27/10/2026 03:27:41"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11693",
@@ -26951,7 +27011,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:08"
+    "shipping_scraped_at": "27/10/2026 03:27:42"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11692",
@@ -26996,7 +27056,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11690",
@@ -27072,7 +27132,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:12"
+    "shipping_scraped_at": "27/10/2026 03:27:43"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11689",
@@ -27117,7 +27177,7 @@
         "tracking_numbers": []
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:10"
+    "shipping_scraped_at": "27/10/2026 03:27:44"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11683",
@@ -27193,7 +27253,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:15"
+    "shipping_scraped_at": "27/10/2026 03:27:45"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11682",
@@ -27269,7 +27329,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:10"
+    "shipping_scraped_at": "27/10/2026 03:27:44"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11681",
@@ -27357,7 +27417,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:17"
+    "shipping_scraped_at": "27/10/2026 03:27:48"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11680",
@@ -27402,7 +27462,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11676",
@@ -27478,7 +27538,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:13"
+    "shipping_scraped_at": "27/10/2026 03:27:47"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11670",
@@ -27554,7 +27614,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:19"
+    "shipping_scraped_at": "27/10/2026 03:27:50"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11669",
@@ -27642,7 +27702,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:15"
+    "shipping_scraped_at": "27/10/2026 03:27:49"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11668",
@@ -27760,7 +27820,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:22"
+    "shipping_scraped_at": "27/10/2026 03:27:52"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11666",
@@ -27836,7 +27896,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:17"
+    "shipping_scraped_at": "27/10/2026 03:27:51"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11663",
@@ -27924,7 +27984,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:26"
+    "shipping_scraped_at": "27/10/2026 03:27:56"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11662",
@@ -28012,7 +28072,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:19"
+    "shipping_scraped_at": "27/10/2026 03:27:53"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11661",
@@ -28088,7 +28148,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:28"
+    "shipping_scraped_at": "27/10/2026 03:27:58"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11646",
@@ -28133,7 +28193,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11645",
@@ -28245,7 +28305,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:22"
+    "shipping_scraped_at": "27/10/2026 03:27:55"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11644",
@@ -28333,7 +28393,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:31"
+    "shipping_scraped_at": "27/10/2026 03:28:00"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11643",
@@ -28390,7 +28450,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11642",
@@ -28466,7 +28526,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:24"
+    "shipping_scraped_at": "27/10/2026 03:27:57"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11641",
@@ -28511,7 +28571,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11640",
@@ -28568,7 +28628,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11639",
@@ -28625,7 +28685,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11638",
@@ -28700,7 +28760,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:33"
+    "shipping_scraped_at": "27/10/2026 03:28:02"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11636",
@@ -28776,7 +28836,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:35"
+    "shipping_scraped_at": "27/10/2026 03:28:04"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11637",
@@ -28852,7 +28912,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:27"
+    "shipping_scraped_at": "27/10/2026 03:27:59"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11635",
@@ -28928,7 +28988,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:29"
+    "shipping_scraped_at": "27/10/2026 03:28:02"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11630",
@@ -28973,7 +29033,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11591",
@@ -29061,7 +29121,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:38"
+    "shipping_scraped_at": "27/10/2026 03:28:06"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11590",
@@ -29118,7 +29178,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11588",
@@ -29194,7 +29254,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:31"
+    "shipping_scraped_at": "27/10/2026 03:28:04"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11584",
@@ -29366,7 +29426,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:40"
+    "shipping_scraped_at": "27/10/2026 03:28:09"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11580",
@@ -29466,7 +29526,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:34"
+    "shipping_scraped_at": "27/10/2026 03:28:06"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11578",
@@ -29541,7 +29601,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:46"
+    "shipping_scraped_at": "27/10/2026 03:28:14"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11576",
@@ -29659,7 +29719,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:36"
+    "shipping_scraped_at": "27/10/2026 03:28:08"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11575",
@@ -29807,7 +29867,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:48"
+    "shipping_scraped_at": "27/10/2026 03:28:16"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11572",
@@ -29883,7 +29943,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:40"
+    "shipping_scraped_at": "27/10/2026 03:28:12"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11571",
@@ -29958,7 +30018,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:51"
+    "shipping_scraped_at": "27/10/2026 03:28:18"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11565",
@@ -30034,7 +30094,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:42"
+    "shipping_scraped_at": "27/10/2026 03:28:14"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11564",
@@ -30103,7 +30163,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11563",
@@ -30179,7 +30239,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:53"
+    "shipping_scraped_at": "27/10/2026 03:28:20"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11559",
@@ -30291,7 +30351,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:45"
+    "shipping_scraped_at": "27/10/2026 03:28:16"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11558",
@@ -30379,7 +30439,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:55"
+    "shipping_scraped_at": "27/10/2026 03:28:23"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11557",
@@ -30448,7 +30508,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11556",
@@ -30578,7 +30638,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:47"
+    "shipping_scraped_at": "27/10/2026 03:28:18"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11544",
@@ -30666,7 +30726,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:57"
+    "shipping_scraped_at": "27/10/2026 03:28:25"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11542",
@@ -30742,7 +30802,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:51"
+    "shipping_scraped_at": "27/10/2026 03:28:22"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11541",
@@ -30830,7 +30890,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:10:00"
+    "shipping_scraped_at": "27/10/2026 03:28:27"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11540",
@@ -30930,7 +30990,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:53"
+    "shipping_scraped_at": "27/10/2026 03:28:24"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11539",
@@ -31204,7 +31264,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:10:02"
+    "shipping_scraped_at": "27/10/2026 03:28:29"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11535",
@@ -31292,7 +31352,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:56"
+    "shipping_scraped_at": "27/10/2026 03:28:26"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11534",
@@ -31380,7 +31440,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:10:13"
+    "shipping_scraped_at": "27/10/2026 03:28:39"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11533",
@@ -31492,7 +31552,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:09:58"
+    "shipping_scraped_at": "27/10/2026 03:28:28"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11532",
@@ -31580,7 +31640,7 @@
         ]
       }
     ],
-    "shipping_scraped_at": "27/10/2026 03:10:15"
+    "shipping_scraped_at": "27/10/2026 03:28:41"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11531",
@@ -31624,7 +31684,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11529",
@@ -31845,7 +31905,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11517",
@@ -32914,7 +32974,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11494",
@@ -32971,7 +33031,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11493",
@@ -33028,7 +33088,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11492",
@@ -33073,7 +33133,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11491",
@@ -33387,7 +33447,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11487",
@@ -33444,7 +33504,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11486",
@@ -33501,7 +33561,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11483",
@@ -33558,7 +33618,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11467",
@@ -33815,7 +33875,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11464",
@@ -34994,7 +35054,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11448",
@@ -35115,7 +35175,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11446",
@@ -35196,7 +35256,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11444",
@@ -35240,7 +35300,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11438",
@@ -35308,7 +35368,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11437",
@@ -35389,7 +35449,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11435",
@@ -35458,7 +35518,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11434",
@@ -35563,7 +35623,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11433",
@@ -35992,7 +36052,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11429",
@@ -36277,7 +36337,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11422",
@@ -37574,7 +37634,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11387",
@@ -37619,7 +37679,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11386",
@@ -37987,7 +38047,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11370",
@@ -38032,7 +38092,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11369",
@@ -38948,7 +39008,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11363",
@@ -39165,7 +39225,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11360",
@@ -41008,7 +41068,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11337",
@@ -41053,7 +41113,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11336",
@@ -41185,7 +41245,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11334",
@@ -41240,7 +41300,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11333",
@@ -41382,7 +41442,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11331",
@@ -41439,7 +41499,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11310",
@@ -41956,7 +42016,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11283",
@@ -43658,7 +43718,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11262",
@@ -44186,7 +44246,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11255",
@@ -44285,7 +44345,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11254",
@@ -44975,7 +45035,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11223",
@@ -45524,7 +45584,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11207",
@@ -45581,7 +45641,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11205",
@@ -45927,7 +45987,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11200",
@@ -46311,7 +46371,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11177",
@@ -46368,7 +46428,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11174",
@@ -46608,7 +46668,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11152",
@@ -46773,7 +46833,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11151",
@@ -46843,7 +46903,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11150",
@@ -46936,7 +46996,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11149",
@@ -46981,7 +47041,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11148",
@@ -47675,7 +47735,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11140",
@@ -47837,7 +47897,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11136",
@@ -48056,7 +48116,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11133",
@@ -48101,7 +48161,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11132",
@@ -48146,7 +48206,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11131",
@@ -48191,7 +48251,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11129",
@@ -48668,7 +48728,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11122",
@@ -49412,7 +49472,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11102",
@@ -50137,7 +50197,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11093",
@@ -51121,7 +51181,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11083",
@@ -51253,7 +51313,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11078",
@@ -51741,7 +51801,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11076",
@@ -51860,7 +51920,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11074",
@@ -52130,7 +52190,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11070",
@@ -52250,7 +52310,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11068",
@@ -52445,7 +52505,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11065",
@@ -54276,7 +54336,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11040",
@@ -54688,7 +54748,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11035",
@@ -54980,7 +55040,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11029",
@@ -55036,7 +55096,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11028",
@@ -55117,7 +55177,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11022",
@@ -55771,7 +55831,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10980",
@@ -55891,7 +55951,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10978",
@@ -55936,7 +55996,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10976",
@@ -56305,7 +56365,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10966",
@@ -56809,7 +56869,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10943",
@@ -56854,7 +56914,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10942",
@@ -57017,7 +57077,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10936",
@@ -58072,7 +58132,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10922",
@@ -58707,7 +58767,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10912",
@@ -58977,7 +59037,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10908",
@@ -59517,7 +59577,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10898",
@@ -59752,7 +59812,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10883",
@@ -59797,7 +59857,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10879",
@@ -60257,7 +60317,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10874",
@@ -61169,7 +61229,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10858",
@@ -61943,7 +62003,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10850",
@@ -62105,7 +62165,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10843",
@@ -62235,7 +62295,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10837",
@@ -62290,7 +62350,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10838",
@@ -62484,7 +62544,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10834",
@@ -63277,7 +63337,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10817",
@@ -63334,7 +63394,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10816",
@@ -63520,7 +63580,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10814",
@@ -63589,7 +63649,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10813",
@@ -63901,7 +63961,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10810",
@@ -64255,7 +64315,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10780",
@@ -64300,7 +64360,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10779",
@@ -64517,7 +64577,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10776",
@@ -64562,7 +64622,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10775",
@@ -65060,7 +65120,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10769",
@@ -65629,7 +65689,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10763",
@@ -65674,7 +65734,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10758",
@@ -67253,7 +67313,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10699",
@@ -67403,7 +67463,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10696",
@@ -69843,7 +69903,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10657",
@@ -70443,7 +70503,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10651",
@@ -70914,7 +70974,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10646",
@@ -71046,7 +71106,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10643",
@@ -71139,7 +71199,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10642",
@@ -71184,7 +71244,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10640",
@@ -71241,7 +71301,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10641",
@@ -71332,7 +71392,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10639",
@@ -71401,7 +71461,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10638",
@@ -71446,7 +71506,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10636",
@@ -71491,7 +71551,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10637",
@@ -71536,7 +71596,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10635",
@@ -71617,7 +71677,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10630",
@@ -71722,7 +71782,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10629",
@@ -72206,7 +72266,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10626",
@@ -72326,7 +72386,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10624",
@@ -72371,7 +72431,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10623",
@@ -72869,7 +72929,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10610",
@@ -73001,7 +73061,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10608",
@@ -73427,7 +73487,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10604",
@@ -73472,7 +73532,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10603",
@@ -73517,7 +73577,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10602",
@@ -73562,7 +73622,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10601",
@@ -73607,7 +73667,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10600",
@@ -73652,7 +73712,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10599",
@@ -73697,7 +73757,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10598",
@@ -73754,7 +73814,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10597",
@@ -73898,7 +73958,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10574",
@@ -74018,7 +74078,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10557",
@@ -74063,7 +74123,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10556",
@@ -74108,7 +74168,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10555",
@@ -74165,7 +74225,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10554",
@@ -74210,7 +74270,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10553",
@@ -74316,7 +74376,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10552",
@@ -74361,7 +74421,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10551",
@@ -74406,7 +74466,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10549",
@@ -74451,7 +74511,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10550",
@@ -74496,7 +74556,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10548",
@@ -74541,7 +74601,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10547",
@@ -74634,7 +74694,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10545",
@@ -74679,7 +74739,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10543",
@@ -74724,7 +74784,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10546",
@@ -74769,7 +74829,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10544",
@@ -74814,7 +74874,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10542",
@@ -75074,7 +75134,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10540",
@@ -75119,7 +75179,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10539",
@@ -75163,7 +75223,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10537",
@@ -75253,7 +75313,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10538",
@@ -75322,7 +75382,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10535",
@@ -75534,7 +75594,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10536",
@@ -75603,7 +75663,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10534",
@@ -75683,7 +75743,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10507",
@@ -76032,7 +76092,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10502",
@@ -76150,7 +76210,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10494",
@@ -76269,7 +76329,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10492",
@@ -77002,7 +77062,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10479",
@@ -78828,7 +78888,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10434",
@@ -78885,7 +78945,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10433",
@@ -79052,7 +79112,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10409",
@@ -79492,7 +79552,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10406",
@@ -79903,7 +79963,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10391",
@@ -80047,7 +80107,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10389",
@@ -80116,7 +80176,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10388",
@@ -80284,7 +80344,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10386",
@@ -80329,7 +80389,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10385",
@@ -80747,7 +80807,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10376",
@@ -81066,7 +81126,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10374",
@@ -81111,7 +81171,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10373",
@@ -81167,7 +81227,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10372",
@@ -81329,7 +81389,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10361",
@@ -83550,7 +83610,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10293",
@@ -84427,7 +84487,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10287",
@@ -84614,7 +84674,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10268",
@@ -85194,7 +85254,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10251",
@@ -86283,7 +86343,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10142",
@@ -86582,7 +86642,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10138",
@@ -86639,7 +86699,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10137",
@@ -86783,7 +86843,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10135",
@@ -87574,7 +87634,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10127",
@@ -87618,7 +87678,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10126",
@@ -87662,7 +87722,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10125",
@@ -87780,7 +87840,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10121",
@@ -87899,7 +87959,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10091",
@@ -88091,7 +88151,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10089",
@@ -88294,7 +88354,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10084",
@@ -88484,7 +88544,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10081",
@@ -88726,7 +88786,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10069",
@@ -89160,7 +89220,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10064",
@@ -89807,7 +89867,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10055",
@@ -90111,7 +90171,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9998",
@@ -91083,7 +91143,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9987",
@@ -91595,7 +91655,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9972",
@@ -91820,7 +91880,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9958",
@@ -91877,7 +91937,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9957",
@@ -91921,7 +91981,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9956",
@@ -91965,7 +92025,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9953",
@@ -92010,7 +92070,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9952",
@@ -92055,7 +92115,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9951",
@@ -92099,7 +92159,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9949",
@@ -92231,7 +92291,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9938",
@@ -92286,7 +92346,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9937",
@@ -92629,7 +92689,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9932",
@@ -92674,7 +92734,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9931",
@@ -92731,7 +92791,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9929",
@@ -92776,7 +92836,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9927",
@@ -93563,7 +93623,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9864",
@@ -93778,7 +93838,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9862",
@@ -95304,7 +95364,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9825",
@@ -95373,7 +95433,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9824",
@@ -95451,7 +95511,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9823",
@@ -95550,7 +95610,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9822",
@@ -95629,7 +95689,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9754",
@@ -95770,7 +95830,7 @@
         "tracking_numbers": []
       }
     ],
-    "status_scraped_at": "2026-10-27T03:00:59.293879"
+    "status_scraped_at": "2026-10-27T03:20:33.769945"
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/9749",
