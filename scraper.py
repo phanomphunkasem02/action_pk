@@ -231,9 +231,10 @@ class PKCargoScraper:
         try:
             self.driver.get(f"{BASE_URL}/login")
             wait = WebDriverWait(self.driver, 20)
-            wait.until(EC.presence_of_element_located((By.NAME, "email")))
-
-            self.driver.find_element(By.NAME, "email").send_keys(email)
+            login_field = wait.until(EC.visibility_of_element_located(
+                (By.CSS_SELECTOR, "input[name='login'], input[name='email']")
+            ))
+            login_field.send_keys(email)
             self.driver.find_element(By.NAME, "password").send_keys(password)
             self.driver.find_element(By.CSS_SELECTOR, "button[type='submit']").click()
 
